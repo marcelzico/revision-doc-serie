@@ -1,0 +1,120 @@
+# CAS CLINIQUES : ABCÈS DU FOIE
+
+Chapitre: Abcès du foie
+Chemin source: 5ème année\Gastro-entérologie chirurgicale\Abcès du foie.docx
+--------------------------------------------------
+
+CAS CLINIQUE 1
+================
+
+ÉNONCÉ
+
+Un homme consulte pour une douleur anale permanente et continue, aggravée par la défécation. Il présente une fièvre d’intensité variable. À l’inspection, on retrouve une tuméfaction rose et luisante de la région péri-anale. Le toucher péri-anal retrouve une induration douloureuse et le déplissement de la région fait sourdre du pus.
+
+QUESTION 1
+Quel est le diagnostic le plus probable ?
+
+QUESTION 2
+Quels éléments cliniques orientent vers ce diagnostic ?
+
+QUESTION 3
+Quel est le caractère urgent de la prise en charge ?
+
+QUESTION 4
+Quel traitement chirurgical doit être réalisé ?
+
+CORRIGÉ
+=======
+
+QUESTION 1
+Réponse : Un abcès péri-anal.
+
+Explication : La douleur anale permanente, la fièvre, la tuméfaction inflammatoire, l’induration et l’écoulement de pus sont caractéristiques du tableau clinique décrit dans le cours.
+
+QUESTION 2
+Réponse : La fièvre, la douleur anale permanente aggravée par la défécation, la tuméfaction rose et luisante, l’induration péri-anale et l’écoulement de pus.
+
+Explication : L’association des signes généraux, fonctionnels et physiques permet d'orienter vers un abcès péri-anal.
+
+QUESTION 3
+Réponse : L’abcès péri-anal constitue une urgence chirurgicale.
+
+Explication : L’absence de traitement peut entraîner des dégâts sphinctériens compromettant le pronostic anal.
+
+QUESTION 4
+Réponse : Une mise à plat de l’abcès par incision radiée en pleine collection, suivie du drainage.
+
+Explication : Le traitement vise à évacuer rapidement la collection abcédée.
+
+
+CAS CLINIQUE 2
+================
+
+ÉNONCÉ
+
+Un patient présente depuis plusieurs semaines un écoulement anal glaireux et purulent, rythmé par la défécation. L’examen retrouve un orifice externe au niveau d’un trou cicatriciel, avec écoulement de pus. Le toucher anal retrouve un orifice interne au niveau des cryptes. L’anuscopie objective cet orifice interne au niveau de la ligne pectinée.
+
+QUESTION 1
+Quel est le diagnostic le plus probable ?
+
+QUESTION 2
+Quels éléments cliniques permettent d’orienter vers ce diagnostic ?
+
+QUESTION 3
+Quel examen paraclinique peut préciser le trajet fistuleux ?
+
+QUESTION 4
+Quel est le traitement chirurgical habituel ?
+
+QUESTION 5
+Quelle technique peut être utilisée en cas de fistule trans-sphinctérienne ?
+
+CORRIGÉ
+=======
+
+QUESTION 1
+Réponse : Une fistule péri-anale.
+
+Explication : L’écoulement chronique rythmé par la défécation associé à un orifice externe et un orifice interne est caractéristique d’une fistule péri-anale.
+
+QUESTION 2
+Réponse : L’écoulement anal glaireux ou purulent rythmé par la défécation, l’orifice externe au niveau d’un trou cicatriciel et l’orifice interne situé au niveau des cryptes et de la ligne pectinée.
+
+Explication : La présence de deux orifices reliés par un trajet fistuleux constitue l’élément anatomopathologique essentiel.
+
+QUESTION 3
+Réponse : La fistulographie.
+
+Explication : Elle permet d’objectiver la communication avec le canal anal et de visualiser le trajet fistuleux.
+
+QUESTION 4
+Réponse : Une fistulectomie.
+
+Explication : Le traitement chirurgical de la fistule péri-anale consiste à réséquer le trajet fistuleux.
+
+QUESTION 5
+Réponse : Une section élastique à tension progressive.
+
+Explication : Cette technique permet une résection lente du trajet fistuleux dans les fistules trans-sphinctériennes.
+
+CAS CLINIQUE – Abcès du foie
+
+Un homme de 45 ans présente depuis 10 jours une fièvre élevée avec frissons, une douleur de l’hypochondre droit, une anorexie et un amaigrissement. L’examen trouve une hépatomégalie sensible. L’échographie montre une collection liquidienne du lobe droit du foie.
+
+1. Quels sont les deux grands types d’abcès du foie à évoquer ?
+2. Quelles sont les voies possibles d’envahissement du parenchyme hépatique ?
+3. Quel est l’examen d’imagerie le plus sensible ?
+4. Quels sont les principes du traitement d’un abcès pyogénique ?
+5. Quel est le traitement de première intention d’un abcès amibien non compliqué ?
+
+Réponses attendues :
+
+1. Abcès pyogénique et abcès amibien.
+
+2. Système porte, voies biliaires, artère hépatique, extension de voisinage, traumatisme.
+
+3. Le scanner (sensibilité 95-100 %).
+
+4. Antibiothérapie IV adaptée + drainage (percutané ou chirurgical) après 1-2 jours d’antibiotiques.
+
+5. Métronidazole 750 mg × 3/j pendant 1 à 2 semaines.

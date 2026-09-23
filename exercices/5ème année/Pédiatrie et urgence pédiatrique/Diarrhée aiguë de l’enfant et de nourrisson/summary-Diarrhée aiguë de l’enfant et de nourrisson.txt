@@ -1,0 +1,25 @@
+# CAS CLINIQUES : DIARRHÉE AIGUË DE L’ENFANT ET DE NOURRISSON
+
+Chapitre: Diarrhée aiguë de l’enfant et de nourrisson
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Diarrhée aiguë de l’enfant et de nourrisson.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Diarrhée aiguë
+
+Un nourrisson de 8 mois est amené pour des selles liquides abondantes (8/j) depuis 36 heures, associées à des vomissements. Poids antérieur 8,2 kg, poids actuel 7,6 kg. Il est irritable, a les yeux légèrement enfoncés, boit avidement, pli cutané qui s’efface lentement. Pas de fièvre, pas de sang dans les selles.
+
+Questions :
+1. Quel est le pourcentage de perte de poids et quelle est la sévérité de la déshydratation ?
+2. Quel plan de réhydratation instituez-vous et comment ?
+3. Quels traitements adjuvants systématiques prescrivez-vous ?
+4. Quels examens complémentaires demandez-vous ?
+5. Quels signes de gravité surveillez-vous ?
+6. Quels conseils donnez-vous aux parents à la sortie ?
+
+Réponses attendues :
+1. Perte de poids ≈ 7,3 % → déshydratation modérée.
+2. Plan B : SRO 75 ml/kg en 4 heures (cuillère ou gobelet, ou SNG si besoin).
+3. Zinc 20 mg/j pendant 10-14 jours + poursuite de l’alimentation (lait maternel ou lait habituel).
+4. Aucun examen systématique ; ionogramme seulement si évolution défavorable.
+5. Aggravation de la déshydratation, refus de boire, léthargie, signes de choc.
+6. Poursuite du SRO à chaque selle liquide, zinc, reconsultation si aggravation ou fièvre.

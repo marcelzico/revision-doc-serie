@@ -1,0 +1,36 @@
+# CAS CLINIQUES : MALADIE DES EMBOLES DE CHOLESTEROL
+
+Chapitre: Maladie des emboles de cholesterol
+Chemin source: 5ème année\Néphrologie\Maladie des emboles de cholesterol.docx
+--------------------------------------------------
+
+"Cas clinique – Maladie des emboles de cholestérol"
+
+Un homme de 72 ans, tabagique, diabétique et coronarien, a bénéficié d’une coronarographie il y a 3 semaines. Il est hospitalisé pour une insuffisance rénale d’installation progressive (créatininémie passée de 90 à 280 µmol/l) associée à une HTA sévère (190/110 mmHg) et à des orteils pourpres douloureux. 
+
+Examen : livedo réticulaire des membres inférieurs, orteils bleutés froids, fond d’œil montrant des plaques jaune-orangé réfringentes. 
+
+Bilan : éosinophilie modérée, complément normal, pas de schizocytes.
+
+Questions :
+
+1. Quel diagnostic évoquez-vous en priorité ?
+2. Quels éléments de la triade diagnostique sont présents ?
+3. Quel est le facteur déclenchant dans ce cas ?
+4. Quels sont les diagnostics différentiels à écarter ?
+5. Quelle prise en charge proposez-vous ?
+
+Réponses :
+
+1. Maladie des emboles de cholestérol (athéro-embolique).
+
+2. Facteur déclenchant (coronarographie), insuffisance rénale progressive et signes cutanés + emboles rétiniens spécifiques.
+
+3. La coronarographie réalisée 3 semaines plus tôt (délai typique de 8 jours à 8 semaines).
+
+4. Embolies cardiaques, endocardite infectieuse et nécrose tubulaire aiguë post-contraste (cette dernière survient dans les 48 heures).
+
+5. Contrôle strict de l’HTA, statine à forte dose, soutien de la fonction rénale (dialyse si nécessaire), éviction de tout nouveau geste endovasculaire et surveillance évolutive.
+
+Explication pédagogique :  
+Cas très classique après un geste endovasculaire, illustrant la triade diagnostique et l’absence de traitement spécifique autre que la stabilisation des plaques et le traitement symptomatique.

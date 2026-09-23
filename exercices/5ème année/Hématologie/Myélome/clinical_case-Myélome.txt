@@ -1,0 +1,27 @@
+# CAS CLINIQUES : MYÉLOME
+
+Chapitre: Myélome
+Chemin source: 5ème année\Hématologie\Myélome.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Myélome multiple
+
+Un homme de 68 ans présente des douleurs osseuses rebelles, une anémie et une VS très élevée. L’électrophorèse des protéines montre un pic monoclonal IgG. Le myélogramme retrouve 25 % de plasmocytes pathologiques.
+
+1. Quel est le diagnostic ?
+2. Quels sont les trois arguments diagnostiques majeurs ?
+3. Qu’est-ce que la protéinurie de Bence-Jones ?
+4. Quel protocole de chimiothérapie proposez-vous à cet âge ?
+5. Quelles complications faut-il surveiller ?
+
+Réponses attendues :
+
+1. Myélome multiple.
+
+2. Plasmocytose médullaire > 10 %, immunoglobuline monoclonale, lésions osseuses.
+
+3. Chaînes légères monoclonales urinaires précipitant à 50 °C et se redissolvant à l’ébullition.
+
+4. MPT (Melphalan-Prednisone-Thalidomide) avec prévention thrombotique.
+
+5. Insuffisance rénale, compressions neurologiques, infections, hémorragies, insuffisance médullaire.

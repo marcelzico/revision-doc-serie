@@ -1,0 +1,41 @@
+# CAS CLINIQUES : SYNDROME HEMOLYTIQUE ET UREMIQUE (SHU)
+
+Chapitre: Syndrome hemolytique et uremique (shu)
+Chemin source: 5ème année\Néphrologie\Syndrome hemolytique et uremique (shu).docx
+--------------------------------------------------
+
+"Cas clinique – Syndrome hémolytique et urémique"
+
+Un enfant de 2 ans et demi présente depuis 5 jours une diarrhée sanglante. Depuis 48 heures il est oligurique, pâle et irritable. 
+
+Examen : PA 130/85 mmHg, pâleur intense, œdèmes des paupières. 
+
+Bilan :
+- Créatininémie = 320 µmol/l
+- Hémoglobine = 7,2 g/dl avec nombreux schizocytes
+- Plaquettes = 45 000/mm³
+- LDH très élevées
+- Coproculture en cours
+
+Questions :
+
+1. Quel diagnostic syndromique posez-vous ?
+2. Quelle est la forme clinique la plus probable et son agent causal habituel ?
+3. Quels sont les éléments de la triade biologique ?
+4. Quelle est la prise en charge immédiate ?
+5. Quel est le pronostic habituel chez l’enfant ?
+
+Réponses :
+
+1. Syndrome hémolytique et urémique (insuffisance rénale + anémie hémolytique mécanique + thrombopénie).
+
+2. SHU typique post-diarrhéique, lié le plus souvent à Escherichia coli producteur de shigatoxine (O157:H7).
+
+3. Anémie régénérative avec schizocytes, thrombopénie et insuffisance rénale.
+
+4. Hospitalisation, contrôle strict de la tension artérielle et de la volémie, dialyse si anurie ou troubles métaboliques sévères, transfusions prudentes si nécessaire ; pas d’antibiotique systématique.
+
+5. Pronostic rénal globalement favorable chez l’enfant (récupération fréquente), contrairement à l’adulte où le risque d’IRCT est élevé.
+
+Explication pédagogique :  
+Cas classique de SHU typique du petit enfant, illustrant la triade, le lien avec la diarrhée à shigatoxine et le traitement symptomatique (points essentiels des QE).

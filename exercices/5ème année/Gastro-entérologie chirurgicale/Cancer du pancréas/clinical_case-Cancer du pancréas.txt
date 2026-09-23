@@ -1,0 +1,27 @@
+# CAS CLINIQUES : CANCER DU PANCRÉAS
+
+Chapitre: Cancer du pancréas
+Chemin source: 5ème année\Gastro-entérologie chirurgicale\Cancer du pancréas.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Cancer du pancréas
+
+Un homme de 62 ans présente un ictère progressif indolore, un prurit, des selles décolorées et un amaigrissement important. L’examen trouve une grosse vésicule palpable.
+
+1. Quel siège tumoral évoquez-vous en priorité ?
+2. Quels marqueurs tumoraux dosez-vous ?
+3. Quels examens d’imagerie demandez-vous ?
+4. Dans quelles conditions un traitement curatif est-il envisageable ?
+5. Quels sont les moyens du traitement palliatif ?
+
+Réponses attendues :
+
+1. Cancer de la tête du pancréas.
+
+2. CA 19-9, ACE, CA 125.
+
+3. Échographie, TDM injectée, écho-endoscopie.
+
+4. Tumeur < 5 cm, sans envahissement des organes de voisinage ni métastase, patient en bon état général.
+
+5. Antalgiques, dérivation biliaire/digestive, prothèse biliaire, radiothérapie antalgique, chimiothérapie.

@@ -1,0 +1,27 @@
+# CAS CLINIQUES : ANÉMIE PAR INSUFFISANCE MÉDULLAIRE
+
+Chapitre: Anémie par insuffisance médullaire
+Chemin source: 5ème année\Hématologie\Anémie par insuffisance médullaire.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Aplasie médullaire
+
+Un homme de 40 ans présente une pâleur, des ecchymoses et une fièvre. NFS : Hb 7 g/dl, PNN 400/mm³, plaquettes 15 000/mm³, réticulocytes bas. Médullogramme pauvre.
+
+1. Quel est le diagnostic ?
+2. Quels syndromes cliniques présente-t-il ?
+3. Quelles étiologies recherchez-vous en priorité ?
+4. Quel est le traitement symptomatique immédiat ?
+5. Quels traitements de fond envisagez-vous ?
+
+Réponses attendues :
+
+1. Aplasie médullaire (pancytopénie arégénérative).
+
+2. Syndrome anémique + hémorragique + infectieux.
+
+3. Toxiques, envahissement, infections, forme primitive.
+
+4. Transfusions (culots + plaquettes), antibiothérapie, isolement.
+
+5. Arrêt du toxique, immunosuppresseurs ou greffe selon le contexte.

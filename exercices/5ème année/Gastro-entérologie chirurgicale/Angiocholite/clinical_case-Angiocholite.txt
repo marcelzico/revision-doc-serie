@@ -1,0 +1,27 @@
+# CAS CLINIQUES : ANGIOCHOLITE
+
+Chapitre: Angiocholite
+Chemin source: 5ème année\Gastro-entérologie chirurgicale\Angiocholite.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Angiocholite
+
+Une femme de 55 ans, connue pour une lithiase vésiculaire, présente brutalement une douleur de l’hypochondre droit, suivie d’une fièvre à 40 °C avec frissons, puis d’un ictère dans les 24 heures.
+
+1. Quel est le diagnostic le plus probable ?
+2. Quelle est la triade clinique caractéristique ?
+3. Quels examens d’imagerie demandez-vous ?
+4. Quels sont les deux objectifs du traitement ?
+5. Quelle est la conduite à tenir selon l’état général du patient ?
+
+Réponses attendues :
+
+1. Angiocholite (sur lithiase cholédocienne).
+
+2. Triade de Charcot : douleur → fièvre avec frissons → ictère.
+
+3. Échographie abdominale, écho-endoscopie, et éventuellement cholangiographie rétrograde endoscopique.
+
+4. Désobstruer la voie biliaire principale et prévenir les migrations calculeuses ultérieures.
+
+5. Toujours traitement médical (réanimation + antibiotiques). Si patient en bon état général → chirurgie. Si patient fragile → sphinctérotomie endoscopique.

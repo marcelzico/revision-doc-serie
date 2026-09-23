@@ -1,0 +1,25 @@
+# CAS CLINIQUES : INFECTION NÉONATALES BACTÉRIENNES PRÉCOCES (INBP)
+
+Chapitre: Infection néonatales bactériennes précoces (INBP)
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Infection néonatales bactériennes précoces (INBP).docx
+--------------------------------------------------
+
+CAS CLINIQUE – Infection néonatale bactérienne précoce
+
+Vous êtes appelé pour un nouveau-né de 34 SA, 2 100 g, né après une rupture des membranes de 18 heures. La mère a présenté une fièvre à 38,7 °C en per-partum. À H6 de vie l’enfant est geignard, teint gris, FR 70/min, TRC 4 s, température 36,2 °C.
+
+Questions :
+1. Quels facteurs de risque d’INBP identifiez-vous ?
+2. Quels signes cliniques de gravité relevez-vous ?
+3. Quels examens demandez-vous en urgence ?
+4. Quelle antibiothérapie probabiliste instituez-vous ?
+5. Quelle est la durée de traitement si une méningite est confirmée ?
+6. Quelles mesures générales associez-vous ?
+
+Réponses attendues :
+1. Prématurité, RPM > 12 h, fièvre maternelle per-partum.
+2. Teint gris, hypothermie, détresse respiratoire, TRC allongé (choc).
+3. NFS, CRP, hémocultures, PL, radiographie thoracique, glycémie.
+4. Ampicilline + céfotaxime ± gentamicine.
+5. 21 jours.
+6. Hospitalisation, réchauffement, oxygène, remplissage si besoin, surveillance continue, apport calorique.

@@ -1,0 +1,27 @@
+# CAS CLINIQUES : MALADIE DE VAQUEZ
+
+Chapitre: Maladie de vaquez
+Chemin source: 5ème année\Hématologie\Maladie de vaquez.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Maladie de Vaquez
+
+Un homme de 55 ans présente une érythrose faciale, des céphalées et un hématocrite à 58 %. L’hémogramme confirme une polyglobulie. La mutation JAK2 est positive.
+
+1. Quel est le diagnostic ?
+2. Quels sont les arguments biologiques du diagnostic ?
+3. Quels sont les buts du traitement ?
+4. Quelle est la place de la saignée ?
+5. Quels traitements de fond peut-on proposer ?
+
+Réponses attendues :
+
+1. Maladie de Vaquez (polyglobulie vraie).
+
+2. Augmentation GR/Hb/Hte, hyperplasie érythroblastique, poussée indépendante de l’EPO, mutation JAK2, masse sanguine augmentée.
+
+3. Prévenir les thromboses et diminuer la production érythrocytaire.
+
+4. Saignées de 300-500 ml, 2-3 fois/semaine, si Hb > 190 g/l.
+
+5. Hydroxyurée, pipobroman ou radiophosphore 32P ± aspirine et hypo-uricémiant.

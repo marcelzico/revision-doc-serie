@@ -1,0 +1,25 @@
+# CAS CLINIQUES : MÉNINGITE BACTÉRIENNE DE L’ENFANT NON TUBERCULEUSE
+
+Chapitre: Méningite bactérienne de l’enfant non tuberculeuse
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Méningite bactérienne de l’enfant non tuberculeuse.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Méningite bactérienne
+
+Un enfant de 4 ans présente depuis 12 heures une fièvre à 40 °C, des céphalées intenses, des vomissements et une photophobie. À l’examen : raideur de nuque, signe de Kernig positif, pas de purpura, conscience normale. Pas de signe de focalisation.
+
+Questions :
+1. Quel syndrome présente cet enfant ?
+2. Quelle est votre conduite immédiate concernant la ponction lombaire ?
+3. Quels résultats attendez-vous dans le LCR si le diagnostic est confirmé ?
+4. Quels germes évoquez-vous en priorité à cet âge ?
+5. Quelle antibiothérapie probabiliste instituez-vous et quel traitement adjuvant ?
+6. Quels signes de gravité surveillez-vous étroitement ?
+
+Réponses attendues :
+1. Syndrome méningé fébrile.
+2. PL après vérification de l’absence de contre-indication (hémodynamique stable, pas de signe d’HTIC).
+3. LCR trouble, hypercellularité à PNN, hyperprotéinorachie, hypoglycorachie, germes possibles.
+4. Pneumocoque ou méningocoque (Haemophilus plus rare grâce à la vaccination).
+5. C3G à forte posologie (céfotaxime ou ceftriaxone) ± aminoside ; dexaméthasone si pneumocoque suspecté.
+6. Apparition de purpura, troubles de conscience, convulsions, signes d’HTIC, collapsus.

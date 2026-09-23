@@ -1,0 +1,25 @@
+# CAS CLINIQUES : HYPERTENSION INTRACRÂNIENNE DE L'ENFANT
+
+Chapitre: Hypertension intracrânienne de l'enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Hypertension intracrânienne de l'enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Hypertension intracrânienne
+
+Un enfant de 8 ans présente depuis 3 semaines des céphalées matinales de plus en plus intenses, des vomissements en jet et depuis 48 heures une diplopie. À l’examen : conscience normale, pas de signe de localisation, fond d’œil montrant un œdème papillaire bilatéral.
+
+Questions :
+1. Quel syndrome présente cet enfant ?
+2. Quels signes de décompensation redoutez-vous ?
+3. Quels examens demandez-vous en urgence ?
+4. Quelles étiologies évoquez-vous en priorité à cet âge ?
+5. Quels sont les principes immédiats du traitement symptomatique ?
+6. Quel traitement osmolaire de première ligne pouvez-vous utiliser ?
+
+Réponses attendues :
+1. Hypertension intracrânienne (céphalées matinales, vomissements en jet, œdème papillaire).
+2. Triade de Cushing (HTA, bradycardie, troubles respiratoires) et altération de la conscience.
+3. Scanner ou IRM cérébrale en urgence.
+4. Tumeur de la fosse postérieure (médulloblastome, astrocytome…).
+5. Tête à 30°, position neutre, sédation si besoin, normoglycémie, normoxie, restriction hydrique relative.
+6. Mannitol 0,25-1 g/kg IV en 20 minutes ou sérum salé hypertonique.

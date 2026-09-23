@@ -1,0 +1,27 @@
+# CAS CLINIQUES : OTITE MOYENNE CHRONIQUE CHOLESTÉATOMATEUSE (OMCC)
+
+Chapitre: Otite moyenne chronique cholestéatomateuse (omcc)
+Chemin source: 5ème année\Oto-rhino-laryngologie\Otite moyenne chronique cholestéatomateuse (omcc).docx
+--------------------------------------------------
+
+CAS CLINIQUE – Otite moyenne chronique cholestéatomateuse
+
+Un adulte de 40 ans présente depuis plusieurs mois une otorrhée unilatérale fétide, jaunâtre, résistante aux traitements médicaux, associée à une hypoacousie. L’otoscopie montre une perforation marginale avec des squames blanchâtres.
+
+1. Quel est le diagnostic le plus probable ?
+2. Quels signes otoscopiques sont caractéristiques ?
+3. Quels examens d’imagerie demandez-vous ?
+4. Quelles complications redoutez-vous ?
+5. Quel est le traitement de référence ?
+
+Réponses attendues :
+
+1. Otite moyenne chronique cholestéatomateuse.
+
+2. Perforation marginale + poche de rétraction + squames épidermiques.
+
+3. TDM du rocher (± IRM).
+
+4. Lyse ossiculaire, paralysie faciale, mastoïdite, labyrinthite, méningite, abcès cérébral…
+
+5. Chirurgie (évidement pétro-mastoïdien ± tympanoplastie) associée à des soins locaux et antibiotiques.

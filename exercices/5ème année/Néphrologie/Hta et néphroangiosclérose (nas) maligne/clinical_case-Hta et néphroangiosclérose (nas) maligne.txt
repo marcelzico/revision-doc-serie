@@ -1,0 +1,42 @@
+# CAS CLINIQUES : HTA ET NÉPHROANGIOSCLÉROSE (NAS) MALIGNE
+
+Chapitre: Hta et néphroangiosclérose (nas) maligne
+Chemin source: 5ème année\Néphrologie\Hta et néphroangiosclérose (nas) maligne.docx
+--------------------------------------------------
+
+"Cas clinique – HTA maligne et néphroangiosclérose"
+
+Un homme de 49 ans, hypertendu connu depuis 8 ans mais irrégulièrement traité, est admis pour des céphalées intenses, des troubles visuels et une dyspnée d’apparition brutale. 
+
+Examen : PA 230/130 mmHg, FC 98/min, râles crépitants bilatéraux, confusion. 
+Fond d’œil : hémorragies en flammèches, nodules cotonneux et œdème papillaire bilatéral. 
+
+Bilan :
+- Créatininémie = 320 µmol/l (antérieure à 95 µmol/l 6 mois plus tôt)
+- Protéinurie = 1,4 g/24 h
+- Kaliémie = 2,9 mmol/l
+- Hémoglobine = 9,8 g/dl avec schizocytes
+- Troponine légèrement élevée
+
+Questions :
+
+1. Quel diagnostic syndromique posez-vous ?
+2. Quels sont les organes cibles atteints ?
+3. Quelle est l’étiologie la plus probable ?
+4. Quels sont les objectifs tensionnels des premières heures ?
+5. Quelle prise en charge immédiate instituez-vous ?
+
+Réponses :
+
+1. HTA maligne avec néphroangiosclérose maligne (PAD > 120 mmHg + atteintes viscérales multiples).
+
+2. Œil (rétinopathie stade IV), cerveau (encéphalopathie), cœur (OAP + souffrance myocardique), rein (insuffisance rénale rapidement progressive + microangiopathie thrombotique).
+
+3. HTA essentielle mal contrôlée (cause la plus fréquente).
+
+4. Baisse de la PAS de 25 % en 1 heure, puis PAM autour de 110-120 mmHg en 2-6 heures, normalisation progressive en 24-48 heures.
+
+5. Hospitalisation en soins intensifs, antihypertenseurs IV (nicardipine ou urapidil ou labétalol), oxygénothérapie et dérivés nitrés si OAP, correction de la volémie et de l’hypokaliémie, surveillance rapprochée de la fonction rénale et de l’état neurologique.
+
+Explication pédagogique :  
+Cas typique d’HTA maligne, très souvent interrogé (définition, atteintes d’organes, objectifs de baisse tensionnelle et traitement IV).

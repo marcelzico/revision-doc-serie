@@ -1,0 +1,60 @@
+# CAS CLINIQUES : CANCER PRIMITIF DU FOIE
+
+Chapitre: Cancer primitif du foie
+Chemin source: 5ème année\Gastro-entérologie chirurgicale\Cancer primitif du foie.docx
+--------------------------------------------------
+
+"Cas clinique – Carcinome hépato-cellulaire"
+
+Un homme de 58 ans, cirrhotique éthylique connu, consulte pour une douleur de l’hypochondre droit et un amaigrissement de 6 kg en 2 mois. 
+
+Examen : hépatomégalie dure, irrégulière et douloureuse. 
+AFP = 850 ng/ml. 
+Échographie : nodule de 4 cm du segment VII.
+
+Questions :
+
+1. Quel diagnostic évoquez-vous en priorité ?
+2. Quels facteurs de risque sont présents ?
+3. Quel marqueur est très évocateur ici et pourquoi ?
+4. Quels examens complémentaires demandez-vous pour confirmer et bilanter ?
+5. Quelles options thérapeutiques sont envisageables si le bilan d’extension est négatif ?
+
+Réponses :
+
+1. Carcinome hépato-cellulaire sur cirrhose.
+
+2. Cirrhose et alcoolisme.
+
+3. AFP à 850 ng/ml (> 500 ng/ml) : très spécifique de CHC.
+
+4. Scanner ou IRM injecté, recherche de thrombose portale et de métastases, bilan de la fonction hépatique (Child-Pugh).
+
+5. Si petite taille, sans thrombose portale ni métastase et fonction hépatique correcte : discussion en RCP d’une résection, d’une transplantation ou d’un traitement local (éthanol, chimiolipoembolisation).
+
+Explication pédagogique :  
+Cas typique de CHC sur cirrhose éthylique, illustrant le rôle de l’AFP, de l’imagerie et de la discussion thérapeutique en RCP.
+
+
+
+CAS CLINIQUE – Carcinome hépatocellulaire
+
+Un homme de 58 ans, cirrhotique alcoolique connu, présente une douleur de l’hypochondre droit et un amaigrissement. L’examen trouve une hépatomégalie dure et irrégulière. L’AFP est à 1200 ng/ml.
+
+1. Quel diagnostic évoquez-vous en priorité ?
+2. Quels sont les principaux facteurs de risque de cette tumeur ?
+3. Quels examens d’imagerie demandez-vous ?
+4. Quel est l’intérêt de l’alpha-fœtoprotéine ?
+5. Quels traitements peuvent être proposés ?
+
+Réponses attendues :
+
+1. Carcinome hépatocellulaire.
+
+2. Cirrhose, alcoolisme, hépatites B et C, aflatoxines, hémochromatose.
+
+3. Échographie, TDM avec injection, éventuellement IRM et biopsie.
+
+4. Un taux > 500 ng/ml est très spécifique de CHC.
+
+5. Chimioembolisation, alcoolisation percutanée, hépatectomie ou transplantation si critères d’opérabilité remplis.

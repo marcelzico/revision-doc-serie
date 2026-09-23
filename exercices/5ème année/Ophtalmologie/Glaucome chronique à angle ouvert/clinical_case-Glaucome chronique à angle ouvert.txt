@@ -1,0 +1,36 @@
+# CAS CLINIQUES : GLAUCOME CHRONIQUE À ANGLE OUVERT
+
+Chapitre: Glaucome chronique à angle ouvert
+Chemin source: 5ème année\Ophtalmologie\Glaucome chronique à angle ouvert.docx
+--------------------------------------------------
+
+"Cas clinique – Glaucome chronique à angle ouvert"
+
+Un homme de 62 ans, myope fort, consulte pour une presbytie. Il n’a aucune plainte visuelle. 
+
+PIO : 28 mmHg aux deux yeux. 
+Fond d’œil : excavation papillaire pathologique. 
+Champ visuel : scotome nasal débutant.
+
+Questions :
+
+1. Quel diagnostic posez-vous ?
+2. Pourquoi le patient n’a-t-il aucun symptôme ?
+3. Quels facteurs de risque sont présents ?
+4. Quel traitement instituez-vous en première intention ?
+5. Quels examens de surveillance sont indispensables ?
+
+Réponses :
+
+1. Glaucome chronique à angle ouvert bilatéral.
+
+2. Parce que l’évolution est asymptomatique pendant des années (pas de douleur ni de BAV précoce).
+
+3. Âge et myopie forte.
+
+4. Collyre bêtabloquant (timolol) en première intention.
+
+5. PIO, champ visuel, fond d’œil et OCT des fibres optiques (annuellement et à vie).
+
+Explication pédagogique :  
+Cas typique de GCAO découvert fortuitement, illustrant le caractère asymptomatique, le dépistage et le traitement médical de première intention.

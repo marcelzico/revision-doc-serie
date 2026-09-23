@@ -1,0 +1,36 @@
+# CAS CLINIQUES : CANCERS DU TESTICULE
+
+Chapitre: Cancers du testicule
+Chemin source: 5ème année\Urologie\Cancers du testicule.docx
+--------------------------------------------------
+
+"Cas clinique – Cancer du testicule"
+
+Un homme de 28 ans consulte pour une augmentation de volume du testicule droit découverte il y a 3 semaines, indolore. Il a un antécédent de cryptorchidie droite opérée dans l’enfance. 
+
+Examen : testicule droit augmenté de volume, de consistance dure, indolé ; testicule gauche normal. 
+Échographie : lésion intra-testiculaire droite hétérogène. 
+Marqueurs : β-HCG légèrement élevé, AFP normale.
+
+Questions :
+
+1. Quel diagnostic devez-vous évoquer en priorité ?
+2. Quel facteur de risque est présent ?
+3. Quelle est la première étape de la prise en charge ?
+4. Quels examens complémentaires demandez-vous avant et après cette étape ?
+5. Pourquoi la conservation de sperme est-elle indispensable ?
+
+Réponses :
+
+1. Cancer du testicule droit (jusqu’à preuve histologique du contraire).
+
+2. Antécédent de cryptorchidie.
+
+3. Orchidectomie par voie inguinale droite + analyse anatomopathologique de la pièce (et mise en banque de sperme préalable).
+
+4. Avant : marqueurs tumoraux complets + échographie scrotale. Après : scanner thoraco-abdomino-pelvien pour bilan d’extension.
+
+5. Parce que l’orchidectomie et les traitements complémentaires (chimio/radiothérapie) altèrent la fertilité de façon significative ; c’est une obligation médico-légale.
+
+Explication pédagogique :  
+Cas classique de tumeur testiculaire de l’adulte jeune, soulignant le rôle de la cryptorchidie, l’orchidectomie inguinale et la conservation de sperme.

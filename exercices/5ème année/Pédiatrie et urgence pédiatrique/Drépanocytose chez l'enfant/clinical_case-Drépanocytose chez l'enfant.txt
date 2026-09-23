@@ -1,0 +1,25 @@
+# CAS CLINIQUES : DRÉPANOCYTOSE CHEZ L'ENFANT
+
+Chapitre: Drépanocytose chez l'enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Drépanocytose chez l'enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Drépanocytose
+
+Un enfant de 14 mois d’origine malgache est amené pour une tuméfaction douloureuse du dos des deux mains et des pieds depuis 48 heures. Il est fébrile à 38,5 °C, pâle, légèrement ictérique. La rate est palpable. NFS : Hb 7,2 g/dL, réticulocytes élevés.
+
+Questions :
+1. Quel diagnostic suspectez-vous et quel examen le confirme ?
+2. Quel syndrome clinique présente cet enfant ?
+3. Quelle est votre prise en charge immédiate de la crise douloureuse ?
+4. Quelles complications infectieuses redoutez-vous et comment les prévenez-vous au long cours ?
+5. Quels conseils donnez-vous aux parents concernant la surveillance à domicile ?
+6. Pourquoi cet enfant n’avait-il probablement pas de symptômes avant l’âge de 6 mois ?
+
+Réponses attendues :
+1. Drépanocytose homozygote SS (syndrome pied-main + anémie hémolytique + origine ethnique). Confirmation par électrophorèse de l’Hb.
+2. Syndrome pied-main (dactylite) révélateur.
+3. Hydratation, repos, antalgiques, oxygène si besoin, folates, surveillance de la rate et de l’hémoglobine.
+4. Infections à germes encapsulés (pneumocoque, Haemophilus, Salmonelle). Prévention : vaccinations + antibioprophylaxie par pénicilline.
+5. Boire abondamment, consulter dès fièvre, douleur intense, pâleur brutale ou augmentation de volume de la rate.
+6. Protection par l’hémoglobine fœtale (Hb F) encore présente.

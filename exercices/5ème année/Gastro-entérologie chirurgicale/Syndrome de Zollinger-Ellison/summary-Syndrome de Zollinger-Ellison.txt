@@ -1,0 +1,27 @@
+# CAS CLINIQUES : SYNDROME DE ZOLLINGER-ELLISON
+
+Chapitre: Syndrome de Zollinger-Ellison
+Chemin source: 5ème année\Gastro-entérologie chirurgicale\Syndrome de Zollinger-Ellison.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Syndrome de Zollinger-Ellison
+
+Un homme de 42 ans présente des ulcères duodénaux multiples et récidivants malgré un traitement bien conduit, associés à une diarrhée chronique abondante qui s’améliore sous IPP.
+
+1. Quel diagnostic devez-vous évoquer ?
+2. Quelle est la physiopathologie de ce syndrome ?
+3. Quels examens biologiques confirment le diagnostic ?
+4. Quel examen est le plus sensible pour localiser la tumeur ?
+5. Quels sont les principes du traitement ?
+
+Réponses attendues :
+
+1. Syndrome de Zollinger-Ellison (gastrinome).
+
+2. Hypersécrétion tumorale de gastrine → hyperacidité → ulcères atypiques + diarrhée.
+
+3. Gastrinémie basale élevée, tubage gastrique (hypersécrétion acide), test à la sécrétine.
+
+4. Écho-endoscopie.
+
+5. Exérèse chirurgicale si possible + IPP à forte dose ; traitement adapté en cas de NEM 1 ou de métastases.

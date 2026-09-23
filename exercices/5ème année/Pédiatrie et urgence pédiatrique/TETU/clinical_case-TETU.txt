@@ -1,0 +1,25 @@
+# CAS CLINIQUES : TETU
+
+Chapitre: TETU
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\TETU.docx
+--------------------------------------------------
+
+CAS CLINIQUE – TETU
+
+Un enfant de 18 mois arrive aux urgences. Il est léthargique, a les yeux enfoncés, un pli cutané qui s’efface très lentement, TRC à 4 s et des mains froides. Pas de détresse respiratoire.
+
+Questions :
+1. Quelle catégorie de triage attribuez-vous et pourquoi ?
+2. Quels signes ABCD positifs identifiez-vous ?
+3. Quelle est votre première action thérapeutique ?
+4. Quel protocole de remplissage instituez-vous (en l’absence de malnutrition) ?
+5. Que feriez-vous s’il présentait en plus une convulsion ?
+6. Quand le placerez-vous dans la file d’attente « queue » ?
+
+Réponses attendues :
+1. Urgent (signes de choc + déshydratation grave).
+2. C (circulation) et D (déshydratation grave).
+3. Oxygène, chaleur, abord veineux/IO, début du traitement du choc.
+4. RL ou SSI 20 ml/kg en bolus, réévaluation, éventuellement 2ᵉ bolus.
+5. Diazépam rectal 0,5 mg/kg + correction de l’éventuelle hypoglycémie.
+6. Seulement s’il n’y a plus aucun signe d’urgence ni de priorité.

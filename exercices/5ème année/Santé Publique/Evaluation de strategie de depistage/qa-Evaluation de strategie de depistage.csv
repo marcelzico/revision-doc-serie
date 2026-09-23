@@ -1,0 +1,6 @@
+"question","answer","explanation"
+"Quand choisit-on un test très sensible ?","Lorsque les faux négatifs sont plus graves (ex. : dépistage pré-transfusionnel du VIH dans les poches de sang).","On accepte plus de faux positifs pour ne manquer aucun cas."
+"Quand choisit-on un test très spécifique ?","Lorsque les faux positifs sont plus graves (ex. : dépistage du VIH chez une femme enceinte).","On évite un impact psychologique et un traitement à tort."
+"Exercice : Parmi 2488 hommes, 1458 ont une échographie suspecte d’adénome prostatique. L’anatomopathologie confirme 1024 adénomes, dont 892 étaient positifs à l’échographie. Calculez VP, FN, FP, VN.","VP = 892 ; FN = 1024 – 892 = 132 ; FP = 1458 – 892 = 566 ; VN = 2488 – 1458 – 132 = 898 (ou 2464 – 1024 – 566 = 874 selon arrondi, mais logique : total non-malades = 2488–1024 = 1464 → VN = 1464–566 = 898).","Tableau 2×2 classique."
+"À partir des chiffres ci-dessus, calculez la sensibilité et la spécificité.","Se = 892 / 1024 ≈ 87,1 % ; Sp = 898 / 1464 ≈ 61,3 %.","Valeurs intrinsèques."
+"Calculez la VPP et la VPN de l’échographie dans cet échantillon.","VPP = 892 / 1458 ≈ 61,2 % ; VPN = 898 / (898+132) ≈ 87,2 %.","Valeurs extrinsèques dépendant de la prévalence dans l’échantillon."

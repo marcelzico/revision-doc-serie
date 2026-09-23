@@ -1,0 +1,25 @@
+# CAS CLINIQUES : STAPHYLOCOCCIE PLEURO-PULMONAIRE
+
+Chapitre: Staphylococcie pleuro-pulmonaire
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Staphylococcie pleuro-pulmonaire.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Staphylococcie pleuro-pulmonaire
+
+Un nourrisson de 4 mois présente depuis 48 h une fièvre, un teint gris, un refus alimentaire et un météorisme abdominal. À l’examen : polypnée, geignement, signes de lutte. Notion de panaris chez la mère.
+
+Questions :
+1. Quel diagnostic évoquez-vous d’emblée et pourquoi ?
+2. Quels examens demandez-vous en urgence ?
+3. Quelle antibiothérapie instituez-vous avant les résultats ?
+4. Quelles mesures de réanimation associez-vous ?
+5. Quelles complications mécaniques surveillez-vous ?
+6. Quelle est la durée habituelle de l’antibiothérapie ?
+
+Réponses attendues :
+1. SPP (triade AEG + météorisme + détresse respiratoire + porte d’entrée).
+2. Radio thoraco-abdominale, NFS, CRP, hémocultures, ponction pleurale si épanchement.
+3. Amoxicilline-acide clavulanique 150 mg/kg/j IV.
+4. Oxygène, remplissage si choc, correction hydro-électrolytique, hospitalisation en réanimation si besoin.
+5. Pneumatocèle, pneumothorax, pyopneumothorax, abcès.
+6. 4 à 6 semaines (IV 10-15 j puis relais oral).

@@ -1,0 +1,27 @@
+# CAS CLINIQUES : CANCER DE L'ESTOMAC
+
+Chapitre: Cancer de l'estomac
+Chemin source: 5ème année\Gastro-entérologie chirurgicale\Cancer de l'estomac.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Cancer de l’estomac
+
+Un homme de 60 ans présente un amaigrissement important, une anorexie et des douleurs épigastriques atypiques non rythmées par les repas. La fibroscopie montre une lésion ulcérée de l’antre.
+
+1. Quel type histologique est le plus probable ?
+2. Quels facteurs de risque recherchez-vous ?
+3. Quel est l’examen qui confirme le diagnostic ?
+4. Quels sont les principes du traitement d’une forme résécable ?
+5. Quel est le pronostic global de ce cancer ?
+
+Réponses attendues :
+
+1. Adénocarcinome.
+
+2. Helicobacter pylori, gastrite atrophique, ulcère gastrique, alimentation riche en sel/nitrates, tabac, alcool, antécédents familiaux ou de gastrectomie.
+
+3. Fibroscopie avec biopsies multiples + anatomopathologie.
+
+4. Chimiothérapie péri-opératoire + gastrectomie (4/5 ou totale) avec curage ganglionnaire + rétablissement de la continuité.
+
+5. Survie à 5 ans d’environ 15 % toutes formes confondues (beaucoup meilleur pour les formes superficielles).

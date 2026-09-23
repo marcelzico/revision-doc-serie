@@ -1,0 +1,35 @@
+# CAS CLINIQUES : HEMATOME INTRA-CEREBRAL ET CONTUSIONS
+
+Chapitre: Hematome intra-cerebral et contusions
+Chemin source: 5ème année\Neurochirurgie\Hematome intra-cerebral et contusions.docx
+--------------------------------------------------
+
+"Cas clinique – Hématome intra-cérébral"
+
+Un homme de 28 ans, motocycliste non casqué, est victime d’un accident de la voie publique. Il a présenté une perte de connaissance initiale puis un intervalle libre de 2 heures, suivi d’une aggravation de la vigilance et de vomissements. 
+
+Glasgow 11, pas de déficit focal franc. 
+TDM : flaque hyperdense frontale droite de 35 mm avec œdème péri-lésionnel et effet de masse modéré.
+
+Questions :
+
+1. Quel diagnostic posez-vous ?
+2. Quel mécanisme traumatique est le plus probable ?
+3. Quels éléments de l’anamnèse sont évocateurs d’une lésion évolutive ?
+4. Quel traitement proposez-vous ?
+5. Quels éléments de surveillance sont indispensables ?
+
+Réponses :
+
+1. Hématome intra-cérébral frontal droit post-traumatique (contusion hémorragique).
+
+2. Impact direct ou contre-coup avec accélération/décélération.
+
+3. Perte de connaissance initiale + intervalle libre + aggravation secondaire et vomissements.
+
+4. Discussion neurochirurgicale : craniotomie d’évacuation si aggravation ou volume important ; sinon traitement médical de l’HTIC (sédation, solutés hypertoniques, monitorage PIC).
+
+5. Conscience (Glasgow), pupilles, signes de focalisation, TDM de contrôle si non-amélioration.
+
+Explication pédagogique :  
+Cas typique d’HIC frontal avec intervalle libre, illustrant l’aspect TDM et la décision médico-chirurgicale selon le volume et la clinique.

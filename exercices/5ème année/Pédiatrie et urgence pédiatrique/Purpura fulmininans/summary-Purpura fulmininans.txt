@@ -1,0 +1,25 @@
+# CAS CLINIQUES : PURPURA FULMININANS
+
+Chapitre: Purpura fulmininans
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Purpura fulmininans.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Purpura fulminans
+
+Un enfant de 3 ans présente depuis 6 heures une fièvre à 40 °C et des lésions purpuriques des membres inférieurs dont certaines sont nécrotiques et mesurent plus de 3 mm. Il est geignard, TRC à 4 s, TA basse.
+
+Questions :
+1. Quel diagnostic portez-vous d’emblée ?
+2. Quelle est votre première action thérapeutique ?
+3. Quels germes évoquez-vous ?
+4. Quelles mesures de réanimation instituez-vous ?
+5. Quelle prophylaxie proposez-vous à la famille ?
+6. Quelle complication locale redoutez-vous ?
+
+Réponses attendues :
+1. Purpura fulminans (purpura fébrile nécrotique + signes de choc).
+2. Injection immédiate de ceftriaxone IV ou IM avant tout prélèvement.
+3. Méningocoque en premier, streptocoque.
+4. Deux VVP, O₂, remplissage 20 ml/kg, catécholamines, hydrocortisone, transfert réanimation.
+5. Rifampicine 2 jours aux contacts proches.
+6. Ischémie distale pouvant conduire à l’amputation.

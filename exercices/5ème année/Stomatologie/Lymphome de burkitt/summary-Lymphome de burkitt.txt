@@ -1,0 +1,34 @@
+# CAS CLINIQUES : LYMPHOME DE BURKITT
+
+Chapitre: Lymphome de burkitt
+Chemin source: 5ème année\Stomatologie\Lymphome de burkitt.docx
+--------------------------------------------------
+
+"Cas clinique – Lymphome de Burkitt"
+
+Un enfant de 7 ans, vivant en zone tropicale, présente depuis 6 semaines une tuméfaction de la mâchoire supérieure droite qui grossit très rapidement, déforme la face et fait mobiliser les dents. La tuméfaction est peu douloureuse. Il n’y a pas d’adénopathie palpable. 
+
+L’état général commence à s’altérer.
+
+Questions :
+
+1. Quel diagnostic devez-vous évoquer en priorité ?
+2. Quel virus est classiquement associé ?
+3. Quelle anomalie génétique caractérise cette affection ?
+4. Quel examen confirme le diagnostic ?
+5. Quel est le traitement de référence et le pronostic sous traitement ?
+
+Réponses :
+
+1. Lymphome de Burkitt (forme africaine maxillo-faciale).
+
+2. Virus d’Epstein-Barr.
+
+3. Translocation t(8;14).
+
+4. Biopsie avec examen anatomopathologique.
+
+5. Polychimiothérapie (type M.BACOD) ; le pronostic devient favorable avec des rémissions prolongées si le traitement est précoce.
+
+Explication pédagogique :  
+Cas typique de lymphome de Burkitt africain de l’enfant, illustrant la croissance rapide peu douloureuse et l’urgence diagnostique.

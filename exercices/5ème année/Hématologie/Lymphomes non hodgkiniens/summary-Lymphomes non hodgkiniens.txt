@@ -1,0 +1,27 @@
+# CAS CLINIQUES : LYMPHOMES NON HODGKINIENS
+
+Chapitre: Lymphomes non hodgkiniens
+Chemin source: 5ème année\Hématologie\Lymphomes non hodgkiniens.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Lymphomes non hodgkiniens
+
+Un homme de 55 ans présente des adénopathies multiples, une fièvre, des sueurs nocturnes et une élévation importante de la LDH. La biopsie ganglionnaire conclut à un lymphome B à grandes cellules, sans cellule de Sternberg.
+
+1. De quel type de lymphome s’agit-il ?
+2. Quels sont les principaux facteurs de l’Indice Pronostique International (IPI) ?
+3. Quel est le protocole de chimiothérapie de référence ?
+4. Quels examens demandez-vous dans le bilan d’extension ?
+5. Quelle est la différence fondamentale avec la maladie de Hodgkin ?
+
+Réponses attendues :
+
+1. Lymphome non hodgkinien agressif (B à grandes cellules).
+
+2. Âge, stade Ann Arbor, performance status, LDH, nombre de sites extra-ganglionnaires.
+
+3. R-CHOP (CHOP + rituximab).
+
+4. Scanner cervico-thoraco-abdomino-pelvien, biologie (LDH, β2-microglobuline…), éventuellement PL, fibroscopie selon les signes.
+
+5. Absence de cellules de Sternberg et grande hétérogénéité histologique et clinique.

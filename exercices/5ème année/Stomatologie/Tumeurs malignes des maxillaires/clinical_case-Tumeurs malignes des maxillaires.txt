@@ -1,0 +1,35 @@
+# CAS CLINIQUES : TUMEURS MALIGNES DES MAXILLAIRES
+
+Chapitre: Tumeurs malignes des maxillaires
+Chemin source: 5ème année\Stomatologie\Tumeurs malignes des maxillaires.docx
+--------------------------------------------------
+
+"Cas clinique – Tumeur maligne des maxillaires"
+
+Un homme de 55 ans présente depuis 3 mois une tuméfaction de la mandibule gauche d’évolution rapide, douloureuse, avec hypoesthésie de la lèvre inférieure gauche et un trismus. 
+
+Examen : masse mal limitée, adhérente, sensible, adénopathies cervicales homolatérales dures. 
+TDM : lyse osseuse mal limitée avec envahissement des parties molles.
+
+Questions :
+
+1. Quel type de tumeur évoquez-vous en priorité ?
+2. Quel signe neurologique est présent et que signifie-t-il ?
+3. Quels éléments cliniques plaident pour la malignité ?
+4. Quel examen confirme le diagnostic ?
+5. Quel est le pronostic habituel de ces tumeurs ?
+
+Réponses :
+
+1. Tumeur maligne mandibulaire (ostéosarcome, carcinome ou autre).
+
+2. Signe de Vincent (hypoesthésie labio-mentonnière) = envahissement du nerf alvéolaire inférieur.
+
+3. Évolution rapide, limites floues, adhérence, douleur, adénopathies et envahissement des parties molles.
+
+4. Biopsie avec examen histologique.
+
+5. Pronostic réservé (récidives et métastases fréquentes).
+
+Explication pédagogique :  
+Cas illustrant les signes de malignité (évolution rapide, signe de Vincent, adénopathies) et la nécessité de la confirmation histologique.

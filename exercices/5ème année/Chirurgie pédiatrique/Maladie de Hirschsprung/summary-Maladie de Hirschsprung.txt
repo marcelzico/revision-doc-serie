@@ -1,0 +1,27 @@
+# CAS CLINIQUES : MALADIE DE HIRSCHSPRUNG
+
+Chapitre: Maladie de Hirschsprung
+Chemin source: 5ème année\Chirurgie pédiatrique\Maladie de Hirschsprung.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Maladie de Hirschsprung
+
+Un nouveau-né de 3 kg, âgé de 3 semaines, est admis aux urgences pour une occlusion digestive basse. Une radiographie d’abdomen sans préparation (ASP) est demandée.
+
+1. Quels sont les deux arguments cliniques à rechercher en cas de suspicion de maladie de Hirschsprung ?
+2. Qu’attendez-vous de la radiographie d’ASP ?
+3. Décrire la physiopathologie liée à l’absence de réflexe recto-anal inhibiteur (RAI) dans la maladie de Hirschsprung.
+4. Une manométrie anorectale est réalisée. Qu’attendez-vous de cet examen ?
+5. Une biopsie rectale chirurgicale est réalisée. Quels résultats histologiques confirment le diagnostic de maladie de Hirschsprung ?
+
+Réponses attendues :
+
+1. Retard d’émission du méconium et débâcle de selles liquides au toucher rectal ou à la montée d’une sonde rectale.
+
+2. Aéroiléocolie, dilatation colique avec absence d’aération du rectum, éventuellement niveaux hydro-aériques.
+
+3. Absence de cellules ganglionnaires → absence d’inhibition du tonus permanent du sphincter interne → absence de relâchement → obstacle fonctionnel → dilatation du segment sain sus-jacent et rétrécissement du segment malade.
+
+4. Absence de réflexe recto-anal inhibiteur (RAI).
+
+5. Absence de cellules ganglionnaires, hypertrophie des plexus de Meissner et d’Auerbach, augmentation de l’acétylcholinestérase.

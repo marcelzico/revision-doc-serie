@@ -1,0 +1,25 @@
+# CAS CLINIQUES : RACHITISME CARENTIEL DE L’ENFANT
+
+Chapitre: Rachitisme carentiel de l’enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Rachitisme carentiel de l’enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Rachitisme carentiel
+
+Un nourrisson de 10 mois, non supplémenté en vitamine D, présente un retard de fermeture de la fontanelle, un chapelet costal et un genu varum. Phosphatases alcalines très élevées, phosphorémie basse, calcémie 2,1 mmol/L.
+
+Questions :
+1. Quel diagnostic portez-vous et sur quels arguments ?
+2. Quels signes radiologiques attendez-vous ?
+3. Quelle est votre attitude thérapeutique ?
+4. Quels signes de guérison surveillez-vous ?
+5. Quelle prévention auriez-vous dû instaurer ?
+6. Quelles autres carences recherchez-vous ?
+
+Réponses attendues :
+1. Rachitisme carentiel (âge, absence de supplémentation, signes osseux, PAL ↑, P ↓).
+2. Élargissement métaphysaire en cupule, retard des points d’ossification, corticales amincies.
+3. Vitamine D 200 000 UI + calcium per os 15 jours.
+4. Normalisation de la calcémie en 48 h, des PAL en 1 mois, bande dense métaphysaire à 3 semaines.
+5. 1 200 UI/j dès les premiers jours de vie jusqu’à 18 mois.
+6. Anémie ferriprive et carence en folates.

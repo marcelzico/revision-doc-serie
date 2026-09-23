@@ -1,0 +1,27 @@
+# CAS CLINIQUES : ANÉMIES HÉMOLYTIQUES
+
+Chapitre: Anémies hémolytiques
+Chemin source: 5ème année\Hématologie\Anémies hémolytiques.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Anémie hémolytique
+
+Un homme de 25 ans présente une pâleur, un ictère et une splénomégalie après la prise d’un antipaludéen. NFS : Hb 7,5 g/dl, réticulocytes élevés. Bilirubine libre ↑, haptoglobine effondrée.
+
+1. Quel syndrome présente-t-il ?
+2. Quels examens biologiques confirment l’hémolyse ?
+3. Quelle étiologie évoquez-vous en priorité à Madagascar ?
+4. Quel test diagnostique demandez-vous ?
+5. Quelle est la conduite à tenir immédiate ?
+
+Réponses attendues :
+
+1. Syndrome d’hémolyse aiguë (anémie + ictère + splénomégalie).
+
+2. Réticulocytes ↑, bilirubine libre ↑, haptoglobine ↓, fer ↑.
+
+3. Déficit en G6PD (crise déclenchée par médicament).
+
+4. Dosage de l’activité G6PD (en dehors de la crise idéalement).
+
+5. Arrêt du médicament, transfusion si mal tolérée, acide folique, éviction future des oxydants.

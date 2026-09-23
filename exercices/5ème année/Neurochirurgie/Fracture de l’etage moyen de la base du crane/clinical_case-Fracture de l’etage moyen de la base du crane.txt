@@ -1,0 +1,32 @@
+# CAS CLINIQUES : FRACTURE DE L’ETAGE MOYEN DE LA BASE DU CRANE
+
+Chapitre: Fracture de l’etage moyen de la base du crane
+Chemin source: 5ème année\Neurochirurgie\Fracture de l’etage moyen de la base du crane.docx
+--------------------------------------------------
+
+"Cas clinique – Fracture de l’étage moyen"
+
+Un homme de 35 ans est victime d’un traumatisme crânien. Il présente une otorragie droite, une ecchymose rétro-mastoïdienne et une paralysie faciale périphérique droite. Il se plaint aussi d’une baisse d’audition.
+
+Questions :
+
+1. Quel diagnostic évoquez-vous ?
+2. Quels nerfs crâniens sont atteints ?
+3. Quel signe cutané est présent et que signifie-t-il ?
+4. Quel risque infectieux majeur redoutez-vous ?
+5. Quelle est la conduite à tenir immédiate ?
+
+Réponses :
+
+1. Fracture de l’étage moyen de la base du crâne (rocher / temporal).
+
+2. Nerf facial (VII) et nerf cochléo-vestibulaire (VIII).
+
+3. Ecchymose rétro-mastoïdienne (signe de Battle) = fracture de la base moyenne.
+
+4. Méningite par brèche ostéo-durale (otorrhée de LCR possible).
+
+5. Scanner cérébral, antibiothérapie prophylactique large spectre, Diamox, position allongée, et discussion de réparation chirurgicale de la brèche.
+
+Explication pédagogique :  
+Cas typique de fracture de l’étage moyen avec atteinte des nerfs VII et VIII et signe de Battle.

@@ -1,0 +1,44 @@
+# CAS CLINIQUES : GLOMERULONEPHRITE AIGUË
+
+Chapitre: Glomerulonephrite aiguë
+Chemin source: 5ème année\Néphrologie\Glomerulonephrite aiguë.docx
+--------------------------------------------------
+
+"Cas clinique – Glomérulonéphrite aiguë"
+
+Un garçon de 8 ans est amené aux urgences pour un œdème du visage apparu au réveil depuis 2 jours, associé à des urines « bouillon sale ». La mère signale une angine traitée par amoxicilline il y a 18 jours. 
+
+À l’examen : poids +3,2 kg par rapport au poids habituel, PA 145/95 mmHg, œdèmes des paupières et des membres inférieurs, diurèse estimée à 300 ml/24 h. 
+
+Bilan :
+- Créatininémie = 145 µmol/l
+- Natrémie = 132 mmol/l
+- Kaliémie = 5,4 mmol/l
+- Protéinurie = 1,8 g/24 h
+- Hématurie macroscopique + cylindres hématiques
+- C3 et CH50 abaissés, C4 légèrement abaissé
+- ASLO élevés
+
+Questions :
+
+1. Quel syndrome présente cet enfant ? Quels en sont les éléments ?
+2. Quel diagnostic retenez-vous et quels arguments l’étayent ?
+3. Quels examens complémentaires sont utiles pour confirmer l’origine streptococcique ?
+4. Quelles complications faut-il craindre à court terme ?
+5. Quelle prise en charge thérapeutique proposez-vous ?
+
+Réponses :
+
+1. Syndrome néphritique aigu : œdèmes, HTA, hématurie, oligurie, protéinurie modérée et cylindres hématiques.
+
+2. Glomérulonéphrite aiguë post-streptococcique.  
+Arguments : âge, intervalle libre de 18 jours après angine, syndrome néphritique, hypocomplémentémie (C3 et CH50), ASLO élevés.
+
+3. Dosage des ASLO et antistreptodornase, recherche d’un foyer infectieux résiduel (ORL, cutané), et éventuellement biopsie rénale si évolution atypique.
+
+4. Œdème aigu du poumon, encéphalopathie hypertensive, anurie et hyperkaliémie menaçante.
+
+5. Régime sans sel strict, restriction hydrique, diurétiques de l’anse, contrôle de la tension artérielle, correction de l’acidose et de l’hyperkaliémie si besoin, poursuite ou reprise d’une antibiothérapie anti-streptococcique (amoxicilline 10 jours).
+
+Explication pédagogique :  
+Cas typique de GNA post-streptococcique pédiatrique, très souvent interrogé sous forme de diagnostic positif et de prise en charge symptomatique.

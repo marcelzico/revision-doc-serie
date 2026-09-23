@@ -1,0 +1,32 @@
+# CAS CLINIQUES : FRACTURES - EMBARRURES DU CRANE
+
+Chapitre: Fractures - embarrures du crane
+Chemin source: 5ème année\Neurochirurgie\Fractures - embarrures du crane.docx
+--------------------------------------------------
+
+"Cas clinique – Fracture-embarrure"
+
+Un enfant de 6 ans chute d’un arbre et présente une plaie du scalp temporal gauche avec un enfoncement palpable en « marche d’escalier ». Il est conscient (Glasgow 15), sans déficit neurologique.
+
+Questions :
+
+1. Quel type de lésion osseuse présente-t-il ?
+2. Cette embarrure est-elle ouverte ou fermée ? Pourquoi ?
+3. Quel examen demandez-vous en urgence ?
+4. Quels risques principaux redoutez-vous ?
+5. Quel est le principe du traitement ?
+
+Réponses :
+
+1. Fracture-embarrure en marche d’escalier.
+
+2. Ouverte (présence d’une plaie du scalp).
+
+3. TDM cérébrale sans injection avec reconstruction 3D (fenêtres osseuse et parenchymateuse).
+
+4. Infection (méningite, abcès), compression cérébrale et épilepsie.
+
+5. Exploration chirurgicale, parage, ablation de l’embarrure, réparation dure-mérienne si nécessaire, et antibiothérapie.
+
+Explication pédagogique :  
+Cas d’embarrure ouverte de l’enfant, illustrant la classification ouverte/fermée et l’indication chirurgicale.

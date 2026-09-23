@@ -1,0 +1,34 @@
+# CAS CLINIQUES : PEC TRAUMATISME VERTEBRO-MEDULLAIRE THORACO-LOMBAIRE
+
+Chapitre: Pec traumatisme vertebro-medullaire thoraco-lombaire
+Chemin source: 5ème année\Neurochirurgie\Pec traumatisme vertebro-medullaire thoraco-lombaire.docx
+--------------------------------------------------
+
+"Cas clinique – Traumatisme vertébro-médullaire"
+
+Un homme de 28 ans, motocycliste, présente après un accident une impossibilité de bouger les membres inférieurs, une anesthésie sous-ombilicale et une rétention urinaire. Les réflexes sont abolis, il n’y a pas de signe de Babinski. 
+
+Scanner : fracture-luxation L1 de type B de Magerl avec compression du cône terminal.
+
+Questions :
+
+1. Quel type de traumatisme présente-t-il ?
+2. Le déficit est-il complet ou incomplet ? Pourquoi est-ce important ?
+3. Quelle classification utilise-t-on pour les lésions osseuses ?
+4. Quel est le principe du traitement ?
+5. Quelles mesures associées sont indispensables ?
+
+Réponses :
+
+1. Traumatisme vertébro-médullaire thoraco-lombaire avec atteinte du cône/queue de cheval.
+
+2. Déficit complet (anesthésie et paralysie totales) ; la récupération est incertaine, mais la stabilisation chirurgicale reste indiquée.
+
+3. Classification de Magerl (ici type B = distraction).
+
+4. Ostéosynthèse ± laminectomie de décompression, associée à la rééducation.
+
+5. Nursing, prévention des escarres et thromboses, rééducation vésico-sphinctérienne et prise en charge du polytraumatisme.
+
+Explication pédagogique :  
+Cas typique de TVM avec déficit complet, illustrant la classification de Magerl et les principes de stabilisation + rééducation.

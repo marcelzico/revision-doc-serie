@@ -1,0 +1,25 @@
+# CAS CLINIQUES : DÉTRESSE RESPIRATOIRE
+
+Chapitre: Détresse respiratoire
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Détresse respiratoire.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Détresse respiratoire du nourrisson et de l’enfant
+
+Un nourrisson de 9 mois est amené pour une difficulté respiratoire depuis 6 heures. Il a une rhinite depuis 2 jours. À l’examen : FR 68/min, tirage intercostal et sus-sternal, battement des ailes du nez, sibilances et freinage expiratoire, SpO2 90 % en air ambiant. Il est agité.
+
+Questions :
+1. Quel diagnostic positif et de gravité portez-vous ?
+2. Quel type de dyspnée présente-t-il et quel niveau d’obstruction évoquez-vous ?
+3. Quelle étiologie est la plus probable ?
+4. Quelle est votre conduite à tenir immédiate (traitement symptomatique) ?
+5. Quels signes d’aggravation surveillez-vous ?
+6. Quels terrains à risque rechercheriez-vous dans l’anamnèse ?
+
+Réponses attendues :
+1. Détresse respiratoire avec signes de mauvaise tolérance (FR > 60, SpO2 90 %, agitation).
+2. Dyspnée expiratoire → obstruction des voies aériennes inférieures.
+3. Bronchiolite aiguë du nourrisson.
+4. DRP, position proclive, oxygène (objectif SpO2 > 94 %), fractionnement des repas, surveillance.
+5. Bradypnée, apnées, cyanose, troubles de conscience, épuisement.
+6. Prématurité, cardiopathie, drépanocytose, immunodépression.

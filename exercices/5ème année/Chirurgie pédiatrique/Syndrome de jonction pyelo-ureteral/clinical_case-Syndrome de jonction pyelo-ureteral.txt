@@ -1,0 +1,27 @@
+# CAS CLINIQUES : SYNDROME DE JONCTION PYELO-URETERAL
+
+Chapitre: Syndrome de jonction pyelo-ureteral
+Chemin source: 5ème année\Chirurgie pédiatrique\Syndrome de jonction pyelo-ureteral.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Syndrome de jonction pyélo-urétérale
+
+Un enfant de 9 ans consulte pour des douleurs abdominales récidivantes. L’examen clinique trouve un gros rein palpable à gauche. L’échographie montre une dilatation pyélo-calicielle gauche avec amincissement du parenchyme et uretère non visualisé.
+
+1. Quel est le diagnostic le plus probable ?
+2. Quels sont les trois mécanismes principaux pouvant expliquer cet obstacle ?
+3. Quels examens d’imagerie complémentaires demandez-vous et que recherchent-ils ?
+4. Rappeler les quatre stades de la classification de Cendron et Valayer.
+5. Quelle est la conduite chirurgicale de référence et dans quels cas réalise-t-on une néphrectomie ?
+
+Réponses attendues :
+
+1. Syndrome de jonction pyélo-urétérale gauche.
+
+2. Sténose congénitale, achalasie (absence de péristaltisme), compression par un vaisseau polaire inférieur.
+
+3. Urographie intraveineuse (retard de sécrétion, calices en boules, retard d’évacuation) et scintigraphies (Mag3-Lasilix pour confirmer l’obstacle, DMSA pour quantifier la fonction rénale relative).
+
+4. Stade I : dilatation limitée au bassinet ; Stade II : dilatation pyélo-calicielle sans retard de sécrétion ; Stade III : calices en boules + retard de sécrétion ; Stade IV : rein muet.
+
+5. Pyéloplastie (réduction du bassinet + anastomose pyélo-urétérale). Néphrectomie si la fonction rénale relative est inférieure à 5 %.

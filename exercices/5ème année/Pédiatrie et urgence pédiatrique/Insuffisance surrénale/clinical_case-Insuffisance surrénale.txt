@@ -1,0 +1,25 @@
+# CAS CLINIQUES : INSUFFISANCE SURRÉNALE
+
+Chapitre: Insuffisance surrénale
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Insuffisance surrénale.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Insuffisance surrénale
+
+Un nouveau-né de 12 jours, de sexe féminin, présente une mauvaise prise pondérale, des vomissements et un collapsus. À l’examen : déshydratation, TA basse, organes génitaux externes ambigus (hypertrophie clitoridienne). Natrémie 125 mmol/L, kaliémie 6,8 mmol/L, glycémie 2,1 mmol/L.
+
+Questions :
+1. Quel diagnostic évoquez-vous et pourquoi ?
+2. Quels examens hormonaux demandez-vous ?
+3. Quelle est votre conduite thérapeutique immédiate ?
+4. Quelle est l’étiologie la plus probable ?
+5. Quel traitement au long cours prévoyez-vous ?
+6. Quels conseils d’éducation donnez-vous aux parents ?
+
+Réponses attendues :
+1. Insuffisance surrénale aiguë avec syndrome de perte de sel (hyponatrémie + hyperkaliémie + collapsus + ambiguïté sexuelle).
+2. 17-OH-progestérone, cortisol, ACTH, rénine, aldostérone (prélevés avant traitement).
+3. Remplissage, G10 % + NaCl, hydrocortisone IV, minéralocorticoïde, surveillance.
+4. Hyperplasie congénitale des surrénales par déficit en 21-hydroxylase.
+5. Hydrocortisone + fludrocortisone + sel, à vie, avec adaptation au stress.
+6. Reconnaître les signes de décompensation, doubler/tripler les doses en cas de fièvre, injection IM si vomissements, carte d’insuffisant surrénalien.

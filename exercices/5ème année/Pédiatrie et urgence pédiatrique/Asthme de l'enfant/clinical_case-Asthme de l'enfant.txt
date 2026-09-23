@@ -1,0 +1,25 @@
+# CAS CLINIQUES : ASTHME DE L'ENFANT
+
+Chapitre: Asthme de l'enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Asthme de l'enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Asthme de l’enfant
+
+Une fillette de 4 ans est amenée aux urgences pour une dyspnée sifflante depuis 6 heures. Elle a déjà présenté 4 épisodes similaires depuis l’âge de 18 mois. Température 37,8 °C. Elle est agitée, polypnéique à 48 cycles/min, SpO2 91 % en air ambiant, tirage intercostal et sus-sternal modéré, sibilances expiratoires audibles à distance. Murmures vésiculaires diminués aux deux bases.
+
+Questions :
+1. Quel diagnostic portez-vous et comment évaluez-vous la gravité de la crise (score PRAM approximatif) ?
+2. Quel traitement de première intention instituez-vous immédiatement ?
+3. Quelles posologies exactes de salbutamol et de corticoïdes utilisez-vous ?
+4. Quels signes de gravité surveillez-vous pour décider d’une hospitalisation ou d’une intensification ?
+5. Après résolution de la crise, comment classifiez-vous la maladie asthmatique de cette enfant et quel traitement de fond proposez-vous ?
+6. Quels conseils de prévention et d’éducation donnez-vous aux parents ?
+
+Réponses attendues :
+1. Crise d’asthme modérée à sévère (score PRAM estimé entre 7 et 9 : SpO2 < 92, tirage, sibilances audibles, MV diminués).
+2. Oxygène, salbutamol nébulisé ou en chambre d’inhalation répété, corticoïdes oraux, position demi-assise, monitoring.
+3. Salbutamol : 2,5 mg en nébulisation (poids < 15 kg) toutes les 20 min × 3 ; prednisone/prednisolone 1-2 mg/kg (max 40 mg) en une prise.
+4. Aggravation de la dyspnée, silence auscultatoire, cyanose, troubles de conscience, non-amélioration après 1 h de traitement intensif.
+5. Asthme persistant (au moins 4 épisodes), traitement de fond par corticostéroïdes inhalés à faible dose (ex. fluticasone 100 µg/j) pendant au moins 3 mois.
+6. Éviction des facteurs déclenchants (tabac, allergènes), technique d’inhalation correcte, plan d’action écrit en cas de crise, consultation de suivi.

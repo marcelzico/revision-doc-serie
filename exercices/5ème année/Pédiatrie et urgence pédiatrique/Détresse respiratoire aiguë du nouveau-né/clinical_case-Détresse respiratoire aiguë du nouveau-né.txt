@@ -1,0 +1,25 @@
+# CAS CLINIQUES : DÉTRESSE RESPIRATOIRE AIGUË DU NOUVEAU-NÉ
+
+Chapitre: Détresse respiratoire aiguë du nouveau-né
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Détresse respiratoire aiguë du nouveau-né.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Détresse respiratoire aiguë du nouveau-né
+
+Vous êtes appelé en salle de naissance pour un nouveau-né de 31 SA, 1450 g, né par voie basse après rupture prématurée des membranes de 18 heures. À 10 minutes de vie il présente une polypnée à 75/min, un geignement audible à distance, un tirage intercostal marqué et une cyanose. Score de Silverman à 6. Fréquence cardiaque 110/min.
+
+Questions :
+1. Quel diagnostic positif portez-vous et quelle est la gravité ?
+2. Quels gestes d’urgence réalisez-vous immédiatement ?
+3. Quelle étiologie évoquez-vous en priorité et pourquoi ?
+4. Quels examens demandez-vous ?
+5. Quel traitement spécifique est indiqué si le diagnostic de maladie des membranes hyalines est confirmé ?
+6. Quel objectif de SpO2 visez-vous chez ce prématuré ?
+
+Réponses attendues :
+1. Détresse respiratoire néonatale sévère (Silverman 6, signes de lutte majeurs, risque d’épuisement).
+2. Désobstruction VAS, oxygène, ventilation au masque puis intubation si non amélioration, voie veineuse, monitoring.
+3. Maladie des membranes hyalines (prématurité < 32 SA) ± infection materno-fœtale (RPM prolongée).
+4. Radiographie thoracique, NFS, CRP, hémoculture, gaz du sang, glycémie.
+5. Surfactant exogène par voie intra-trachéale.
+6. SpO2 entre 92 et 98 % (éviter l’hyperoxie).

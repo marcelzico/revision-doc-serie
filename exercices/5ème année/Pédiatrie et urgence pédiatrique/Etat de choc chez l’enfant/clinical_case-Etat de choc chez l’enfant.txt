@@ -1,0 +1,25 @@
+# CAS CLINIQUES : ETAT DE CHOC CHEZ L’ENFANT
+
+Chapitre: Etat de choc chez l’enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Etat de choc chez l’enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – État de choc
+
+Un nourrisson de 10 mois est amené pour une diarrhée liquide abondante depuis 48 heures et des vomissements. À l’arrivée : teint gris, extrémités froides, TRC à 4 s, FC 190/min, TA 70/40 mmHg, somnolent, diurèse absente depuis 6 heures. Pas d’hépatomégalie ni de bruit de galop.
+
+Questions :
+1. Quel type de choc présente cet enfant et à quel stade ?
+2. Quels signes d’hypoperfusion et d’altération du débit cardiaque relevez-vous ?
+3. Quelle est votre conduite à tenir immédiate (premières minutes) ?
+4. Quel volume et quel soluté de remplissage utilisez-vous en première intention ?
+5. Quels objectifs cliniques visez-vous pour juger de l’efficacité du traitement ?
+6. Que feriez-vous si malgré 60 ml/kg de remplissage la perfusion restait mauvaise ?
+
+Réponses attendues :
+1. Choc hypovolémique décompensé (diarrhée + signes d’hypoperfusion + hypotension + trouble de conscience).
+2. TRC allongé, extrémités froides, teint gris, oligurie/anurie, tachycardie, hypotension, somnolence.
+3. Oxygène, voie veineuse (ou intra-osseuse), remplissage rapide.
+4. NaCl 0,9 % 20 ml/kg en bolus rapide, à répéter selon la réponse.
+5. Conscience normale, FC en baisse, TA normale pour l’âge, TRC < 2 s, diurèse > 1 ml/kg/h.
+6. Envisager des vasopresseurs et un transfert en réanimation.

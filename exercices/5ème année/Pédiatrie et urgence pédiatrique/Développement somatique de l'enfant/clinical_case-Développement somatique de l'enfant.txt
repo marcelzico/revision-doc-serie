@@ -1,0 +1,25 @@
+# CAS CLINIQUES : DÉVELOPPEMENT SOMATIQUE DE L'ENFANT
+
+Chapitre: Développement somatique de l'enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Développement somatique de l'enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Développement somatique
+
+Un garçon de 18 mois est vu en consultation systématique. Poids de naissance 3200 g, taille de naissance 50 cm. Poids actuel 11,5 kg, taille 82 cm, PC 48 cm. Les parents mesurent respectivement 175 cm et 162 cm. L’enfant est en bon état général, courbe de poids et de taille dans le couloir médian depuis la naissance.
+
+Questions :
+1. Calculez la taille cible génétique de cet enfant.
+2. Les mensurations actuelles sont-elles conformes aux repères attendus ?
+3. Quels facteurs de régulation de la croissance interrogez-vous dans l’anamnèse ?
+4. Quels indices de maturation pouvez-vous évaluer cliniquement à cet âge ?
+5. Quelle est la fréquence recommandée des mesures de croissance à cet âge ?
+6. Que feriez-vous si la courbe de taille avait ralenti depuis 6 mois alors que le poids restait normal ?
+
+Réponses attendues :
+1. (175 + 162)/2 + 6,5 = 175 cm.
+2. Oui : taille attendue ≈ 82 cm à 2 ans, poids ≈ PN × 3,5-4, PC dans les normes.
+3. Facteurs nutritionnels, psychologiques (carence affective) et socio-économiques, ainsi que les antécédents familiaux de taille.
+4. Dentition (nombre de dents de lait) et, si besoin, âge osseux.
+5. Tous les 4 mois entre 1 et 2 ans.
+6. Rechercher une cause chronique (endocrinienne, carence affective, pathologie chronique) et demander un avis spécialisé.

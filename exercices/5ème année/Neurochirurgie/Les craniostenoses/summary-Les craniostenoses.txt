@@ -1,0 +1,34 @@
+# CAS CLINIQUES : LES CRANIOSTENOSES
+
+Chapitre: Les craniostenoses
+Chemin source: 5ème année\Neurochirurgie\Les craniostenoses.docx
+--------------------------------------------------
+
+"Cas clinique – Crâniosténose"
+
+Un nourrisson de 5 mois présente un crâne allongé d’avant en arrière, étroit, avec un front bombé. La fontanelle antérieure est fermée. Le développement psychomoteur est normal. 
+
+Scanner 3D : synostose isolée de la suture sagittale.
+
+Questions :
+
+1. Quel type de crâniosténose présente cet enfant ?
+2. S’agit-il d’une forme simple ou syndromique ?
+3. Quel est le risque principal à long terme sans traitement ?
+4. À quel âge idéalement réalise-t-on la chirurgie ?
+5. Quelle technique chirurgicale est préférable ?
+
+Réponses :
+
+1. Scaphocéphalie (synostose sagittale).
+
+2. Forme simple (isolée).
+
+3. HTIC chronique avec retentissement mental et visuel, plus préjudice esthétique et psychologique.
+
+4. Vers 6-8 mois.
+
+5. Reconstruction crânio-faciale (ou au minimum craniotomie d’ouverture de la suture).
+
+Explication pédagogique :  
+Cas typique de scaphocéphalie simple, illustrant le diagnostic clinique + scanner 3D et le timing chirurgical optimal.

@@ -1,0 +1,35 @@
+# CAS CLINIQUES : CANCER DU REINCHEZ L'ADULTE
+
+Chapitre: Cancer du reinchez l'adulte
+Chemin source: 5ème année\Urologie\Cancer du reinchez l'adulte.docx
+--------------------------------------------------
+
+"Cas clinique – Cancer du rein"
+
+Un homme de 58 ans, fumeur, réalise une échographie abdominale pour des douleurs non spécifiques. On découvre une masse solide de 5,5 cm du pôle supérieur du rein droit, de densité tissulaire, prenant le contraste de façon hétérogène. 
+
+Le patient est asymptomatique, l’état général est conservé. 
+Bilan d’extension (scanner TAP) : pas d’adénopathie ni de métastase visible.
+
+Questions :
+
+1. Quel type histologique est le plus probable ?
+2. Quel est le stade T approximatif de cette tumeur ?
+3. Quel est le traitement de référence ?
+4. Quels éléments de pronostic favorable identifiez-vous ?
+5. Quel suivi proposez-vous après traitement ?
+
+Réponses :
+
+1. Adénocarcinome à cellules claires (tumeur de Grawitz) – 80 % des cas.
+
+2. T1b (tumeur entre 4 et 7 cm, limitée au rein).
+
+3. Néphrectomie élargie droite (ou néphrectomie partielle si techniquement possible et équipe entraînée).
+
+4. Découverte fortuite, taille < 7 cm (T1), absence d’extension ganglionnaire ou métastatique, âge < 60 ans et bon état général.
+
+5. Surveillance clinique, créatininémie et imagerie (scanner) selon le protocole en vigueur (rapprochée les premières années).
+
+Explication pédagogique :  
+Cas typique de découverte fortuite d’un cancer du rein localisé, illustrant le raisonnement TNM et la place de la néphrectomie élargie.

@@ -1,0 +1,25 @@
+# CAS CLINIQUES : COMA
+
+Chapitre: Coma
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Coma.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Coma
+
+Un enfant de 4 ans est amené aux urgences par sa mère qui le trouve « endormi et impossible à réveiller » depuis 1 heure. Il a présenté une fièvre et des vomissements depuis 24 heures. À l’arrivée : Glasgow pédiatrique estimé à 7 (yeux fermés, réponse verbale incompréhensible, retrait à la douleur), polypnée, FC 140/min, TA normale, pas de signe de localisation, fontanelle normale, pas de purpura.
+
+Questions :
+1. Quelle est votre conduite à tenir immédiate (premières minutes) ?
+2. Comment interprétez-vous le score de Glasgow et quel stade de coma attribuez-vous ?
+3. Quels examens biologiques demandez-vous en urgence absolue ?
+4. Quelles étiologies évoquez-vous en priorité dans ce contexte ?
+5. Quels signes de gravité neurologique recherchez-vous à l’examen ?
+6. Quel est le principe général du traitement ?
+
+Réponses attendues :
+1. Libération des voies aériennes (canule de Guedel si besoin), oxygène, scope, voie veineuse, glycémie capillaire immédiate, stabilisation hémodynamique.
+2. Score 7 = coma (3-7). Stade 2-3 (réactif ou aréactif selon la réponse exacte à la douleur).
+3. Glycémie, ionogramme, gaz du sang, NFS, CRP, procalcitonine, bilan hépatique, hémostase.
+4. Infection neuroméningée (méningite/encéphalite), intoxication, trouble métabolique, coma post-critique.
+5. Asymétrie pupillaire, signes d’engagement, troubles du tonus latéralisés, anomalies des réflexes du tronc.
+6. Traitement symptomatique des fonctions vitales + traitement étiologique dès que possible (antibiotiques/antiviraux si suspicion infectieuse, correction métabolique, etc.).

@@ -1,0 +1,34 @@
+# CAS CLINIQUES : SPINA-BIFIDA
+
+Chapitre: Spina-bifida
+Chemin source: 5ème année\Neurochirurgie\Spina-bifida.docx
+--------------------------------------------------
+
+"Cas clinique – Spina bifida"
+
+Un nouveau-né présente à la naissance une tuméfaction médiane lombaire de 6 cm, recouverte d’une fine membrane, sans signe de rupture. Les membres inférieurs sont hypotoniques avec une anesthésie en selle. 
+
+IRM : hernie contenant du LCS et des racines nerveuses ; hydrocéphalie associée.
+
+Questions :
+
+1. Quel type de spina bifida présente cet enfant ?
+2. Quelle est la différence avec une simple méningocèle ?
+3. Quel traitement préventif aurait pu être proposé à la mère ?
+4. Quelle est la conduite à tenir immédiate concernant la malformation ?
+5. Quelle malformation associée devez-vous traiter ?
+
+Réponses :
+
+1. Spina bifida aperta de type myéloméningocèle lombaire.
+
+2. Présence de racines (et éventuellement de moelle) dans la poche, alors que la méningocèle ne contient que du LCS.
+
+3. Acide folique 5 mg/j avant et en début de grossesse.
+
+4. Protection de la poche par compresses humides stériles, positionnement en décubitus ventral ou latéral, et fermeture chirurgicale (urgente si risque de rupture).
+
+5. Hydrocéphalie (dérivation du LCS).
+
+Explication pédagogique :  
+Cas typique de myéloméningocèle, illustrant la distinction des formes, la prévention par acide folique et la prise en charge médico-chirurgicale.

@@ -1,0 +1,25 @@
+# CAS CLINIQUES : RÉANIMATION EN SALLE DE NAISSANCE
+
+Chapitre: Réanimation en salle de naissance
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Réanimation en salle de naissance.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Réanimation en salle de naissance
+
+Vous êtes appelé pour un accouchement à 36 SA. À la naissance le nouveau-né ne crie pas, est hypotonique, cyanosé, FC à 80/min.
+
+Questions :
+1. Quels gestes réalisez-vous dans les 30 premières secondes ?
+2. Que faites-vous si après ces gestes la FC reste à 70/min et il n’y a pas de respiration efficace ?
+3. Quelles sont les contre-indications de la ventilation au masque ?
+4. À partir de quelle FC démarrez-vous le massage cardiaque ?
+5. Quelle dose d’adrénaline administrez-vous et par quelle voie en première intention ?
+6. Quelle est la durée maximale de poursuite de la réanimation ?
+
+Réponses attendues :
+1. Chronomètre, table chauffante, sécher + bonnet, stimuler, position neutre de la tête, aspiration oro-nasopharyngée.
+2. Ventilation à pression positive au masque (ballon).
+3. Inhalation méconiale, hernie diaphragmatique, pneumothorax.
+4. FC < 60-80/min malgré ventilation efficace.
+5. 50 µg/kg par cathéter veineux ombilical (ou 10 µg/kg IV).
+6. 20 minutes (au-delà discussion éthique).

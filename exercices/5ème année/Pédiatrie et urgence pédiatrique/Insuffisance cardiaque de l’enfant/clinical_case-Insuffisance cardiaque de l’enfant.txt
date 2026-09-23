@@ -1,0 +1,25 @@
+# CAS CLINIQUES : INSUFFISANCE CARDIAQUE DE L’ENFANT
+
+Chapitre: Insuffisance cardiaque de l’enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Insuffisance cardiaque de l’enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Insuffisance cardiaque
+
+Un nourrisson de 6 semaines, connu pour une CIV large, présente depuis 48 heures une polypnée, des difficultés alimentaires et une prise de poids excessive. À l’examen : FR 70/min, tirage, hépatomégalie, galop, TA 75/45 mmHg, TRC 3 s.
+
+Questions :
+1. Quel diagnostic portez-vous et quels signes le justifient ?
+2. Quels examens demandez-vous en urgence ?
+3. Quelles mesures générales instituez-vous immédiatement ?
+4. Quel traitement médicamenteux de première intention proposez-vous ?
+5. Quelle est l’étiologie la plus probable à cet âge ?
+6. Quel est l’objectif hémodynamique du traitement ?
+
+Réponses attendues :
+1. Insuffisance cardiaque congestive (congestion pulmonaire + systémique + signes de bas débit).
+2. Radiographie thoracique, gazométrie, échographie cardiaque, ionogramme, BNP.
+3. Repos, oxygène, restriction hydro-sodée, fractionnement des repas, surveillance.
+4. Furosémide 2 mg/kg/j ± dobutamine si bas débit, IEC à doses progressives.
+5. Shunt gauche-droite large (CIV) décompensé.
+6. Améliorer le débit cardiaque et diminuer les pressions de remplissage.

@@ -1,0 +1,25 @@
+# CAS CLINIQUES : ENCÉPHALOPATHIE AIGUË (APPROCHE DIAGNOSTIC)
+
+Chapitre: Encéphalopathie aiguë (approche diagnostic)
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Encéphalopathie aiguë (approche diagnostic).docx
+--------------------------------------------------
+
+CAS CLINIQUE – Encéphalopathie aiguë
+
+Un enfant de 3 ans est amené pour une altération de la conscience depuis 6 heures. Il a présenté une fièvre et des vomissements depuis 24 heures. À l’arrivée : Glasgow 9, fébrile à 39 °C, raideur de nuque, pas de signe de localisation, pupilles symétriques et réactives. Pas d’ictère ni d’œdème.
+
+Questions :
+1. Quel syndrome présente cet enfant ?
+2. Quels éléments de l’interrogatoire et de l’examen sont prioritaires ?
+3. Quels examens de première intention demandez-vous ?
+4. Quelle étiologie évoquez-vous en priorité ?
+5. Quelle est votre conduite à tenir immédiate avant les résultats ?
+6. Quelles autres catégories étiologiques devez-vous garder à l’esprit ?
+
+Réponses attendues :
+1. Encéphalopathie aiguë avec syndrome méningé fébrile.
+2. Mode de début, convulsions, voyage, contage, prise de médicaments/toxiques, antécédents, score de conscience, signes focaux, fond d’œil.
+3. Glycémie, gaz du sang, ionogramme, NFS, CRP, hémoculture, PL (si pas de signe d’HTIC), imagerie si doute.
+4. Infection neuroméningée (méningite/encéphalite).
+5. Stabilisation des fonctions vitales, antibiothérapie ± antiviral probabiliste après les prélèvements, surveillance neurologique rapprochée.
+6. Causes métaboliques, toxiques, épileptiques, hypertensives, tumorales.

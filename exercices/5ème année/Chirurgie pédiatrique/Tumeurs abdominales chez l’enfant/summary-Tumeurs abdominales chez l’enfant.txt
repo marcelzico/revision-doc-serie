@@ -1,0 +1,27 @@
+# CAS CLINIQUES : TUMEURS ABDOMINALES CHEZ L’ENFANT
+
+Chapitre: Tumeurs abdominales chez l’enfant
+Chemin source: 5ème année\Chirurgie pédiatrique\Tumeurs abdominales chez l’enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Tumeurs abdominales chez l’enfant
+
+Un enfant de 3 ans présente une augmentation rapide du volume de l’abdomen. L’examen trouve une masse abdominale ferme, lisse et indolore. L’échographie montre une masse intra-rénale volumineuse. Les catécholamines urinaires sont normales.
+
+1. Quel diagnostic évoquez-vous en priorité ?
+2. Pourquoi les catécholamines urinaires sont-elles importantes dans ce contexte ?
+3. Quels sont les stades de la classification SIOP ?
+4. Quels sont les principes du traitement ?
+5. Quelle est la règle concernant la laparotomie exploratrice ?
+
+Réponses attendues :
+
+1. Néphroblastome (tumeur de Wilms).
+
+2. Leur négativité permet d’éliminer un neuroblastome et de débuter le traitement sans preuve histologique immédiate.
+
+3. Stade I (limité au rein, exérèse complète), II (extension mais résection totale), III (exérèse incomplète), IV (métastases hématogènes), V (bilatéral).
+
+4. Chimiothérapie préopératoire de réduction, puis néphrectomie totale élargie, suivie de chimiothérapie ± radiothérapie selon le stade.
+
+5. Pas de place pour une laparotomie exploratrice : le diagnostic repose sur l’imagerie et les marqueurs.

@@ -1,0 +1,44 @@
+# CAS CLINIQUES : GLOMERULONEPHRITE MEMBRANOPROLIFERATIVE
+
+Chapitre: Glomerulonephrite membranoproliferative
+Chemin source: 5ème année\Néphrologie\Glomerulonephrite membranoproliferative.docx
+--------------------------------------------------
+
+"Cas clinique – Glomérulonéphrite membranoproliférative"
+
+Une femme de 34 ans consulte pour des œdèmes des membres inférieurs et une hématurie macroscopique évoluant depuis 3 semaines. Elle signale une fatigue importante et une perte de poids. 
+
+Examen : PA 155/95 mmHg, œdèmes des membres inférieurs, pas de purpura. 
+
+Bilan :
+- Créatininémie = 185 µmol/l (antérieure normale 1 mois plus tôt)
+- Protéinurie = 3,2 g/24 h
+- Hématurie + cylindres hématiques
+- C3 et C4 abaissés
+- AAN positifs à 1/640, anti-ADN positifs
+- Sérologies VHB, VHC, VIH négatives
+
+La biopsie rénale montre un épaississement des parois capillaires avec aspect en double contour et des dépôts de C3 en immunofluorescence.
+
+Questions :
+
+1. Quel syndrome clinico-biologique présente cette patiente ?
+2. Quel type de glomérulonéphrite est le plus probable ?
+3. Quelle étiologie devez-vous retenir en priorité ?
+4. Quels autres examens complémentaires sont utiles ?
+5. Quelle est la gravité potentielle de cette atteinte et quelle attitude thérapeutique adoptez-vous ?
+
+Réponses :
+
+1. Syndrome néphritique aigu persistant avec insuffisance rénale rapidement progressive et hypocomplémentémie.
+
+2. Glomérulonéphrite membranoproliférative (aspect en double contour + dépôts de C3).
+
+3. Lupus érythémateux systémique (AAN et anti-ADN positifs + hypocomplémentémie).
+
+4. Bilan immunologique complet (anti-Sm, anti-phospholipides, dosage du complément), recherche d’autres atteintes lupiques, et éventuellement ANCA et anti-MBG si prolifération extracapillaire.
+
+5. Risque d’évolution rapide vers l’insuffisance rénale chronique irréversible. Traitement urgent de la cause (corticoïdes ± immunosuppresseurs selon le protocole lupique), néphroprotection et dialyse si nécessaire.
+
+Explication pédagogique :  
+Cas illustrant l’association fréquente GN membranoproliférative + lupus, avec l’urgence liée à la rapidité d’évolution vers l’IRC.

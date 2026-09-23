@@ -1,0 +1,25 @@
+# CAS CLINIQUES : SYNDROME NÉPHROTIQUE CHEZ L'ENFANT
+
+Chapitre: Syndrome néphrotique chez l'enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Syndrome néphrotique chez l'enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Syndrome néphrotique
+
+Un garçon de 4 ans présente depuis 3 jours des œdèmes des paupières et des chevilles, une prise de poids de 2 kg. BU : protéinurie +++. Albuminémie 18 g/l, protidémie 48 g/l, cholestérol élevé. TA normale, pas d’hématurie, créatinine normale.
+
+Questions :
+1. Confirmez-vous le diagnostic de syndrome néphrotique et précisez s’il est pur ou impur.
+2. Quelle est l’étiologie la plus probable à cet âge ?
+3. Quel traitement de fond instituez-vous ?
+4. Quelles mesures symptomatiques associez-vous compte tenu de l’albuminémie ?
+5. Quelles complications redoutez-vous particulièrement ?
+6. Comment définissez-vous une rémission ?
+
+Réponses attendues :
+1. Oui, syndrome néphrotique pur (pas d’HTA, pas d’hématurie, pas d’IRA).
+2. Néphrose lipoïdique (idiopathique).
+3. Prednisone 60 mg/m²/j pendant 4 semaines puis décroissance.
+4. Restriction hydro-sodée, anticoagulation (albumine < 20 g/l), vitamine D + calcium.
+5. Thrombose, infection (péritonite), hypovolémie.
+6. Protéinurie < 0,15 g/24 h et albuminémie normalisée.

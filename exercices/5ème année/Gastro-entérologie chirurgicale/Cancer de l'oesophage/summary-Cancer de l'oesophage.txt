@@ -1,0 +1,27 @@
+# CAS CLINIQUES : CANCER DE L'OESOPHAGE
+
+Chapitre: Cancer de l'oesophage
+Chemin source: 5ème année\Gastro-entérologie chirurgicale\Cancer de l'oesophage.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Cancer de l’œsophage
+
+Un homme de 65 ans, grand alcoolotabagique, présente une dysphagie aux solides puis aux liquides, une hypersialorrhée et un amaigrissement important. La fibroscopie montre une sténose ulcéro-bourgeonnante du 1/3 moyen de l’œsophage.
+
+1. Quel type histologique est le plus probable ?
+2. Quels facteurs de risque principaux recherchez-vous ?
+3. Quels signes d’extension locale ou à distance recherchez-vous ?
+4. Quels examens font partie du bilan d’extension ?
+5. Quels sont les principes du traitement selon le stade ?
+
+Réponses attendues :
+
+1. Carcinome épidermoïde.
+
+2. Alcool, tabac, éventuel endobrachy-œsophage ou sténose caustique.
+
+3. Dysphonie, toux à la déglutition, ganglion de Troisier, hépatomégalie, douleurs thoraciques.
+
+4. Radio pulmonaire, fibroscopie trachéo-bronchique, TDM, écho-endoscopie, examen ORL.
+
+5. Stades limités : œsophagectomie + curage + plastie. Stades évolués : traitement palliatif (endoprothèse, radio-chimiothérapie…).

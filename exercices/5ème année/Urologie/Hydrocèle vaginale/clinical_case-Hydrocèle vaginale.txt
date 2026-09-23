@@ -1,0 +1,35 @@
+# CAS CLINIQUES : HYDROCÈLE VAGINALE
+
+Chapitre: Hydrocèle vaginale
+Chemin source: 5ème année\Urologie\Hydrocèle vaginale.docx
+--------------------------------------------------
+
+"Cas clinique – Hydrocèle vaginale"
+
+Un homme de 45 ans consulte pour une augmentation progressive et indolore du volume de la bourse droite depuis 8 mois. Il n’a pas d’antécédent particulier. 
+
+Examen : tuméfaction scrotale droite rénitente, transilluminable, non réductible, non impulsive à la toux. Le testicule n’est pas palpable distinctement. 
+Échographie : collection liquidienne pure entourant un testicule d’échostructure normale.
+
+Questions :
+
+1. Quel diagnostic posez-vous ?
+2. Quels arguments cliniques et paracliniques le soutiennent ?
+3. Quels diagnostics différentiels avez-vous écartés ?
+4. Quelle est la cause la plus probable ?
+5. Quel traitement proposez-vous ?
+
+Réponses :
+
+1. Hydrocèle vaginale droite.
+
+2. Tuméfaction indolore, rénitente, transilluminable, non réductible ; confirmation échographique d’une collection liquidienne pure avec testicule normal.
+
+3. Hernie inguinale (non réductible, non impulsive), kyste du cordon (siège différent), tumeur testiculaire (testicule normal à l’échographie).
+
+4. Hydrocèle essentielle (aucune cause épididymaire ou testiculaire retrouvée).
+
+5. Traitement chirurgical : résection de la vaginale (ou retournement/plicature) pour éviter les récidives.
+
+Explication pédagogique :  
+Cas classique d’hydrocèle de l’adulte, illustrant les caractères cliniques, la place de l’échographie et l’indication chirurgicale.

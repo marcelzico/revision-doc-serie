@@ -1,0 +1,34 @@
+# CAS CLINIQUES : STOMATITE
+
+Chapitre: Stomatite
+Chemin source: 5ème année\Stomatologie\Stomatite.docx
+--------------------------------------------------
+
+"Cas clinique – Stomatite candidosique"
+
+Une femme de 55 ans, sous corticothérapie prolongée pour une polyarthrite, présente depuis 10 jours une sensation de brûlure buccale et un enduit blanchâtre sur la langue et les joues, facilement détachable. 
+
+Examen : langue rouge dépapillée par endroits, plaques blanchâtres adhérentes par endroits.
+
+Questions :
+
+1. Quel diagnostic évoquez-vous ?
+2. Quel facteur favorisant est présent ?
+3. Comment confirmez-vous le diagnostic ?
+4. Quelle est la forme clinique (aiguë ou chronique) ?
+5. Quel traitement instituez-vous ?
+
+Réponses :
+
+1. Stomatite candidosique (muguet).
+
+2. Corticothérapie prolongée (modification du terrain).
+
+3. Examen direct ou culture sur milieu de Sabouraud mettant en évidence Candida albicans.
+
+4. Forme subaiguë/chronique (plaques adhérentes + zones dépapillées).
+
+5. Antifongique local (et parfois général), correction du facteur favorisant si possible, et hygiène buccale.
+
+Explication pédagogique :  
+Cas typique de candidose buccale sur terrain cortisoné, illustrant les signes et le diagnostic mycologique.

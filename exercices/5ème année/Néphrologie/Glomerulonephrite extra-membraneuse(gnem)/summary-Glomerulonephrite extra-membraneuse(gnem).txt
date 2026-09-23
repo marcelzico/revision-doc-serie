@@ -1,0 +1,45 @@
+# CAS CLINIQUES : GLOMERULONEPHRITE EXTRA-MEMBRANEUSE(GNEM)
+
+Chapitre: Glomerulonephrite extra-membraneuse(gnem)
+Chemin source: 5ème année\Néphrologie\Glomerulonephrite extra-membraneuse(gnem).docx
+--------------------------------------------------
+
+"Cas clinique – Glomérulonéphrite extra-membraneuse"
+
+Un homme de 54 ans, sans antécédent notable, consulte pour des œdèmes des membres inférieurs évoluant depuis 4 mois. Il a pris régulièrement des AINS pour des lombalgies. 
+
+Examen : PA 150/90 mmHg, œdèmes blancs et mous des membres inférieurs jusqu’aux genoux, pas d’hépatomégalie ni de signes de lupus. 
+
+Bilan :
+- Protéinurie = 6,8 g/24 h
+- Albuminémie = 22 g/l
+- Créatininémie = 98 µmol/l
+- Hématurie microscopique
+- Cholestérol total élevé
+- Sérologies VHB, VHC, VIH négatives
+- AAN et anti-ADN négatifs
+
+La biopsie rénale montre un épaississement diffus des parois capillaires avec aspect en « spikes » à l’argentation et des dépôts granuleux d’IgG et C3 en immunofluorescence.
+
+Questions :
+
+1. Quel syndrome présente ce patient ?
+2. Quel diagnostic histologique retenez-vous ?
+3. Quelles étiologies devez-vous rechercher en priorité ?
+4. Quelle prise en charge non spécifique instituez-vous ?
+5. Ce patient a-t-il une indication à un traitement immunosuppresseur d’emblée ? Justifiez.
+
+Réponses :
+
+1. Syndrome néphrotique impur (protéinurie massive, hypoalbuminémie, œdèmes + hématurie et HTA).
+
+2. Glomérulonéphrite extra-membraneuse (GNEM).
+
+3. Causes médicamenteuses (AINS), cancers occultes (âge > 50 ans), infections virales (déjà négatives) et maladies systémiques (lupus déjà peu probable).
+
+4. Arrêt des AINS, régime sans sel, diurétiques, IEC (objectif TA < 130/80 et protéinurie < 0,5 g/24 h), prévention des complications thromboemboliques et surveillance de la fonction rénale.
+
+5. Non d’emblée. La protéinurie est à 6,8 g/j depuis seulement 4 mois et le DFG est normal. On peut attendre sous traitement non spécifique et réévaluer à 6-9 mois selon les seuils d’indication du traitement spécifique.
+
+Explication pédagogique :  
+Cas classique de GNEM de l’adulte, soulignant l’importance de la recherche étiologique (AINS, cancer) et le raisonnement sur l’indication du traitement immunosuppresseur.

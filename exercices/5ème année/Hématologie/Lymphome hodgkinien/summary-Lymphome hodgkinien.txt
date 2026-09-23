@@ -1,0 +1,27 @@
+# CAS CLINIQUES : LYMPHOME HODGKINIEN
+
+Chapitre: Lymphome hodgkinien
+Chemin source: 5ème année\Hématologie\Lymphome hodgkinien.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Lymphome hodgkinien
+
+Un jeune homme de 28 ans présente des adénopathies cervicales indolores, fermes, asymétriques, associées à des sueurs nocturnes et un prurit. La biopsie ganglionnaire montre des cellules de Sternberg.
+
+1. Quel est le diagnostic ?
+2. Quels sont les signes d’évolutivité à rechercher ?
+3. Quelle classification utilise-t-on pour le staging ?
+4. Quel est le protocole de chimiothérapie de référence ?
+5. Quels sont les principaux facteurs de mauvais pronostic ?
+
+Réponses attendues :
+
+1. Maladie de Hodgkin (lymphome hodgkinien).
+
+2. Fièvre prolongée, sueurs nocturnes, amaigrissement, et signes biologiques (VS, CRP, etc.).
+
+3. Classification d’Ann Arbor (I à IV).
+
+4. ABVD.
+
+5. Sexe masculin, âge > 45 ans, anémie, hyperleucocytose, lymphopénie, masse médiastinale volumineuse, hypoalbuminémie.

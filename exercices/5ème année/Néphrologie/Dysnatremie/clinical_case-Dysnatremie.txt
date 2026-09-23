@@ -1,0 +1,52 @@
+# CAS CLINIQUES : DYSNATREMIE
+
+Chapitre: Dysnatremie
+Chemin source: 5ème année\Néphrologie\Dysnatremie.docx
+--------------------------------------------------
+
+"Cas clinique – Hyponatrémie symptomatique"
+
+Une femme de 72 ans, traitée depuis 3 semaines par hydrochlorothiazide 25 mg/j pour une HTA, est amenée aux urgences pour confusion et vomissements. Sa fille signale une asthénie progressive et un dégoût de l’eau depuis 5 jours. 
+
+À l’examen : PA 110/70 mmHg, FC 88/min, pas d’œdème des membres inférieurs, muqueuses semi-sèches. 
+Score de Glasgow 13/15, pas de déficit focal. 
+
+Bilan biologique :
+- Natrémie = 118 mmol/l
+- Kaliémie = 3,1 mmol/l
+- Créatininémie = 78 µmol/l
+- Glycémie = 0,95 g/l
+- Osmolalité plasmatique calculée = 245 mosm/l
+- Natriurèse = 45 mmol/l
+- Diurèse des 24 h = 1,8 L
+
+Questions :
+
+1. Quel type d’hyponatrémie présente cette patiente ? Justifiez avec les trois paramètres diagnostiques.
+2. Quelle est l’étiologie la plus probable ?
+3. Quels sont les risques immédiats liés à cette hyponatrémie ?
+4. Quelle stratégie thérapeutique allez-vous adopter dans les premières heures ? Précisez les objectifs de correction.
+5. Quels éléments de surveillance sont indispensables ?
+
+Réponses :
+
+1. Hyponatrémie hypotonique (vraie) à volume extracellulaire diminué (ou normal-bas) avec pertes rénales de sodium.  
+   - Tonicité basse (osmolalité 245 mosm/l) → vraie hyponatrémie  
+   - VEC diminué (muqueuses semi-sèches, pas d’œdème, tension artérielle limite)  
+   - Natriurèse élevée (45 mmol/l) → pertes rénales
+
+2. Diurétique thiazidique (hydrochlorothiazide).  
+   Les thiazidiques sont une cause classique d’hyponatrémie, surtout chez la personne âgée.
+
+3. Œdème cérébral (confusion déjà présente) pouvant évoluer vers le coma ou les convulsions si la natrémie continue de baisser.
+
+4. 
+- Arrêt immédiat du thiazidique  
+- Correction active prudente de la natrémie (soluté salé isotonique ou hypertonique selon le protocole local) visant +2 à +4 mmol/l en 2-4 heures jusqu’à amélioration neurologique  
+- Ne jamais dépasser +10 mmol/l en 24 h et +18 mmol/l en 48 h  
+- Apport potassique associé (kaliémie à 3,1 mmol/l)
+
+5. Surveillance clinique neurologique rapprochée + ionogrammes répétés (toutes les 2-4 heures au début) jusqu’à stabilisation, surveillance de la diurèse et de la kaliémie.
+
+Explication pédagogique :  
+Ce cas reprend les points les plus interrogés en QE : distinction vraie vs fausse hyponatrémie, classification selon le VEC et la natriurèse, rôle des thiazidiques, et règles strictes de correction pour éviter la myélinolyse centropontine.

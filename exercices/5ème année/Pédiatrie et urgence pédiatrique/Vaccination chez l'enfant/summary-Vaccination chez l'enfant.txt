@@ -1,0 +1,25 @@
+# CAS CLINIQUES : VACCINATION CHEZ L'ENFANT
+
+Chapitre: Vaccination chez l'enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Vaccination chez l'enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Vaccination
+
+Une mère amène son enfant de 9 mois qui n’a reçu que le BCG et une dose de Pentavalent. Elle demande les vaccins manquants. L’enfant est en bonne santé.
+
+Questions :
+1. Quels vaccins du PEV manquent à cet âge ?
+2. Quel principe de rattrapage appliquez-vous ?
+3. Que feriez-vous si l’enfant était sous corticothérapie prolongée ?
+4. Quelle particularité pour un prématuré de 30 SA ?
+5. Quels conseils donnez-vous concernant les rappels futurs ?
+6. Pourquoi la vaccination est-elle un devoir médical ?
+
+Réponses attendues :
+1. Doses restantes de Pentavalent, pneumocoque, rotavirus, polio, rougeole, hépatite B selon le calendrier.
+2. Reprendre les doses manquantes en respectant les intervalles minimaux, sans recommencer tout le schéma si certaines doses ont été données.
+3. Contre-indication des vaccins vivants (ROR, BCG, rotavirus) tant que l’immunodépression persiste.
+4. Vacciner à l’âge chronologique ; coqueluche sous surveillance si < 33 SA ou < 1500 g.
+5. Rappels DTC-polio à 6 ans, 11-13 ans et 25 ans.
+6. Elle réduit la mortalité et l’incidence des maladies évitables et participe à l’immunité collective.

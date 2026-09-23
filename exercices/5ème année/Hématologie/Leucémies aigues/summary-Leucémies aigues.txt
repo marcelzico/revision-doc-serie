@@ -1,0 +1,27 @@
+# CAS CLINIQUES : LEUCÉMIES AIGUES
+
+Chapitre: Leucémies aigues
+Chemin source: 5ème année\Hématologie\Leucémies aigues.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Leucémies aiguës
+
+Un enfant de 6 ans présente une pâleur, une fièvre, un purpura et des douleurs osseuses. L’hémogramme montre une anémie arégénérative, une thrombopénie, une neutropénie et des blastes circulants. Le myélogramme retrouve plus de 20 % de blastes.
+
+1. Quel diagnostic évoquez-vous ?
+2. Quels sont les deux grands ordres de signes cliniques des leucémies aiguës ?
+3. Quel examen confirme le diagnostic et permet le typage ?
+4. Quels sont les principes du traitement spécifique ?
+5. Quelles urgences faut-il craindre en cas d’hyperleucocytose majeure ?
+
+Réponses attendues :
+
+1. Leucémie aiguë (probablement lymphoblastique chez l’enfant).
+
+2. Signes d’insuffisance médullaire et signes de prolifération tumorale.
+
+3. Myélogramme (± immunophénotypage, cytogénétique, biologie moléculaire).
+
+4. Induction → consolidation → éventuelle greffe selon le pronostic.
+
+5. Leucostase cérébrale ou pulmonaire (indication de cytaphérèse ou d’échange transfusionnel).

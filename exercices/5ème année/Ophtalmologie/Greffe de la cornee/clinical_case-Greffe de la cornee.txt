@@ -1,0 +1,34 @@
+# CAS CLINIQUES : GREFFE DE LA CORNEE
+
+Chapitre: Greffe de la cornee
+Chemin source: 5ème année\Ophtalmologie\Greffe de la cornee.docx
+--------------------------------------------------
+
+"Cas clinique – Greffe de cornée"
+
+Un homme de 28 ans présente un kératocône évolué avec opacités cornéennes centrales et une acuité visuelle limitée à 1/10 malgré une correction en lentilles. 
+
+L’endothélium est sain.
+
+Questions :
+
+1. Quelle technique de greffe est la plus adaptée ?
+2. Pourquoi cette technique est-elle préférée ici ?
+3. Quel traitement post-opératoire est indispensable ?
+4. Quelles complications devez-vous surveiller ?
+5. Quel est le pronostic global de la greffe de cornée ?
+
+Réponses :
+
+1. Kératoplastie lamellaire antérieure profonde (KLAP).
+
+2. Parce que l’atteinte est stromale et que l’endothélium est sain (préservation de l’endothélium du receveur).
+
+3. Corticothérapie locale pendant environ 1 an.
+
+4. Rejet, astigmatisme, hypertonie, retard d’épithélialisation et récidive éventuelle.
+
+5. Bon résultat anatomique et fonctionnel dans environ 2/3 des cas (taux de succès global 60-90 %).
+
+Explication pédagogique :  
+Cas typique de kératocône, illustrant le choix de la KLAP, le traitement corticoïde prolongé et le pronostic favorable.

@@ -1,0 +1,25 @@
+# CAS CLINIQUES : ADAPTATION À LA VIE EXTRA-UTÉRINE
+
+Chapitre: Adaptation à la vie extra-utérine
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Adaptation à la vie extra-utérine.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Adaptation à la vie extra-utérine
+
+Vous êtes de garde en salle de naissance. L’équipe obstétricale vous prévient qu’une césarienne en urgence est en cours pour un fœtus à 38 SA + 2 jours, poids estimé 3200 g. La mère n’a pas d’antécédent particulier. À la naissance, le nouveau-né est hypotonique, ne crie pas et présente une cyanose généralisée. Le cordon est clampé à 30 secondes.
+
+Questions :
+1. À quel moment et comment évaluez-vous pour la première fois l’adaptation à la vie extra-utérine de ce nouveau-né ?
+2. Quels sont les éléments cliniques que vous recherchez immédiatement pour juger de la qualité de l’adaptation cardio-respiratoire ?
+3. Le score d’Apgar à 1 minute est à 4 (fréquence cardiaque 80/min, respiration absente, tonus hypotonique, réactivité faible, coloration cyanosée). Que signifie ce score et quelle est votre conduite à tenir immédiate ?
+4. Expliquez physiologiquement pourquoi ce nouveau-né présente une mauvaise adaptation respiratoire et circulatoire.
+5. Quels sont les mécanismes de pertes thermiques que vous devez prévenir dès la prise en charge de ce nouveau-né et pourquoi est-il particulièrement à risque ?
+6. Quels facteurs de risque d’hypoglycémie néonatale recherchez-vous chez ce nouveau-né et quelle surveillance mettez-vous en place ?
+
+Réponses attendues :
+1. À 1 minute de vie (puis à 5 et 10 minutes) par le score d’Apgar.
+2. Fréquence cardiaque, efforts respiratoires (cri, mouvements), tonus musculaire, réactivité/réflexe, coloration cutanée.
+3. Score d’Apgar < 7 à 1 minute = asphyxie périnatale / mauvaise adaptation. Conduite : réanimation immédiate selon les règles de réanimation du nouveau-né (séchage, stimulation, libération des voies aériennes, ventilation si besoin).
+4. Absence d’évacuation efficace du liquide pulmonaire, défaut d’ouverture alvéolaire et de sécrétion de surfactant → hypoxie → absence de chute des résistances vasculaires pulmonaires et de fermeture des shunts (foramen ovale, canal artériel).
+5. Conduction, convection, radiation, évaporation. Risque élevé car le nouveau-né vient de quitter un environnement thermique stable ; les pertes énergétiques sont majeures si non protégé (surtout si réanimation prolongée).
+6. Facteurs : stress périnatal (césarienne en urgence, asphyxie), possible hypothermie. Surveillance : glycémie capillaire précoce (idéalement avant 30-60 min de vie) puis selon protocoles, prévention de l’hypothermie et alimentation précoce.

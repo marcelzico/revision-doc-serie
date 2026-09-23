@@ -1,0 +1,40 @@
+# CAS CLINIQUES : NEPHROANGIOSCLEROSE “BENIGNE”
+
+Chapitre: Nephroangiosclerose “benigne”
+Chemin source: 5ème année\Néphrologie\Nephroangiosclerose “benigne”.docx
+--------------------------------------------------
+
+"Cas clinique – Néphroangiosclérose bénigne"
+
+Un homme de 68 ans, hypertendu depuis 15 ans, irrégulièrement traité, consulte pour un bilan de fatigue. Il n’a pas d’hématurie ni d’œdème. 
+
+Examen : PA 165/95 mmHg, HVG à l’ECG, fond d’œil stade II. 
+
+Bilan :
+- Créatininémie = 175 µmol/l (DFG ≈ 35 ml/min)
+- Protéinurie = 0,6 g/24 h
+- Sédiment urinaire pauvre (pas d’hématurie, pas de cylindre)
+- Échographie : reins de taille diminuée (9 cm), contours réguliers, pas de sténose d’artère rénale
+
+Questions :
+
+1. Quel diagnostic est le plus probable ?
+2. Quels arguments cliniques, biologiques et morphologiques le soutiennent ?
+3. Pourquoi parle-t-on de diagnostic d’élimination ?
+4. Quels sont vos objectifs tensionnels ?
+5. Quelle prise en charge proposez-vous ?
+
+Réponses :
+
+1. Néphroangiosclérose « bénigne ».
+
+2. HTA ancienne mal contrôlée (> 10 ans), complications d’organe (HVG, rétinopathie), insuffisance rénale lentement progressive, protéinurie modérée < 1 g/24 h, sédiment urinaire pauvre et petits reins harmonieux à l’échographie.
+
+3. Parce que les lésions histologiques sont non spécifiques et qu’il faut avoir écarté les autres causes de néphropathie (glomérulaire, tubulo-interstitielle, sténose d’artère rénale…).
+
+4. PA < 140/90 mmHg, idéalement < 130/80 mmHg car protéinurie > 0,5 g/24 h.
+
+5. Optimisation du traitement antihypertenseur avec un IEC (ou ARA2) en première intention, correction des facteurs de risque cardio-vasculaire, surveillance de la fonction rénale et prise en charge des complications de l’IRC.
+
+Explication pédagogique :  
+Cas classique de néphroangiosclérose bénigne, très souvent demandé en QE sous la forme « diagnostic positif » et « prise en charge ».

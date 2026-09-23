@@ -1,0 +1,25 @@
+# CAS CLINIQUES : COQUELUCHE
+
+Chapitre: Coqueluche
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Coqueluche.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Coqueluche
+
+Un nourrisson de 2 mois non vacciné est hospitalisé pour des quintes de toux depuis 8 jours. Les quintes sont émétisantes, cyanosantes et suivies d’un chant du coq. Entre les quintes l’examen est normal. Il a présenté deux épisodes d’apnée courte. NFS : leucocytes 28 000/mm³ dont 70 % de lymphocytes.
+
+Questions :
+1. Quel diagnostic portez-vous et sur quels arguments ?
+2. Quels examens confirment le diagnostic ?
+3. Quelle est votre conduite à tenir thérapeutique immédiate ?
+4. Quelles complications redoutez-vous particulièrement chez ce nourrisson ?
+5. Quelles mesures prenez-vous vis-à-vis de l’entourage ?
+6. Quel est le traitement antibiotique exact que vous prescrivez ?
+
+Réponses attendues :
+1. Coqueluche du nourrisson (âge < 3 mois, non vacciné, quintes typiques + apnées + hyperlymphocytose).
+2. PCR Bordetella pertussis (ou culture).
+3. Hospitalisation, isolement, surveillance sous scope, alimentation fractionnée, kinésithérapie si encombrement, macrolide.
+4. Apnées prolongées, bradycardie, arrêt cardiaque, convulsions, dénutrition/déshydratation.
+5. Antibioprophylaxie des contacts à risque (surtout nourrissons et femmes enceintes au 3e trimestre) + éviction.
+6. Azithromycine 20 mg/kg/j pendant 3 jours ou clarithromycine 15 mg/kg/j pendant 7 jours.

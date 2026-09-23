@@ -1,0 +1,25 @@
+# CAS CLINIQUES : BRONCHITE AIGUË
+
+Chapitre: Bronchite aiguë
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Bronchite aiguë.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Bronchite aiguë
+
+Un garçon de 3 ans est vu en consultation pour une toux évoluant depuis 5 jours. Il a commencé par une rhinite et une fièvre à 38 °C pendant 2 jours. Actuellement la fièvre a disparu, la toux est devenue grasse avec des expectorations. À l’auscultation on retrouve des râles ronflants bilatéraux. État général conservé, pas de polypnée, SpO2 98 %.
+
+Questions :
+1. Quel diagnostic portez-vous et sur quels arguments cliniques ?
+2. Quels examens complémentaires demandez-vous ?
+3. Quel traitement instituez-vous ?
+4. Quels signes vous feraient craindre une surinfection bactérienne ?
+5. Que feriez-vous si la toux productive persistait au-delà de 4 semaines ?
+6. Quels conseils donnez-vous aux parents ?
+
+Réponses attendues :
+1. Bronchite aiguë (phase d’état) : succession rhinite → toux sèche puis grasse + ronchi, sans signe de gravité.
+2. Aucun examen complémentaire n’est nécessaire.
+3. Désobstruction rhinopharyngée, paracétamol si besoin, pas d’antitussif ni d’antibiotique, respect de la toux.
+4. Fièvre > 38,5 °C pendant plus de 3 jours associée à des signes d’atteinte alvéolaire clinique ou radiologique.
+5. Évoquer une bronchite bactérienne persistante et discuter une antibiothérapie prolongée (amoxicilline-acide clavulanique 2-4 semaines) après avoir éliminé une autre cause.
+6. Éviter le tabagisme passif, reconsulter si fièvre réapparaît, polypnée ou altération de l’état général.

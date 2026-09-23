@@ -1,0 +1,27 @@
+# CAS CLINIQUES : CLASSIFICATION DES HÉMOPATHIES MALIGNES
+
+Chapitre: Classification des hémopathies malignes
+Chemin source: 5ème année\Hématologie\Classification des hémopathies malignes.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Hémopathie maligne
+
+Un homme de 55 ans présente une asthénie et une splénomégalie volumineuse. NFS : leucocytes 120 000/mm³ avec myélémie, plaquettes 600 000/mm³, Hb 11 g/dl. Le caryotype montre un chromosome Philadelphie.
+
+1. Quel est le diagnostic ?
+2. Quelle anomalie moléculaire est responsable ?
+3. Quelles sont les trois phases évolutives ?
+4. Quel traitement ciblé prescrivez-vous ?
+5. Quelles complications de l’hyperleucocytose redoutez-vous ?
+
+Réponses attendues :
+
+1. Leucémie myéloïde chronique en phase chronique.
+
+2. Gène de fusion BCR-ABL (tyrosine kinase).
+
+3. Phase chronique → accélération → acutisation (LA).
+
+4. Inhibiteur de tyrosine kinase (imatinib).
+
+5. Leucostase (pulmonaire, cérébrale, priapisme).

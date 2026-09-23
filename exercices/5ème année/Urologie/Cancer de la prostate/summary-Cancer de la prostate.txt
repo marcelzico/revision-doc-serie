@@ -1,0 +1,37 @@
+# CAS CLINIQUES : CANCER DE LA PROSTATE
+
+Chapitre: Cancer de la prostate
+Chemin source: 5ème année\Urologie\Cancer de la prostate.docx
+--------------------------------------------------
+
+"Cas clinique – Cancer de la prostate"
+
+Un homme de 62 ans, asymptomatique, réalise un bilan de dépistage. 
+
+TR : nodule dur de 1 cm au niveau du lobe droit. 
+PSA total = 12 ng/ml. 
+Biopsies : adénocarcinome de score de Gleason 7 (3+4) sur 4 carottes du côté droit. 
+Bilan d’extension (scanner + scintigraphie) : pas de métastase visible.
+
+Questions :
+
+1. Quel est le stade TNM approximatif de ce cancer ?
+2. Quels éléments de mauvais pronostic identifiez-vous ?
+3. Ce cancer est-il encore curable ?
+4. Quelles options thérapeutiques curatives pouvez-vous proposer ?
+5. Quels risques principaux devez-vous expliquer au patient avant une prostatectomie radicale ?
+
+Réponses :
+
+1. T2a N0 M0 (tumeur limitée à une partie d’un lobe, sans adénopathie ni métastase détectée).
+
+2. PSA > 10 ng/ml et score de Gleason 7.
+
+3. Oui, car il est encore localisé (T2).
+
+4. Prostatectomie radicale ou radiothérapie (externe ou curiethérapie), après discussion en réunion de concertation pluridisciplinaire.
+
+5. Risque hémorragique per-opératoire, incontinence urinaire et dysfonction érectile.
+
+Explication pédagogique :  
+Cas de cancer localisé découvert au dépistage, illustrant le raisonnement TNM, les facteurs pronostiques et les options curatives (points centraux des QE d’urologie).

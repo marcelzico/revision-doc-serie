@@ -1,0 +1,32 @@
+# CAS CLINIQUES : TRAUMATISMES CRÂNIO-ENCÉPHALIQUES GRAVES
+
+Chapitre: Traumatismes crânio-encéphaliques graves
+Chemin source: 5ème année\Neurochirurgie\Traumatismes crânio-encéphaliques graves.docx
+--------------------------------------------------
+
+"Cas clinique – Traumatisme crânio-encéphalique grave"
+
+Un homme de 22 ans, non casqué, est victime d’un accident de moto. À l’arrivée des secours : Glasgow 6, mydriase unilatérale droite, saturation 88 %, tension 85/50 mmHg.
+
+Questions :
+
+1. Comment classez-vous ce traumatisme crânien ?
+2. Quels facteurs d’ACSOS sont déjà présents ?
+3. Quelles sont les priorités de la prise en charge pré-hospitalière et hospitalière initiale ?
+4. Quel examen d’imagerie réalisez-vous dès la stabilisation ?
+5. Quelles lésions rechercherez-vous en priorité pour une indication chirurgicale éventuelle ?
+
+Réponses :
+
+1. Traumatisme crânio-encéphalique grave (GCS ≤ 8).
+
+2. Hypoxémie et hypotension artérielle.
+
+3. Libération des voies aériennes + oxygénation / intubation, stabilisation hémodynamique, protection cervicale, lutte contre l’ACSOS, puis scanner cérébral (± rachis cervical).
+
+4. Scanner cérébral sans injection (± corps entier si polytraumatisme).
+
+5. Hématome extra-dural, hématome sous-dural aigu significatif, contusion volumineuse avec effet de masse, embarrure ouverte ou compressive.
+
+Explication pédagogique :  
+Cas typique de TCE grave, illustrant la définition par le Glasgow, la lutte contre l’ACSOS et les indications chirurgicales précoces.

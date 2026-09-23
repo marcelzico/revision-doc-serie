@@ -1,0 +1,25 @@
+# CAS CLINIQUES : VOMISSEMENTS CHEZ L'ENFANT ET LE NOURRISSON
+
+Chapitre: Vomissements chez l'enfant et le nourrisson
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Vomissements chez l'enfant et le nourrisson.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Vomissements
+
+Un nourrisson de 5 semaines, nourri au biberon, présente depuis 8 jours des vomissements en jet, post-prandiaux, non bilieux. Il a maigri de 300 g. À l’examen : état général correct, léger pli cutané, ondulations gastriques visibles. Gaz du sang : alcalose métabolique hypochlorémique.
+
+Questions :
+1. Quel diagnostic évoquez-vous en priorité ?
+2. Quels signes de gravité recherchez-vous ?
+3. Quels examens confirment le diagnostic ?
+4. Quelle est votre attitude thérapeutique immédiate ?
+5. Quelles autres causes de vomissements chroniques éliminez-vous à cet âge ?
+6. Quel antiémétique est formellement contre-indiqué ?
+
+Réponses attendues :
+1. Sténose hypertrophique du pylore.
+2. Déshydratation, hypovolémie, troubles ioniques.
+3. Échographie pylorique ± ASP ; ionogramme et gaz du sang (alcalose hypochlorémique).
+4. Remplissage, correction hydro-électrolytique, mise à jeun, SNG, bilans préopératoires, puis pyloromyotomie.
+5. Erreurs diététiques, RGO, APLV, causes métaboliques.
+6. Métoclopramide (Primpéran).

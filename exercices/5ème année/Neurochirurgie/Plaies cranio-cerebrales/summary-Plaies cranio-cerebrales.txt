@@ -1,0 +1,32 @@
+# CAS CLINIQUES : PLAIES CRANIO-CEREBRALES
+
+Chapitre: Plaies cranio-cerebrales
+Chemin source: 5ème année\Neurochirurgie\Plaies cranio-cerebrales.docx
+--------------------------------------------------
+
+"Cas clinique – Plaie cranio-cérébrale"
+
+Un homme de 25 ans est victime d’une plaie par arme blanche (couteau) au niveau frontal droit. Il présente une plaie hémorragique avec issue de LCS, un Glasgow à 12 et une hémiparésie gauche discrète. L’état hémodynamique est stable.
+
+Questions :
+
+1. Quel type de lésion présente-t-il ?
+2. Quel risque infectieux majeur redoutez-vous ?
+3. Quel examen demandez-vous en urgence ?
+4. Quels traitements médicaux instituez-vous d’emblée ?
+5. Quelle est l’indication chirurgicale ici ?
+
+Réponses :
+
+1. Plaie cranio-cérébrale (ouverte) frontale droite.
+
+2. Méningite, abcès cérébral ou empyème par brèche ostéo-méningée.
+
+3. Scanner cérébral sans injection.
+
+4. Antibiothérapie large spectre, sérovaccination antitétanique, vaccination antipneumococcique/antimeningococcique, antiépileptiques et antalgiques.
+
+5. Parage chirurgical, exploration, réparation dure-mérienne et fermeture de la brèche (déficit et issue de LCS).
+
+Explication pédagogique :  
+Cas typique de PCC par arme blanche, illustrant la brèche, le risque infectieux et la prise en charge médico-chirurgicale urgente.

@@ -1,0 +1,35 @@
+# CAS CLINIQUES : EXOPHTALMIE
+
+Chapitre: Exophtalmie
+Chemin source: 5ème année\Ophtalmologie\Exophtalmie.docx
+--------------------------------------------------
+
+"Cas clinique – Exophtalmie"
+
+Une femme de 45 ans présente une protrusion bilatérale des globes, une rétraction de la paupière supérieure et une asynergie oculo-palpébrale. Elle se plaint d’une diplopie intermittente. 
+
+Exophtalmomètre : 23 mm des deux côtés. 
+Scanner orbitaire : épaississement des muscles oculomoteurs.
+
+Questions :
+
+1. Quel diagnostic étiologique est le plus probable ?
+2. Quels signes cliniques sont caractéristiques de cette étiologie ?
+3. Quels signes de gravité devez-vous rechercher ?
+4. Quel examen quantifie l’exophtalmie ?
+5. Quels traitements symptomatiques proposez-vous ?
+
+Réponses :
+
+1. Exophtalmie basedowienne (orbitopathie dysthyroïdienne).
+
+2. Bilatéralité, rétraction palpébrale supérieure, asynergie oculo-palpébrale et rareté du clignement.
+
+3. Exposition cornéenne et compression du nerf optique.
+
+4. Exophtalmomètre de Hertel.
+
+5. Protection cornéenne (larmes artificielles, gel) et, si compression optique, décompression ou radiothérapie ; traitement de la dysthyroïdie.
+
+Explication pédagogique :  
+Cas typique d’exophtalmie basedowienne, illustrant les signes cliniques, le scanner et la prise en charge symptomatique.

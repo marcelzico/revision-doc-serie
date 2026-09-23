@@ -1,0 +1,36 @@
+# CAS CLINIQUES : PYÉLONÉPHRITE AIGUË CHEZ L'ADULTE
+
+Chapitre: Pyélonéphrite aiguë chez l'adulte
+Chemin source: 5ème année\Urologie\Pyélonéphrite aiguë chez l'adulte.docx
+--------------------------------------------------
+
+"Cas clinique – Pyélonéphrite aiguë"
+
+Une femme de 26 ans, sans antécédent, consulte pour une fièvre à 39 °C, une douleur de la fosse lombaire droite et des brûlures mictionnelles depuis 48 heures. Elle a des nausées. 
+
+Examen : douleur vive à la percussion de la fosse lombaire droite. 
+Bandelette : leucocytes +++ , nitrites +. 
+Pas de terrain particulier.
+
+Questions :
+
+1. Quel diagnostic posez-vous ?
+2. Cette PNA est-elle compliquée ou non compliquée ? Pourquoi ?
+3. Quels examens demandez-vous avant de traiter ?
+4. Quel traitement proposez-vous ?
+5. Quels éléments de surveillance surveillez-vous les 48-72 premières heures ?
+
+Réponses :
+
+1. Pyélonéphrite aiguë droite.
+
+2. Non compliquée (femme jeune, pas de terrain à risque, pas de signe de gravité).
+
+3. ECBU + antibiogramme (obligatoire avant antibiothérapie), NFS et CRP.
+
+4. Traitement ambulatoire possible : C3G orale (ou fluoroquinolone) pendant 10-15 jours + antalgiques + hyperhydratation. Adaptation secondaire à l’antibiogramme.
+
+5. Apyrexie en 48-72 h, diminution de la douleur lombaire et amélioration de l’état général. Toute persistance ou aggravation fait craindre une complication (abcès, obstacle…).
+
+Explication pédagogique :  
+Cas typique de PNA non compliquée de la femme jeune, illustrant la triade clinique, la place de l’ECBU et le traitement ambulatoire (points essentiels des QE).

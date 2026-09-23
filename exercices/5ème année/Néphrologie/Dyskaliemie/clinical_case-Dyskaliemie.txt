@@ -1,0 +1,49 @@
+# CAS CLINIQUES : DYSKALIEMIE
+
+Chapitre: Dyskaliemie
+Chemin source: 5ème année\Néphrologie\Dyskaliemie.docx
+--------------------------------------------------
+
+"Cas clinique – Hyperkaliémie sévère"
+
+Un homme de 68 ans, suivi pour une insuffisance rénale chronique stade 4 (créatininémie habituelle à 280 µmol/l) et une HTA traitée par énalapril 20 mg/j et spironolactone 25 mg/j, est admis aux urgences pour une faiblesse musculaire progressive des membres inférieurs évoluant depuis 48 heures, associée à des paresthésies péribuccales. 
+
+À l’examen : PA 145/85 mmHg, FC 52/min, température 36,8 °C. 
+L’ECG montre des ondes T amples et pointues diffuses, une disparition de l’onde P et un élargissement des complexes QRS. 
+Le bilan biologique retrouve : 
+- Kaliémie = 7,8 mmol/l 
+- Natrémie = 138 mmol/l 
+- Créatininémie = 410 µmol/l 
+- Bicarbonates = 16 mmol/l 
+- Glycémie = 1,1 g/l
+
+Questions :
+
+1. Quel est le diagnostic principal et quels arguments cliniques et paracliniques le soutiennent ?
+2. Quels sont les trois mécanismes pouvant expliquer cette hyperkaliémie chez ce patient ?
+3. Quelle est la première mesure thérapeutique à mettre en œuvre en urgence ? Justifiez.
+4. Quels traitements complémentaires allez-vous instituer dans l’attente d’une éventuelle épuration extrarénale ?
+5. Quels médicaments faut-il immédiatement interrompre et pourquoi ?
+
+Réponses :
+
+1. Hyperkaliémie sévère menaçante (kaliémie 7,8 mmol/l) avec retentissement cardiaque. 
+Arguments : faiblesse musculaire + paresthésies péribuccales + signes ECG typiques (ondes T pointues, disparition de P, élargissement QRS) + terrain d’IRC + médicaments hyperkaliémiants.
+
+2. 
+- Réduction de l’excrétion rénale (aggravation de l’IRC) 
+- Médicaments bloquant le SRAA et l’aldostérone (IEC + spironolactone) 
+- Transfert extracellulaire favorisé par l’acidose métabolique (bicarbonates à 16 mmol/l)
+
+3. Injection de gluconate (ou chlorure) de calcium 10 % en IV lente (1 ampoule de 10 ml en 2-3 minutes) sous surveillance ECG. 
+Justification : antagoniste membranaire direct qui stabilise immédiatement le myocarde et prévient les troubles du rythme ventriculaires, sans faire baisser la kaliémie.
+
+4. 
+- Transfert intracellulaire : insuline + sérum glucosé hypertonique ± salbutamol en nébulisation (si pas de contre-indication coronaire) ± bicarbonate isotonique 
+- Élimination : résine échangeuse d’ions (Kayexalate) et préparation à l’hémodialyse
+
+5. Arrêt immédiat de l’énalapril et de la spironolactone. 
+Ces deux médicaments réduisent l’excrétion rénale du potassium (blocage de l’aldostérone) et sont contre-indiqués en cas d’hyperkaliémie sévère et d’aggravation de l’insuffisance rénale.
+
+Explication pédagogique : 
+Ce cas reprend les éléments les plus fréquemment interrogés en QE : reconnaissance de la gravité sur l’ECG, mécanismes étiologiques combinés (médicaments + IRC + acidose), et séquence thérapeutique d’urgence (calcium → transfert → élimination).

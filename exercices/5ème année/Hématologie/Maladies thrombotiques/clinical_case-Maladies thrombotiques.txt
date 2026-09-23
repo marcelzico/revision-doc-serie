@@ -1,0 +1,27 @@
+# CAS CLINIQUES : MALADIES THROMBOTIQUES
+
+Chapitre: Maladies thrombotiques
+Chemin source: 5ème année\Hématologie\Maladies thrombotiques.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Maladies thrombotiques
+
+Une femme de 32 ans, sous contraception œstroprogestative, présente une douleur et un œdème du mollet gauche. L’écho-Doppler confirme une thrombose veineuse profonde proximale.
+
+1. Quels sont les trois éléments de la triade de Virchow ?
+2. Pourquoi cette thrombose est-elle à haut risque emboligène ?
+3. Quels facteurs de thrombophilie recherchez-vous éventuellement ?
+4. Quels anticoagulants peut-on utiliser en première intention ?
+5. Quelle est la différence principale entre HNF et HBPM ?
+
+Réponses attendues :
+
+1. Stase, lésion pariétale, hypercoagulabilité.
+
+2. Parce qu’elle est proximale (sus-poplitée).
+
+3. Déficits en AT, PC, PS, facteur V Leiden, mutation G20210A, SAPL, hyperhomocystéinémie.
+
+4. HBPM ou AOD (selon le contexte), puis relais éventuel par AVK.
+
+5. HNF : anti-IIa + anti-Xa, surveillance TCA ; HBPM : anti-Xa préférentiel, une injection/jour, meilleure biodisponibilité.

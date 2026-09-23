@@ -1,0 +1,27 @@
+# CAS CLINIQUES : ECHANGE TRANSFUSIONNEL
+
+Chapitre: Echange transfusionnel
+Chemin source: 5ème année\Hématologie\Echange transfusionnel.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Échange transfusionnel
+
+Un enfant drépanocytaire présente une crise vaso-occlusive sévère avec un taux d’HbS très élevé. On décide d’un échange transfusionnel.
+
+1. Quelle est la définition de l’échange transfusionnel ?
+2. Quelles sont les principales indications de ce geste ?
+3. Quelles complications immunologiques faut-il craindre pendant la transfusion ?
+4. Quels sont les signes d’une hémolyse transfusionnelle aiguë ?
+5. Quelle est la conduite à tenir immédiate en cas de suspicion d’hémolyse ?
+
+Réponses attendues :
+
+1. Association d’une soustraction de sang et d’une transfusion.
+
+2. Retrait de cellules pathologiques (drépanocytes, blastes), d’anticorps, de bilirubine, de toxiques ou de sang total déficitaire.
+
+3. Hémolyse (conflit Ag-Ac érythrocytaires), TRALI, thrombopénie post-transfusionnelle, réactions allergiques.
+
+4. Céphalée, angoisse, vomissements, douleurs lombaires, frissons, fièvre, chute de TA, d’apparition très précoce.
+
+5. Arrêt immédiat de la transfusion, vérification identité/compatibilité, envoi des échantillons au laboratoire, surveillance et prévention du choc/CIVD/IRA.

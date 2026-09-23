@@ -1,0 +1,27 @@
+# CAS CLINIQUES : TUMEUR DE L'OVAIRE
+
+Chapitre: Tumeur de l'ovaire
+Chemin source: 5ème année\Chirurgie pédiatrique\Tumeur de l'ovaire.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Tumeur / kyste de l’ovaire
+
+Une adolescente de 14 ans consulte pour des douleurs pelviennes chroniques et des irrégularités menstruelles. L’échographie montre une image latéro-utérine droite purement kystique, à paroi fine, de 5 cm de diamètre.
+
+1. Quel est le diagnostic le plus probable ?
+2. Quels examens complémentaires demandez-vous ?
+3. Quelle est la conduite à tenir initiale ?
+4. Dans quels cas opérez-vous ?
+5. Quels sont les principes de la chirurgie si elle est indiquée ?
+
+Réponses attendues :
+
+1. Kyste ovarien simple (bénin dans 80-90 % des cas).
+
+2. Marqueurs tumoraux (AFP, β-HCG, LDH, CA 125) et éventuellement TDM/IRM si doute.
+
+3. Surveillance échographique (contrôle après 2 cycles).
+
+4. Persistance du kyste après 2 cycles, volume important, doute sur la malignité ou complication (torsion, hémorragie).
+
+5. Kystectomie la plus conservatrice possible, idéalement par cœlioscopie ; ovariectomie seulement si le parenchyme est totalement détruit.

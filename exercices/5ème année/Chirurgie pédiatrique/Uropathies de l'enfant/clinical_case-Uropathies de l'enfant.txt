@@ -1,0 +1,27 @@
+# CAS CLINIQUES : UROPATHIES DE L'ENFANT
+
+Chapitre: Uropathies de l'enfant
+Chemin source: 5ème année\Chirurgie pédiatrique\Uropathies de l'enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Uropathies de l’enfant
+
+Un nourrisson de 2 mois présente une pyélonéphrite aiguë. L’échographie montre une dilatation pyélo-calicielle gauche. Une cystographie rétrograde est réalisée.
+
+1. Pourquoi toute infection urinaire de l’enfant doit-elle faire rechercher une uropathie ?
+2. Quels sont les deux grands types d’uropathies évoqués dans ce contexte ?
+3. Quels examens permettent de préciser le diagnostic et le retentissement rénal ?
+4. Quels sont les principes du traitement du reflux vésico-urétéral ?
+5. Quel est le risque évolutif majeur des uropathies non traitées ?
+
+Réponses attendues :
+
+1. Parce que les uropathies (obstructives ou reflux) sont fréquemment révélées par une infection urinaire et que l’infection aggrave les lésions rénales.
+
+2. Syndrome de jonction pyélo-urétérale et reflux vésico-urétéral.
+
+3. Échographie, cystographie rétrograde (grading du reflux), scintigraphie au DMSA (cicatrices et fonction relative) et éventuellement scintigraphie Mag3-Lasilix ou UIV.
+
+4. Antibiothérapie de l’épisode aigu ± antibioprophylaxie, traitement d’une vessie immature, et si nécessaire chirurgie (Cohen ou Deflux). Traiter d’abord un éventuel obstacle sous-vésical.
+
+5. Dégradation de la fonction rénale pouvant aboutir à l’insuffisance rénale (néphropathie du reflux ou destruction par obstruction).

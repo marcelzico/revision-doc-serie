@@ -1,0 +1,43 @@
+# CAS CLINIQUES : LA GLOMÉRULONÉPHRITE À DÉPÔTS MÉSANGIAUX D’IMMUNOGLOBULINE A
+
+Chapitre: La glomérulonéphrite à dépôts mésangiaux d’immunoglobuline a
+Chemin source: 5ème année\Néphrologie\La glomérulonéphrite à dépôts mésangiaux d’immunoglobuline a.docx
+--------------------------------------------------
+
+"Cas clinique – Maladie de Berger"
+
+Un homme de 28 ans consulte pour une hématurie macroscopique apparue 48 heures après une angine. Il a déjà présenté deux épisodes similaires dans les deux années précédentes. 
+
+Examen : PA 145/90 mmHg, pas d’œdème, examen ORL normal. 
+
+Bilan :
+- Créatininémie = 95 µmol/l
+- Protéinurie = 1,2 g/24 h
+- Hématurie microscopique persistante + cylindres hématiques
+- C3 et C4 normaux
+- IgA sériques légèrement élevées
+
+La biopsie rénale montre une hypercellularité mésangiale avec dépôts mésangiaux d’IgA en immunofluorescence.
+
+Questions :
+
+1. Quel diagnostic retenez-vous ?
+2. Quels arguments cliniques et histologiques le soutiennent ?
+3. Quels facteurs de mauvais pronostic recherchez-vous ?
+4. Quelle prise en charge thérapeutique proposez-vous ?
+5. Quel est le pronostic à long terme ?
+
+Réponses :
+
+1. Glomérulonéphrite à dépôts mésangiaux d’IgA (maladie de Berger).
+
+2. Adulte jeune de sexe masculin, hématurie macroscopique synchrone d’une infection ORL, récidives, HTA débutante, protéinurie, et confirmation histologique (dépôts mésangiaux d’IgA).
+
+3. Protéinurie (ici 1,2 g/24 h), HTA, sexe masculin ; rechercher une éventuelle fibrose interstitielle ou des lésions vasculaires sur la biopsie.
+
+4. Contrôle tensionnel strict (objectif ≤ 130/80 mmHg) par un IEC en première intention, restriction sodée, surveillance régulière de la protéinurie et de la fonction rénale.
+
+5. Risque d’évolution vers l’insuffisance rénale chronique terminale chez environ 50 % des patients à 25 ans, d’où l’importance de la néphroprotection précoce.
+
+Explication pédagogique :  
+Cas typique de maladie de Berger, soulignant le synchronisme infectieux, les facteurs pronostiques et la place centrale des IEC.

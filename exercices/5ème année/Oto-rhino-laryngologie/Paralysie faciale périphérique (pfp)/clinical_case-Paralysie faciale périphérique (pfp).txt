@@ -1,0 +1,27 @@
+# CAS CLINIQUES : PARALYSIE FACIALE PÉRIPHÉRIQUE (PFP)
+
+Chapitre: Paralysie faciale périphérique (pfp)
+Chemin source: 5ème année\Oto-rhino-laryngologie\Paralysie faciale périphérique (pfp).docx
+--------------------------------------------------
+
+CAS CLINIQUE – Paralysie faciale périphérique
+
+Un homme de 35 ans présente brutalement une asymétrie faciale avec impossibilité de fermer l’œil droit, effacement des rides du front et du pli nasogénien droits, et signe de Charles Bell.
+
+1. S’agit-il d’une paralysie faciale périphérique ou centrale ? Justifiez.
+2. Quel est le signe de Charles Bell ?
+3. Quelle est la cause la plus fréquente ?
+4. Quelles autres étiologies devez-vous éliminer ?
+5. Quels examens demandez-vous si la cause n’est pas évidente ?
+
+Réponses attendues :
+
+1. Périphérique (atteinte du territoire supérieur et inférieur + Charles Bell).
+
+2. Bascule du globe oculaire vers le haut et en dehors lors de la tentative de fermeture palpébrale.
+
+3. Paralysie a frigore (de Bell).
+
+4. Zona, otite, Lyme, diabète, tumeur, traumatisme, etc.
+
+5. Bilan biologique (NFS, VS, glycémie, sérologies) ± IRM.

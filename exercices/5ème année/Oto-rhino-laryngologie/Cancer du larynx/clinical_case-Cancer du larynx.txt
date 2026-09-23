@@ -1,0 +1,34 @@
+# CAS CLINIQUES : CANCER DU LARYNX
+
+Chapitre: Cancer du larynx
+Chemin source: 5ème année\Oto-rhino-laryngologie\Cancer du larynx.docx
+--------------------------------------------------
+
+"Cas clinique – Cancer du larynx"
+
+Un homme de 58 ans, grand fumeur et buveur, présente une dysphonie progressive depuis 3 mois. 
+
+Laryngoscopie : tumeur de la corde vocale gauche avec fixation de la corde. Pas d’adénopathie palpable.
+
+Questions :
+
+1. Quel diagnostic évoquez-vous ?
+2. Quels facteurs de risque sont présents ?
+3. Quel est le T approximatif selon la classification TNM ?
+4. Quels examens complémentaires demandez-vous pour le bilan d’extension ?
+5. Quelles options thérapeutiques sont discutées en RCP ?
+
+Réponses :
+
+1. Cancer du larynx (probablement carcinome épidermoïde glottique).
+
+2. Tabac et alcool.
+
+3. T3 (fixation glottique).
+
+4. Scanner cervico-thoracique ± IRM, fibroscopie, bilan général et biopsie.
+
+5. Radio-chimiothérapie de préservation laryngée ou laryngectomie totale avec curage bilatéral.
+
+Explication pédagogique :  
+Cas typique de cancer glottique T3 chez un fumeur-buveur, illustrant l’importance de la mobilité cordale et de la discussion en RCP.

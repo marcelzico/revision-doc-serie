@@ -1,0 +1,25 @@
+# CAS CLINIQUES : PARTICULARITÉ DE L'INFECTION VIH CHEZ L'ENFANT
+
+Chapitre: Particularité de l'infection VIH chez l'enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Particularité de l'infection VIH chez l'enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Infection à VIH chez l’enfant
+
+Un enfant de 18 mois, non suivi, présente une diarrhée depuis 3 semaines, une fièvre intermittente, une parotidite bilatérale et une hépatosplénomégalie. Il a un retard de croissance staturo-pondéral. La mère est séropositive pour le VIH.
+
+Questions :
+1. Quel stade clinique OMS évoquez-vous et pourquoi ?
+2. Quel mode évolutif est le plus probable ?
+3. Quelles complications organiques recherchez-vous ?
+4. Quels examens demandez-vous pour confirmer et évaluer l’infection ?
+5. Quelle est la particularité de la pneumonie interstitielle lymphoïde ?
+6. Quel est le principe de la prise en charge ?
+
+Réponses attendues :
+1. Stade 3 (diarrhée > 14 j, fièvre prolongée, malnutrition, parotidite, hépatosplénomégalie).
+2. Progresseur intermédiaire (forme usuelle).
+3. Atteinte pulmonaire (LIP), cardiaque, rénale, hématologique, retard de croissance.
+4. Sérologie ou PCR VIH, charge virale, CD4, NFS, radio thorax, bilan rénal.
+5. Toux sèche, polypnée, aspect réticulo-nodulaire diffus, hyperlymphocytose CD8 au LBA.
+6. Traitement ARV + traitement des infections opportunistes + soutien nutritionnel et suivi multidisciplinaire.

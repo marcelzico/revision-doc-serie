@@ -1,0 +1,27 @@
+# CAS CLINIQUES : MALADIE DE CROHN
+
+Chapitre: Maladie de Crohn
+Chemin source: 5ème année\Gastro-entérologie médicale\Maladie de Crohn.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Maladie de Crohn
+
+Un homme de 25 ans présente depuis 6 mois une diarrhée chronique, des douleurs de fosse iliaque droite, des lésions ano-périnéales (fissure et fistule) et un amaigrissement. La coloscopie montre des ulcérations discontinues de l’iléon terminal et du côlon droit.
+
+1. Quel est le diagnostic le plus probable ?
+2. Quels sont les éléments endoscopiques évocateurs ?
+3. Quel élément histologique recherchez-vous ?
+4. Quelles complications redoutez-vous ?
+5. Comment évalue-t-on l’activité de la maladie ?
+
+Réponses attendues :
+
+1. Maladie de Crohn iléo-colique.
+
+2. Lésions discontinues avec intervalles de muqueuse saine, ulcérations de sévérité variable.
+
+3. Granulome épithélioïde sans nécrose caséeuse.
+
+4. Sténoses, fistules, abcès, malabsorption, perforation.
+
+5. Index de Best (CDAI).

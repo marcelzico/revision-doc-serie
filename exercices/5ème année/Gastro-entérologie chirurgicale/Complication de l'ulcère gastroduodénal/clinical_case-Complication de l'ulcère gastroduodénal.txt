@@ -1,0 +1,58 @@
+# CAS CLINIQUES : COMPLICATION DE L'ULCÈRE GASTRODUODÉNAL
+
+Chapitre: Complication de l'ulcère gastroduodénal
+Chemin source: 5ème année\Gastro-entérologie chirurgicale\Complication de l'ulcère gastroduodénal.docx
+--------------------------------------------------
+
+"Cas clinique – Perforation d’ulcère"
+
+Un homme de 42 ans, sous AINS depuis 10 jours pour des lombalgies, présente une douleur épigastrique brutale en « coup de poignard » suivie d’une contracture généralisée. 
+
+Examen : abdomen de bois, disparition de la matité pré-hépatique, cri du Douglas. 
+ASP : croissant gazeux sous-diaphragmatique droit.
+
+Questions :
+
+1. Quel diagnostic posez-vous ?
+2. Quel est le mécanisme de la péritonite initiale ?
+3. Quel facteur de risque est présent ?
+4. Quels examens complémentaires demandez-vous en urgence ?
+5. Quel est le principe du traitement chirurgical ?
+
+Réponses :
+
+1. Péritonite par perforation d’ulcère gastro-duodénal.
+
+2. Péritonite chimique par déversement de suc gastrique acide dans le péritoine libre.
+
+3. Prise d’AINS.
+
+4. ASP (déjà fait), scanner si doute, bilan préopératoire et NFS.
+
+5. Laparotomie ou laparoscopie, suture de la perforation ± épiplooplastie, toilette péritonéale et traitement associé de la maladie ulcéreuse (IPP ± éradication d’H. pylori).
+
+Explication pédagogique :  
+Cas classique de perforation d’ulcère sous AINS, illustrant la clinique de péritonite et le pneumopéritoine.
+
+
+CAS CLINIQUE – Perforation d’ulcère gastro-duodénal
+
+Un homme de 40 ans présente une douleur épigastrique brutale en coup de poignard, suivie d’une contracture abdominale généralisée. Il est apyrétique au début. L’ASP montre un pneumopéritoine.
+
+1. Quel est le diagnostic ?
+2. Quelle est la physiopathologie de cette complication ?
+3. Quels sont les signes physiques caractéristiques ?
+4. Quels moyens médicaux instaurez-vous immédiatement ?
+5. Quel est le traitement chirurgical de la perforation ?
+
+Réponses attendues :
+
+1. Péritonite par perforation d’ulcère gastro-duodénal.
+
+2. Déversement de suc gastrique acide dans le péritoine (péritonite chimique).
+
+3. Contracture, disparition de la matité pré-hépatique, cri du Douglas.
+
+4. Réanimation, SNG en aspiration, antalgiques, antibiothérapie parentérale, IPP IV.
+
+5. Suture de la perforation (± épiplooplastie) + toilette péritonéale + drainage, puis traitement de la maladie ulcéreuse (IPP + éradication d’H. pylori).

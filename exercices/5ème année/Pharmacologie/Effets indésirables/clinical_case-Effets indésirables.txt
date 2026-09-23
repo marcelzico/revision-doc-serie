@@ -1,0 +1,24 @@
+# CAS CLINIQUES : EFFETS INDÉSIRABLES
+
+Chapitre: Effets indésirables
+Chemin source: 5ème année\Pharmacologie\Effets indésirables.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Effets indésirables
+
+Un patient de 75 ans, insuffisant rénal, traité par aminosides et fluoroquinolone, présente une tendinopathie et une aggravation de sa fonction rénale.
+
+1. Classez ces deux effets indésirables (type A ou B) et justifiez.
+2. Quels facteurs favorisants sont présents chez ce patient ?
+3. L’effet « tendinopathie des fluoroquinolones » est-il prévisible avant l’AMM ?
+4. Quels critères de gravité OMS sont potentiellement remplis ?
+
+Réponses attendues :
+
+1. Toxicité rénale des aminosides = type B toxique (ou A selon dose) ; tendinopathie = type B de mécanisme inconnu.
+
+2. Âge, insuffisance rénale.
+
+3. Non (effet inattendu, souvent découvert en post-AMM).
+
+4. Séquelles durables, hospitalisation possible.

@@ -1,0 +1,25 @@
+# CAS CLINIQUES : INFECTION URINAIRE DE L'ENFANT
+
+Chapitre: Infection urinaire de l'enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Infection urinaire de l'enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Infection urinaire
+
+Une fillette de 14 mois présente une fièvre à 39,5 °C depuis 36 heures, sans point d’appel clinique évident. Elle est irritable, a des vomissements. BU : leucocytes +++ , nitrites +. ECBU en cours.
+
+Questions :
+1. Quel diagnostic topographique évoquez-vous et pourquoi ?
+2. Quels examens complémentaires demandez-vous ?
+3. Quelle est votre conduite thérapeutique immédiate ?
+4. Pourquoi hospitalisez-vous éventuellement cette enfant ?
+5. Quel germe est le plus probable ?
+6. Quels examens d’imagerie prévoyez-vous et à quel moment ?
+
+Réponses attendues :
+1. Pyélonéphrite aiguë (fièvre élevée, signes généraux, BU positive).
+2. ECBU (confirmation + antibiogramme), CRP, hémocultures si sepsis, échographie.
+3. C3G IV (céfotaxime ou ceftriaxone) ± aminoside, antipyrétique, hydratation.
+4. Âge < 3 mois ou mauvaise tolérance clinique.
+5. Escherichia coli.
+6. Échographie dans les 72 h ; scintigraphie si récidive (recherche de reflux).

@@ -1,0 +1,25 @@
+# CAS CLINIQUES : HYPOGLYCÉMIE DU NOUVEAU-NÉ - ENFANT - NOURRISSON
+
+Chapitre: Hypoglycémie du nouveau-né - enfant - nourrisson
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Hypoglycémie du nouveau-né - enfant - nourrisson.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Hypoglycémie
+
+Un nouveau-né à terme, poids 4200 g, de mère diabétique, présente à H4 de vie une hypotonie, des trémulations et un refus de téter. Glycémie capillaire 1,8 mmol/l.
+
+Questions :
+1. Confirmez-vous le diagnostic d’hypoglycémie et pourquoi ce nouveau-né est à risque ?
+2. Quels autres signes cliniques recherchez-vous ?
+3. Quelle est votre conduite à tenir thérapeutique immédiate ?
+4. Quel contrôle réalisez-vous et à quel rythme ?
+5. Quelles autres causes d’hypoglycémie néonatale connaissez-vous ?
+6. Pourquoi le cerveau du nouveau-né est-il particulièrement sensible ?
+
+Réponses attendues :
+1. Oui (seuil < 2,2 mmol/l chez le nouveau-né symptomatique). Risque lié à l’hyperinsulinisme secondaire au diabète maternel.
+2. Pâleur, hypothermie, polypnée, pauses, somnolence, convulsions.
+3. Bolus de G10 % 2 ml/kg IV puis perfusion de G10 % 80 ml/kg/24 h + alimentation entérale si possible.
+4. Contrôle à 30 minutes puis toutes les 3 heures.
+5. Prématurité, hypotrophie, détresse néonatale, Wiedemann-Beckwith, hypopituitarisme.
+6. Consommation cérébrale élevée et réserves de glycogène limitées.

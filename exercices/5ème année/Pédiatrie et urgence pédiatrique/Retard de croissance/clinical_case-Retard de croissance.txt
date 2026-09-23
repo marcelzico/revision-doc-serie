@@ -1,0 +1,25 @@
+# CAS CLINIQUES : RETARD DE CROISSANCE
+
+Chapitre: Retard de croissance
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Retard de croissance.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Retard de croissance
+
+Une fille de 8 ans présente une taille à –2,5 DS. La vitesse de croissance a ralenti depuis 2 ans. Taille cible génétique normale. Âge osseux retardé de 2 ans. Pas de signes de puberté. Aspect un peu trapu, cou court.
+
+Questions :
+1. Confirmez-vous le diagnostic de retard de croissance ?
+2. Quelle cause génétique devez-vous éliminer en priorité chez cette fille ?
+3. Quels examens demandez-vous en première intention ?
+4. Quelle est la signification d’un âge osseux retardé ?
+5. Quelles causes endocriniennes évoquez-vous ?
+6. Quelle prise en charge envisagez-vous si le diagnostic de Turner est confirmé ?
+
+Réponses attendues :
+1. Oui (taille < –2 DS + ralentissement de la VC).
+2. Syndrome de Turner (caryotype).
+3. NFS, ionogramme, TSH/T4, IGF-1, cortisol, âge osseux, caryotype.
+4. Retard de maturation osseuse (compatible avec cause endocrinienne ou constitutionnelle).
+5. Hypothyroïdie, déficit en GH, hypercorticisme, craniopharyngiome.
+6. Hormone de croissance + suivi pluridisciplinaire (cardio, ORL, fertilité…).

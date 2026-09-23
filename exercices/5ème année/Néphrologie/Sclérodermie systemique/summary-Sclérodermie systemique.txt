@@ -1,0 +1,39 @@
+# CAS CLINIQUES : SCLÉRODERMIE SYSTEMIQUE
+
+Chapitre: Sclérodermie systemique
+Chemin source: 5ème année\Néphrologie\Sclérodermie systemique.docx
+--------------------------------------------------
+
+"Cas clinique – Crise rénale sclérodermique"
+
+Une femme de 42 ans, suivie pour une sclérodermie systémique diffuse depuis 2 ans (phénomène de Raynaud, sclérodactylie, anti-ARN polymérase III positifs), est hospitalisée pour des céphalées intenses et une oligurie. Elle a reçu de la prednisone à 20 mg/j pendant les 2 derniers mois. 
+
+Examen : PA 210/125 mmHg, sclérodactylie, ulcères digitaux. 
+
+Bilan :
+- Créatininémie = 450 µmol/l (antérieure à 80 µmol/l 1 mois plus tôt)
+- Protéinurie = 0,8 g/24 h
+- Schizocytes présents, thrombopénie modérée
+
+Questions :
+
+1. Quel diagnostic de complication posez-vous ?
+2. Quels facteurs de risque de cette complication identifiez-vous chez cette patiente ?
+3. Quel est le mécanisme de l’atteinte rénale ?
+4. Quel traitement antihypertenseur instituez-vous en priorité et avec quel objectif ?
+5. Quelle est l’évolution attendue sous traitement adapté ?
+
+Réponses :
+
+1. Crise rénale sclérodermique (HTA maligne + insuffisance rénale rapidement progressive oligurique).
+
+2. Forme cutanée diffuse, évolution depuis 2 ans (fenêtre 1-5 ans), anticorps anti-ARN polymérase III et corticothérapie > 15 mg/j récente.
+
+3. Atteinte vasculaire avec dysfonction endothéliale, épaississement artériolaire et raréfaction capillaire aboutissant à une ischémie rénale et une activation du SRAA.
+
+4. IEC à doses rapidement croissantes avec objectif tensionnel < 120/80 mmHg à obtenir dans les 3 premiers jours.
+
+5. Amélioration progressive de la tension artérielle et stabilisation ou amélioration partielle de la fonction rénale ; une dialyse temporaire est parfois nécessaire.
+
+Explication pédagogique :  
+Cas classique de crise rénale sclérodermique, soulignant les facteurs prédictifs et la place centrale des IEC (urgence thérapeutique).

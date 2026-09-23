@@ -1,0 +1,25 @@
+# CAS CLINIQUES : ASPHYXIE PÉRINATALE
+
+Chapitre: Asphyxie périnatale
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Asphyxie périnatale.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Asphyxie périnatale
+
+Vous êtes appelé en salle de naissance pour un nouveau-né à terme (39 SA, 3100 g) né par voie basse après un travail dystocique de 14 heures. Le liquide amniotique était méconial. À la naissance, l’enfant est hypotonique, ne crie pas, fréquence cardiaque à 60/min. Après 10 minutes de réanimation, le score d’Apgar est à 4. À H2 de vie, l’enfant est léthargique, hypotonique, présente des mouvements de mâchonnement et des apnées occasionnelles.
+
+Questions :
+1. Quel diagnostic principal suspectez-vous et sur quels arguments ?
+2. Quel stade de Sarnat attribuez-vous à cet enfant et pourquoi ?
+3. Quels examens biologiques demandez-vous en urgence pour confirmer l’asphyxie ?
+4. Cet enfant remplit-il les critères d’hypothermie contrôlée ? Justifiez.
+5. Quelle est la conduite à tenir thérapeutique immédiate (symptomatique + spécifique) ?
+6. Quel est le pronostic approximatif selon le stade de Sarnat ?
+
+Réponses attendues :
+1. Asphyxie périnatale avec encéphalopathie anoxo-ischémique (Apgar bas prolongé, contexte de dystocie et méconium, signes neurologiques précoces).
+2. Stade II de Sarnat (léthargie, hypotonie moyenne, mouvements anormaux, apnées occasionnelles).
+3. Gaz du sang (pH, déficit de base), lactatémie.
+4. Oui : terme ≥ 36 SA, PN > 1800 g, Apgar bas à M10, signes d’encéphalopathie stade II, probable acidose.
+5. Stabilisation des fonctions vitales, restriction hydrique, correction métabolique, phénobarbital si convulsions, début d’hypothermie contrôlée (cible 35,5 °C) le plus tôt possible avant H6.
+6. Pronostic intermédiaire : 40 à 60 % de risque de décès ou de séquelles neurologiques.

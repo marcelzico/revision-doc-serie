@@ -1,0 +1,27 @@
+# CAS CLINIQUES : ANÉMIE
+
+Chapitre: Anémie
+Chemin source: 5ème année\Hématologie\Anémie.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Anémie
+
+Une femme de 45 ans consulte pour une asthénie et une dyspnée d’effort. NFS : Hb 8,5 g/dl. Vous devez classer et orienter le diagnostic.
+
+1. Quelle est la définition de l’anémie ?
+2. Quels signes cliniques recherchez-vous ?
+3. Quels paramètres de l’hémogramme permettent de classer l’anémie ?
+4. Quels sont les deux mécanismes physiopathologiques possibles ?
+5. Quels sont les quatre grands groupes d’anémies ?
+
+Réponses attendues :
+
+1. Baisse de l’hémoglobine circulante.
+
+2. Pâleur, asthénie, signes cardio-respiratoires et neuro-sensoriels.
+
+3. VGM (micro/normo/macrocytaire) et taux de réticulocytes (régénérative ou non).
+
+4. Centrale (production ↓) et périphérique (hémorragie ou hémolyse).
+
+5. Microcytaire hypochrome, mégaloblastique, aplasique, hémolytique.

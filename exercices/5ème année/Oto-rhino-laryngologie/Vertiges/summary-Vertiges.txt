@@ -1,0 +1,27 @@
+# CAS CLINIQUES : VERTIGES
+
+Chapitre: Vertiges
+Chemin source: 5ème année\Oto-rhino-laryngologie\Vertiges.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Vertiges
+
+Un patient de 50 ans consulte pour des sensations de rotation de l’environnement, associées à des nausées. L’interrogatoire précise un début brutal, une durée de quelques heures et l’absence de signes auditifs. L’examen montre un nystagmus horizontal-rotatoire inhibé par la fixation et un syndrome vestibulaire harmonieux.
+
+1. S’agit-il d’un vertige périphérique ou central ? Justifiez.
+2. Quels éléments de l’interrogatoire sont prioritaires ?
+3. Qu’est-ce qu’un syndrome vestibulaire harmonieux ?
+4. Quels examens instrumentaux peut-on demander ?
+5. Quels diagnostics différentiels de « faux vertiges » devez-vous éliminer ?
+
+Réponses attendues :
+
+1. Périphérique (nystagmus horizontal-rotatoire inhibé par la fixation + syndrome harmonieux).
+
+2. Type, mode d’installation, durée, facteurs déclenchants, signes auditifs et neurologiques.
+
+3. Tous les signes (nystagmus, déviations segmentaires) dévient de façon homogène du même côté.
+
+4. Épreuve calorique, électronystagmographie ± imagerie.
+
+5. Vertige des hauteurs, psychogène, circulatoire, métabolique.

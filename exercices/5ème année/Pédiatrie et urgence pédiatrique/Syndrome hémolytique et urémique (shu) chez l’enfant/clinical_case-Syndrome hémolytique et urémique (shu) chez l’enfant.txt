@@ -1,0 +1,25 @@
+# CAS CLINIQUES : SYNDROME HÉMOLYTIQUE ET URÉMIQUE (SHU) CHEZ L’ENFANT
+
+Chapitre: Syndrome hémolytique et urémique (shu) chez l’enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Syndrome hémolytique et urémique (shu) chez l’enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Syndrome hémolytique et urémique
+
+Un enfant de 2 ans présente depuis 5 jours une diarrhée glairo-sanguinolente. Depuis 24 h : pâleur intense, oligurie, œdèmes des membres inférieurs. Hb 7,2 g/dl, schizocytes +, plaquettes 80 000, créatinine 280 µmol/l, kaliémie 5,8 mmol/l.
+
+Questions :
+1. Confirmez-vous le diagnostic de SHU et sur quels arguments ?
+2. Quel type de SHU est le plus probable ?
+3. Quelles mesures thérapeutiques instituez-vous d’emblée ?
+4. Quand indiqueriez-vous une dialyse ?
+5. Quelle surveillance organisez-vous à long terme ?
+6. Quels conseils de prévention donnez-vous à la famille ?
+
+Réponses attendues :
+1. Oui : triade anémie hémolytique + thrombopénie + IRA après diarrhée sanglante.
+2. SHU typique post-diarrhéique (STEC).
+3. Restriction hydro-électrolytique, anti-HTA si besoin, transfusion si Hb < 8, surveillance stricte.
+4. Anurie, surcharge, hyperK⁺ > 6, acidose, créatinine très élevée.
+5. TA, protéinurie, créatinine pendant au moins 3-5 ans.
+6. Viandes bien cuites, lait pasteurisé, hygiène des mains.

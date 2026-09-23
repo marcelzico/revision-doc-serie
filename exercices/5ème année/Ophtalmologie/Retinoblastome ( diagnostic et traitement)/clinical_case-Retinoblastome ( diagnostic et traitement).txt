@@ -1,0 +1,35 @@
+# CAS CLINIQUES : RETINOBLASTOME ( DIAGNOSTIC ET TRAITEMENT)
+
+Chapitre: Retinoblastome ( diagnostic et traitement)
+Chemin source: 5ème année\Ophtalmologie\Retinoblastome ( diagnostic et traitement).docx
+--------------------------------------------------
+
+"Cas clinique – Rétinoblastome"
+
+Un enfant de 18 mois est amené pour un reflet blanc de la pupille droite remarqué sur les photos. Il présente un strabisme divergent droit. 
+
+Fond d’œil : masse blanche calcifiée du pôle postérieur. 
+Échographie B : calcifications intra-lésionnelles.
+
+Questions :
+
+1. Quel diagnostic évoquez-vous en priorité ?
+2. Quels sont les deux signes d’appel présents ?
+3. Quels examens demandez-vous pour le bilan d’extension ?
+4. Quelle mutation génétique est en cause ?
+5. Quels sont les grands principes du traitement ?
+
+Réponses :
+
+1. Rétinoblastome unilatéral.
+
+2. Leucocorie et strabisme divergent.
+
+3. IRM (nerf optique, extension extra-sclérale, pinéale) + analyse génétique.
+
+4. Mutation du gène RB1 (13q14).
+
+5. Traitement conservateur ou énucléation selon l’extension, associé à une chimiothérapie éventuelle et un suivi génétique à vie.
+
+Explication pédagogique :  
+Cas typique de rétinoblastome révélé par une leucocorie, illustrant l’urgence du fond d’œil et le bilan multidisciplinaire.

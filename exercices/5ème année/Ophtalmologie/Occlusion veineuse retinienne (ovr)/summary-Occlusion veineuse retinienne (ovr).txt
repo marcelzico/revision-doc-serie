@@ -1,0 +1,34 @@
+# CAS CLINIQUES : OCCLUSION VEINEUSE RETINIENNE (OVR)
+
+Chapitre: Occlusion veineuse retinienne (ovr)
+Chemin source: 5ème année\Ophtalmologie\Occlusion veineuse retinienne (ovr).docx
+--------------------------------------------------
+
+"Cas clinique – OVCR"
+
+Un homme de 68 ans, hypertendu et diabétique, présente depuis 3 jours une baisse de vision de l’œil gauche à 2/10. L’œil est blanc et indolore. 
+
+Fond d’œil : veines dilatées et tortueuses, nombreuses hémorragies en flammèches, œdème papillaire et nodules cotonneux.
+
+Questions :
+
+1. Quel diagnostic posez-vous ?
+2. Quelle triade clinique justifie ce diagnostic ?
+3. Quels facteurs de risque sont présents ?
+4. Quel examen permet de distinguer forme œdémateuse et ischémique ?
+5. Quels traitements instituez-vous ?
+
+Réponses :
+
+1. Occlusion de la veine centrale de la rétine gauche.
+
+2. Dilatation tortueuse des veines + hémorragies en flammèches + œdème papillaire/pôle postérieur.
+
+3. Âge, HTA et diabète.
+
+4. Angiographie à la fluorescéine.
+
+5. Aspirine, équilibration de l’HTA et du diabète, injections d’anti-VEGF ou corticoïdes si œdème maculaire, panphotocoagulation si forme ischémique.
+
+Explication pédagogique :  
+Cas typique d’OVCR du sujet âgé avec FDRCV, illustrant la triade du FO et les principes thérapeutiques.

@@ -1,0 +1,36 @@
+# CAS CLINIQUES : ADÉNOME DE PROSTASTE
+
+Chapitre: Adénome de prostaste
+Chemin source: 5ème année\Urologie\Adénome de prostaste.docx
+--------------------------------------------------
+
+"Cas clinique – Hypertrophie bénigne de la prostate"
+
+Un homme de 68 ans consulte pour une dysurie progressive, une nycturie × 4 et un jet urinaire faible depuis 2 ans. Il n’a jamais eu de rétention. 
+
+Examen : TR → prostate estimée à 50-60 g, consistance élastique, surface régulière, sillon médian effacé. 
+PSA total = 3,2 ng/ml. 
+Échographie : prostate 55 g, résidu post-mictionnel 120 ml, reins normaux.
+
+Questions :
+
+1. Quel diagnostic est le plus probable ?
+2. Quels éléments du toucher rectal sont rassurants ?
+3. Quelles complications mécaniques faut-il craindre à moyen terme ?
+4. Quels traitements médicamenteux pouvez-vous proposer en première intention ?
+5. Quand orienterez-vous ce patient vers un traitement chirurgical ?
+
+Réponses :
+
+1. Hypertrophie bénigne de la prostate (adénome) symptomatique.
+
+2. Consistance élastique, surface régulière et limites nettes (contre un cancer).
+
+3. Rétention aiguë d’urine, calculs vésicaux, diverticules, hématurie et à long terme retentissement sur le haut appareil (hydronéphrose, insuffisance rénale).
+
+4. α-bloquant (effet rapide sur les symptômes) ± inhibiteur de la 5α-réductase (si volume important) ± phytothérapie.
+
+5. En cas d’échec du traitement médical bien conduit, de complications (rétention, calculs, infections récidivantes, retentissement rénal) ou de demande du patient pour une solution définitive.
+
+Explication pédagogique :  
+Cas typique d’HBP, reprenant les données du TR, les complications et les options thérapeutiques (très souvent demandés en QE).

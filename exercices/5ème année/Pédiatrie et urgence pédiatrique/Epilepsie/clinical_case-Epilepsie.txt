@@ -1,0 +1,25 @@
+# CAS CLINIQUES : EPILEPSIE
+
+Chapitre: Epilepsie
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Epilepsie.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Épilepsie
+
+Un garçon de 8 ans présente depuis 6 mois des crises brèves nocturnes caractérisées par une déviation de la bouche, des bruits de gorge et une impossibilité de parler, sans perte de connaissance complète. L’examen neurologique intercritique est normal. L’EEG montre des pointes centro-temporales.
+
+Questions :
+1. Quel syndrome épileptique évoquez-vous ?
+2. Quelle est la classification de ces crises (début, conscience, sémiologie) ?
+3. Quel est le pronostic de cette forme d’épilepsie ?
+4. Quel traitement de fond proposez-vous en première intention ?
+5. Quels autres syndromes épileptiques de l’enfant de 2-12 ans connaissez-vous ?
+6. Pourquoi est-il important de préciser le syndrome épileptique ?
+
+Réponses attendues :
+1. Épilepsie à paroxysmes rolandiques (épilepsie focale idiopathique bénigne).
+2. Crise focale, sans altération majeure de la conscience, sémiologie motrice (oro-faciale).
+3. Guérison dans 100 % des cas à l’adolescence, bon contrôle sous monothérapie.
+4. Monothérapie antiépileptique (souvent carbamazépine ou autre molécule adaptée).
+5. Épilepsie-absences, syndrome de Lennox-Gastaut, syndrome de Doose, POCS.
+6. Parce que le syndrome conditionne le choix du traitement, le pronostic et le conseil aux parents.

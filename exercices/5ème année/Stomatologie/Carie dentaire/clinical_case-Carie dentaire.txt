@@ -1,0 +1,34 @@
+# CAS CLINIQUES : CARIE DENTAIRE
+
+Chapitre: Carie dentaire
+Chemin source: 5ème année\Stomatologie\Carie dentaire.docx
+--------------------------------------------------
+
+"Cas clinique – Carie dentaire"
+
+Un patient de 25 ans consulte pour une douleur dentaire spontanée, nocturne, de la 36, qui persiste après les repas froids ou sucrés. La douleur est devenue permanente depuis 48 heures. 
+
+Examen : large cavité carieuse de la 36, sonde qui pénètre profondément, douleur à la percussion.
+
+Questions :
+
+1. À quel degré de la classification de Lubetzki se situe cette carie ?
+2. Quel est le tissu atteint au-delà de la dentine ?
+3. Quelles complications locales redoutez-vous si aucun traitement n’est entrepris ?
+4. Quelles complications générales sont possibles ?
+5. Quel est le principe du traitement à ce stade ?
+
+Réponses :
+
+1. 3e degré (pulpite) : douleur spontanée, nocturne et persistante.
+
+2. La pulpe dentaire.
+
+3. Desmodontite, granulome ou kyste péri-apical, puis cellulite ou ostéite.
+
+4. Endocardite, GNA, RAA ou septicémie (foyer infectieux à distance).
+
+5. Traitement endodontique (dévitalisation + obturation canalaire) ou extraction si la dent n’est pas conservable, associé au traitement de l’infection.
+
+Explication pédagogique :  
+Cas illustrant la progression de la carie selon Lubetzki et l’importance des complications loco-régionales et générales.

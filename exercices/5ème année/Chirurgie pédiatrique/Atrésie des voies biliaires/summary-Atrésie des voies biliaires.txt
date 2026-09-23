@@ -1,0 +1,72 @@
+# CAS CLINIQUES : ATRÉSIE DES VOIES BILIAIRES
+
+Chapitre: Atrésie des voies biliaires
+Chemin source: 5ème année\Chirurgie pédiatrique\Atrésie des voies biliaires.docx
+--------------------------------------------------
+
+CAS CLINIQUE 1
+
+ÉNONCÉ
+
+Un nourrisson présente un ictère persistant après les premières semaines de vie. Les parents signalent des selles décolorées et des urines foncées. L’examen retrouve une hépatomégalie. Le bilan biologique montre une cholestase.
+
+QUESTIONS
+
+1. Quel diagnostic doit être évoqué en priorité ?
+2. Quels éléments cliniques de ce cas sont particulièrement évocateurs ?
+3. Quel examen d’imagerie doit être réalisé en première intention ?
+4. Quel résultat échographique est très évocateur du diagnostic ?
+5. Quelle doit être l’attitude générale concernant la prise en charge ?
+
+CORRIGÉ
+
+1. Il faut évoquer une atrésie des voies biliaires.
+2. L’ictère persistant, les selles décolorées, les urines foncées et l’hépatomégalie sont particulièrement évocateurs d’une cholestase néonatale compatible avec une atrésie des voies biliaires.
+3. Une échographie doit être réalisée en première intention.
+4. L’absence d’image vésiculaire est un signe très évocateur. Cependant, une échographie peut parfois être normale.
+5. Il s’agit d’une urgence diagnostique et thérapeutique. Le cours insiste sur la nécessité d’un transfert rapide en milieu spécialisé, avec une prise en charge essentielle avant 30 jours.
+
+
+CAS CLINIQUE 2
+
+ÉNONCÉ
+
+Un nourrisson atteint d’une atrésie des voies biliaires est pris en charge précocement avant l’installation d’une cirrhose. Une intervention de Kasai est réalisée. Dans les suites, l’enfant présente une fièvre élevée avec une nette altération de l’état général.
+
+QUESTIONS
+
+1. Quel est le but de l’intervention de Kasai ?
+2. En quoi consiste cette intervention ?
+3. Quelle complication postopératoire doit être évoquée devant cette fièvre et cette altération de l’état général ?
+4. Quelle évolution peut avoir cette complication ?
+5. Quels éléments permettent de juger secondairement de la réussite du traitement ?
+
+CORRIGÉ
+
+1. Le but est de rétablir un drainage biliaire efficace dans le tube digestif.
+2. L’intervention de Kasai est une hépato-port-entérostomie : résection du reliquat fibreux de la voie biliaire jusqu’au hile puis abouchement d’une anse en Y au niveau du hile.
+3. Il faut évoquer une cholangite postopératoire.
+4. Elle peut évoluer rapidement vers une septicémie.
+5. Sur le plan clinique, les selles deviennent successivement blanches, puis vertes et enfin jaune d’or. Sur le plan biologique, la bilirubinémie conjuguée se normalise progressivement.
+
+CAS CLINIQUE – Atrésie des voies biliaires
+
+Un nourrisson de 3 semaines est amené en consultation pour un ictère persistant depuis la naissance. Les parents signalent des selles complètement décolorées et des urines très foncées. À l’examen, on note une hépatomégalie.
+
+1. Quel diagnostic devez-vous évoquer en premier lieu jusqu’à preuve du contraire ?
+2. Quels sont les signes cliniques caractéristiques de cette pathologie ?
+3. Quel examen d’imagerie de première intention demandez-vous et que recherchez-vous ?
+4. Quels sont les principes du traitement chirurgical de première intention ?
+5. Que se passe-t-il si le diagnostic et le traitement sont trop tardifs ?
+
+Réponses attendues :
+
+1. Atrésie des voies biliaires (toute cholestase néonatale est une atrésie des voies biliaires jusqu’à preuve du contraire).
+
+2. Ictère persistant après 2 semaines, selles décolorées persistantes, urines foncées et hépatomégalie.
+
+3. Échographie abdominale : recherche d’une absence d’image vésiculaire (très évocatrice) ou d’une image triangulaire hypoéchogène hilaire.
+
+4. Intervention de Kasai (hépato-porto-entérostomie) : résection du reliquat fibreux jusqu’au hile et anastomose d’une anse jéjunale en Y.
+
+5. Évolution vers la cirrhose biliaire, hypertension portale, insuffisance hépatocellulaire et décès dans la première année de vie ; indication alors de transplantation hépatique.

@@ -1,0 +1,91 @@
+# CAS CLINIQUES : ANOMALIE DE LA MIGRATION TESTICULAIRE
+
+Chapitre: Anomalie de la migration testiculaire
+Chemin source: 5ème année\Chirurgie pédiatrique\Anomalie de la migration testiculaire.docx
+--------------------------------------------------
+
+CAS CLINIQUE 1
+==============
+
+ÉNONCÉ
+
+Un garçon est examiné pour une vacuité scrotale bilatérale. Malgré un examen attentif des régions inguinale, crurale et périnéale, aucun testicule n'est palpé.
+
+QUESTIONS
+
+1. Quelles sont les deux principales situations diagnostiques à évoquer ?
+2. Quel examen biologique permet de rechercher la présence de tissu gonadique ?
+3. Comment interpréter une augmentation de la testostéronémie après stimulation ?
+4. Comment interpréter l'absence d'augmentation de la testostéronémie ?
+5. Quel examen permet ensuite de localiser un testicule intra-abdominal ?
+
+CORRIGÉ
+
+1. Les deux possibilités sont une anorchidie et une cryptorchidie bilatérale avec testicules en position abdominale.
+
+2. Il faut réaliser un test de stimulation par les gonadostimulines avec dosage de la testostérone.
+
+3. Une augmentation de la testostérone après stimulation indique la présence de tissu testiculaire : il s'agit alors de testicules cachés.
+
+4. Une absence d'augmentation de la testostérone oriente vers une absence de tissu testiculaire et donc vers une anorchidie.
+
+5. La cœlioscopie est l'examen clé pour repérer la position d'un testicule dans la cavité abdominale.
+
+EXPLICATION
+
+L'association « absence bilatérale de testicules + test aux gonadostimulines » est particulièrement importante à connaître : le cours la présente explicitement dans la partie biologique marquée QE. Les annales demandent également précisément l'examen biologique permettant d'affirmer ou d'éliminer une anorchidie.
+
+
+CAS CLINIQUE 2
+==============
+
+ÉNONCÉ
+
+Un garçon de 3 ans présente une vacuité scrotale unilatérale. Le testicule n'est pas retrouvé dans la bourse. Il est retrouvé en position inguinale et ne peut pas être maintenu durablement dans la bourse après traction. Les parents rapportent qu'il n'a jamais été définitivement en place.
+
+QUESTIONS
+
+1. Quelle anomalie de migration testiculaire évoquez-vous ?
+2. Quelle est la conséquence principale à long terme sur la fertilité si l'anomalie persiste ?
+3. À partir de quel âge la dégradation testiculaire commence-t-elle selon le cours ?
+4. Quel autre risque à long terme doit être expliqué à la famille ?
+5. Quelle est la conduite thérapeutique à cet âge ?
+
+CORRIGÉ
+
+1. Il s'agit d'un testicule rétractile.
+
+2. Le risque est une hypofertilité ou une stérilité par anomalies des spermatogonies, des tubes séminifères et des cellules de Leydig.
+
+3. La dégradation débute vers l'âge de 2 ans.
+
+4. Il existe un risque de dégénérescence tumorale, la tumeur apparaissant le plus souvent vers 25-30 ans selon le cours.
+
+5. Le cours indique une indication opératoire absolue avec abaissement et orchidopexie.
+
+EXPLICATION
+
+Les conséquences sur la fertilité et le risque de dégénérescence constituent des connaissances prioritaires : elles sont explicitement marquées QE dans le cours et les conséquences d'une ectopie testiculaire non traitée figurent directement dans les annales. Le raisonnement clinique doit toutefois commencer par distinguer le testicule rétractile du testicule oscillant et de la vraie ectopie.
+
+
+CAS CLINIQUE – Anomalie de la migration testiculaire
+
+Un garçon de 18 mois est amené en consultation car les parents n’ont jamais vu le testicule gauche dans la bourse. À l’examen, le scrotum gauche est hypoplasique. Le testicule gauche n’est pas palpable dans le trajet inguinal ni en position aberrante. Le testicule droit est en place et de taille normale.
+
+1. Quels sont les deux diagnostics possibles devant cette absence unilatérale de testicule palpable ?
+2. Quel examen biologique permet de différencier ces deux situations ?
+3. Quel est le but du traitement et avant quel âge doit-il idéalement être réalisé ?
+4. Quelle est la conduite à tenir si le testicule est retrouvé eutrophique après la puberté ?
+5. Quelles sont les deux conséquences majeures d’une ectopie testiculaire non traitée ?
+
+Réponses attendues :
+
+1. Monorchidie (agénésie) ou testicule intra-abdominal (cryptorchidie).
+
+2. Test aux gonadostimulines avec dosage de la testostéronémie (pic = présence de tissu gonadique ; absence d’élévation = anorchidie).
+
+3. Avoir un testicule en place dans le scrotum avant l’âge de 2 ans.
+
+4. Abaissement chirurgical + biopsie systématique à la recherche d’une dégénérescence.
+
+5. Hypofertilité/stérilité et risque de dégénérescence tumorale.

@@ -1,0 +1,40 @@
+# CAS CLINIQUES : NEPHROPATHIE LUPIQUE
+
+Chapitre: Nephropathie lupique
+Chemin source: 5ème année\Néphrologie\Nephropathie lupique.docx
+--------------------------------------------------
+
+"Cas clinique – Néphropathie lupique"
+
+Une jeune femme de 19 ans présente depuis 3 semaines des œdèmes généralisés, une asthénie et des polyarthralgies. À l’entrée : température 38 °C, PA 150/92 mmHg. Elle rapporte un érythème malaire survenu 3 semaines plus tôt, ayant laissé des séquelles hyperchromiques. 
+
+Bilan :
+- Protéinurie = 2 g/24 h
+- Protidémie = 65 g/l ; albuminémie = 32 g/l
+- Créatininémie = 370 µmol/l (versus 182 µmol/l deux semaines plus tôt)
+- Anémie microcytaire hypochrome régénérative
+- CRP 7 mg/l ; VS 85 mm
+- AAN positifs, anti-ADN positifs, C3 et C4 abaissés
+
+Questions :
+
+1. Pour l’atteinte néphrologique seule, à quoi concluez-vous ? (3 mots maximum)
+2. Argumentez ce syndrome.
+3. Quelle étiologie retenez-vous en premier ?
+4. Que s’attend-on à observer à la biopsie rénale en microscopie optique et en immunofluorescence ?
+5. Quelle classe histologique est la plus probable et quelle attitude thérapeutique en découle ?
+
+Réponses :
+
+1. Syndrome néphritique aigu (ou glomérulonéphrite rapidement progressive).
+
+2. Œdèmes, HTA, protéinurie, dégradation rapide de la fonction rénale (créatinine doublée en 15 jours) et signes d’activité inflammatoire.
+
+3. Lupus érythémateux systémique (érythème malaire, polyarthralgies, fièvre, AAN + anti-ADN, hypocomplémentémie).
+
+4. En optique : prolifération endocapillaire ± extracapillaire (crescents) ; en immunofluorescence : dépôts granuleux diffus d’Ig et de complément (« full house »).
+
+5. Classe III ou IV (proliférative). Urgence thérapeutique : corticothérapie + immunosuppresseur (cyclophosphamide ou MMF) + hydroxychloroquine + IEC + mesures de néphroprotection.
+
+Explication pédagogique :  
+Cas directement calqué sur une question d’examen (Pr RANDRIAMANANTSOA), illustrant le raisonnement diagnostique et la gravité des classes prolifératives.

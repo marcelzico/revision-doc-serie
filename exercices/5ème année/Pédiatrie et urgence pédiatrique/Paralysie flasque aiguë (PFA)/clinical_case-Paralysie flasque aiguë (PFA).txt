@@ -1,0 +1,25 @@
+# CAS CLINIQUES : PARALYSIE FLASQUE AIGUË (PFA)
+
+Chapitre: Paralysie flasque aiguë (PFA)
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Paralysie flasque aiguë (PFA).docx
+--------------------------------------------------
+
+CAS CLINIQUE – Paralysie flasque aiguë
+
+Un enfant de 4 ans, insuffisamment vacciné contre la poliomyélite, présente depuis 48 heures une faiblesse asymétrique des membres inférieurs apparue au décours d’un épisode fébrile. À l’examen : hypotonie, ROT abolis aux membres inférieurs, sensibilité conservée, pas de signe de Babinski.
+
+Questions :
+1. Confirmez-vous le diagnostic de PFA et sur quels arguments ?
+2. Quelle procédure administrative et biologique devez-vous immédiatement engager ?
+3. Quels éléments de l’interrogatoire sont prioritaires ?
+4. Quelles étiologies évoquez-vous en priorité ?
+5. Quels examens demandez-vous pour orienter le diagnostic ?
+6. Quel suivi devez-vous organiser à 60 jours ?
+
+Réponses attendues :
+1. Oui : déficit moteur aigu flasque, non traumatique, ROT abolis, sensibilité conservée.
+2. Déclaration obligatoire + prélèvements de selles.
+3. Statut vaccinal précis, voyage, contage, mode d’installation.
+4. Poliomyélite et syndrome de Guillain-Barré.
+5. PL, EMG, PCR/sérologies, éventuellement IRM.
+6. Évaluation de la récupération ou de la persistance de la paralysie.

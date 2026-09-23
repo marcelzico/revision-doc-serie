@@ -1,0 +1,32 @@
+# CAS CLINIQUES : HERNIE DISCALE CERVICALE
+
+Chapitre: Hernie discale cervicale
+Chemin source: 5ème année\Neurochirurgie\Hernie discale cervicale.docx
+--------------------------------------------------
+
+"Cas clinique – Hernie discale cervicale"
+
+Un homme de 42 ans présente depuis 3 semaines une cervicalgie associée à une douleur irradiant dans le membre supérieur droit, jusqu’au pouce et à la face externe de l’avant-bras. Il existe une diminution du réflexe bicipital droit et une faiblesse de la flexion du coude.
+
+Questions :
+
+1. Quelle racine est probablement comprimée ?
+2. Quel diagnostic évoquez-vous ?
+3. Quels examens demandez-vous pour confirmer ?
+4. Quel traitement instituez-vous en première intention ?
+5. Dans quel cas indiqueriez-vous une chirurgie ?
+
+Réponses :
+
+1. Racine C6 (territoire sensitif du pouce + face externe de l’avant-bras, réflexe bicipital, flexion du coude).
+
+2. Hernie discale cervicale C5-C6 responsable d’une névralgie cervico-brachiale C6.
+
+3. IRM cervicale (ou scanner) ; biologie normale.
+
+4. Traitement médical (repos, antalgiques, AINS, décontracturants) pendant 6-8 semaines ± infiltration épidurale.
+
+5. En cas de déficit moteur important (forme paralysante) ou d’échec du traitement médical bien conduit.
+
+Explication pédagogique :  
+Cas typique de NCB C6 par hernie discale, illustrant la topographie radiculaire, la place de l’IRM et le traitement médical de première intention.

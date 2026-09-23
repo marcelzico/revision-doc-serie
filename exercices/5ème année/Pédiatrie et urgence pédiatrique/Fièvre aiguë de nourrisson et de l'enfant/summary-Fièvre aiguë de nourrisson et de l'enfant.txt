@@ -1,0 +1,25 @@
+# CAS CLINIQUES : FIÈVRE AIGUË DE NOURRISSON ET DE L'ENFANT
+
+Chapitre: Fièvre aiguë de nourrisson et de l'enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Fièvre aiguë de nourrisson et de l'enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Fièvre aiguë
+
+Un nourrisson de 5 semaines est amené pour une fièvre à 38,8 °C depuis 12 heures. Il est irritable, boit moins bien. À l’examen : TRC 2 s, pas de marbrure, pas de purpura, fontanelle normale, pas de foyer infectieux évident.
+
+Questions :
+1. La fièvre est-elle authentique et comment la définissez-vous ?
+2. Quels signes de mauvaise tolérance recherchez-vous particulièrement ?
+3. Quelle est votre conduite à tenir (hospitalisation, bilan, traitement) ?
+4. Pourquoi cet âge impose-t-il une attitude particulière ?
+5. Quel antipyrétique et quelle posologie prescrivez-vous ?
+6. Quelles complications de la fièvre redoutez-vous ?
+
+Réponses attendues :
+1. Oui : température centrale ≥ 38 °C depuis < 5 jours.
+2. Teint, conscience, cri, marbrures, TRC, tachycardie, polypnée, purpura.
+3. Hospitalisation systématique, NFS + PCT/CRP + hémoculture + ECBU + PL + radio thorax, antibiothérapie probabiliste, paracétamol.
+4. Risque élevé de bactériémie et d’infection invasive avant 6 semaines.
+5. Paracétamol 15 mg/kg toutes les 4-6 h (max 60 mg/kg/24 h).
+6. Hyperthermie majeure, convulsions, déshydratation.

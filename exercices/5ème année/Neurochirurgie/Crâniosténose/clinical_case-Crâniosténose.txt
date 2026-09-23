@@ -1,0 +1,35 @@
+# CAS CLINIQUES : CRÂNIOSTÉNOSE
+
+Chapitre: Crâniosténose
+Chemin source: 5ème année\Neurochirurgie\Crâniosténose.docx
+--------------------------------------------------
+
+"Cas clinique – Crâniosténose"
+
+Un nourrisson de 5 mois est amené pour une déformation du crâne remarquée depuis l’âge de 2 mois. Le crâne est allongé d’avant en arrière, étroit, avec un front bombé. 
+
+Examen : fontanelle antérieure fermée, pas de signe d’HTIC évident, développement psychomoteur normal pour l’âge. 
+Scanner 3D : synostose de la suture sagittale.
+
+Questions :
+
+1. Quel type de crâniosténose présente cet enfant ?
+2. Quelle suture est atteinte ?
+3. Quels sont les deux risques principaux à long terme sans traitement ?
+4. À quel âge idéalement réalise-t-on la chirurgie ?
+5. Quel type de chirurgie est préférable ?
+
+Réponses :
+
+1. Scaphocéphalie (crâne en forme de bateau).
+
+2. Suture sagittale.
+
+3. HTIC chronique (retentissement mental et visuel) et préjudice esthétique/psychologique.
+
+4. Vers 6-8 mois (avant la fermeture complète des autres sutures).
+
+5. Reconstruction crânio-faciale (ou au minimum craniotomie d’ouverture de la suture) pour corriger déformation et risque d’HTIC.
+
+Explication pédagogique :  
+Cas typique de scaphocéphalie, illustrant le diagnostic clinique + radiologique et le timing chirurgical optimal.

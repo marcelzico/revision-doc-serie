@@ -1,0 +1,25 @@
+# CAS CLINIQUES : HÉMORRAGIES NÉONATALES OU SYNDROME HÉMORRAGIQUE DU NOUVEAU-NÉ
+
+Chapitre: Hémorragies néonatales ou syndrome hémorragique du nouveau-né
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Hémorragies néonatales ou syndrome hémorragique du nouveau-né.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Hémorragies néonatales
+
+Un nouveau-né à terme, non prophylacté par vitamine K, présente à J3 de vie un méléna abondant et un saignement ombilical. L’examen trouve quelques ecchymoses. TP à 12 %, facteurs II, VII, IX, X effondrés, facteur V normal.
+
+Questions :
+1. Quel diagnostic portez-vous ?
+2. Quel est le mécanisme physiopathologique ?
+3. Quelle est votre conduite à tenir thérapeutique immédiate ?
+4. Quel schéma de prévention auriez-vous dû appliquer à la naissance ?
+5. Quelles autres causes d’hémorragie néonatale évoquez-vous si le bilan de coagulation était différent ?
+6. Pourquoi les prématurés sont-ils particulièrement à risque de MHNN ?
+
+Réponses attendues :
+1. Maladie hémorragique du nouveau-né (MHNN).
+2. Immaturité hépatocytaire avec déficit en vitamine K → baisse des facteurs vitamino-K-dépendants.
+3. PPSB 1 ml/kg IV lente + vitamine K1 répétée jusqu’à arrêt du saignement.
+4. Vitamine K 2 mg per os à la naissance, à J3-J4 et à 1 mois.
+5. Thrombopénie, déficit congénital d’un facteur, trouble secondaire de l’hémostase (infection, anoxie…).
+6. Immaturité hépatique plus marquée et réserves de vitamine K plus faibles.

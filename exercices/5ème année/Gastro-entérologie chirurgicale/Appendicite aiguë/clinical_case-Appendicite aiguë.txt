@@ -1,0 +1,27 @@
+# CAS CLINIQUES : APPENDICITE AIGUË
+
+Chapitre: Appendicite aiguë
+Chemin source: 5ème année\Gastro-entérologie chirurgicale\Appendicite aiguë.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Appendicite aiguë
+
+Un garçon de 15 ans présente depuis 24 heures une douleur abdominale ayant débuté en péri-ombilical puis localisée en fosse iliaque droite, associée à des nausées. Température à 38,2 °C. Défense en FID avec signes de Mac Burney et Blumberg positifs.
+
+1. Quel est le diagnostic le plus probable ?
+2. Quels examens biologiques et d’imagerie demandez-vous ?
+3. Quels sont les signes d’irritation péritonéale à rechercher ?
+4. Quelle est la conduite à tenir thérapeutique ?
+5. Quelles sont les formes topographiques trompeuses possibles ?
+
+Réponses attendues :
+
+1. Appendicite aiguë.
+
+2. NFS (hyperleucocytose à PNN), CRP, β-HCG si fille, échographie ou scanner abdomino-pelvien.
+
+3. Mac Burney, Blumberg, Rovsing, Jacob.
+
+4. Appendicectomie en urgence + antibiotiques de courte durée.
+
+5. Rétrocæcale, sous-hépatique, pelvienne, méso-cœliaque, à gauche.

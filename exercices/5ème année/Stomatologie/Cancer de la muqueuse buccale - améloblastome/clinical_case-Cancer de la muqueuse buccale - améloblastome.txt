@@ -1,0 +1,15 @@
+# CAS CLINIQUES : CANCER DE LA MUQUEUSE BUCCALE - AMÉLOBLASTOME
+
+Chapitre: Cancer de la muqueuse buccale - améloblastome
+Chemin source: 5ème année\Stomatologie\Cancer de la muqueuse buccale - améloblastome.docx
+--------------------------------------------------
+
+"question","answer","explanation"
+"Quelle est la définition de la carie dentaire ?","Lésion cavitaire irréversible résultant de la destruction des tissus dentaires par déminéralisation, secondaire à un déséquilibre infectieux de l’écosystème buccal.","Elle est multifactorielle."
+"Quels sont les facteurs du schéma de Keyes intervenant dans la carie ?","Hôte (qualité des tissus dentaires et de la salive), bactéries cariogènes du biofilm (plaque), facteurs comportementaux (hygiène, alimentation riche en hydrates de carbone) et temps de contact.","L’action simultanée de ces facteurs est nécessaire."
+"Quelles sont les méthodes de diagnostic de la carie dentaire ?","Sondage clinique (sonde dentaire) et radiographies (rétro-alvéolaire, occlusale, panoramique).","Les radiographies sont particulièrement utiles pour les lésions proximales."
+"Quels sont les 4 degrés de la classification de Lubetzki de la carie ?","1er degré : carie de l’émail (indolore) ; 2e degré : carie émail + dentine (douleur provoquée qui cesse avec la stimulation) ; 3e degré : pulpite (douleur provoquée et spontanée, nocturne) ; 4e degré : nécrose pulpaire (absence de douleur).","Le degré guide le traitement."
+"Qu’est-ce qu’une carie récurrente (ou secondaire) ?","Lésion carieuse se développant au bord d’une obturation existante.","Elle témoigne souvent d’un défaut d’étanchéité ou d’hygiène."
+"Quelles sont les complications locales de la carie dentaire ?","Desmodontite péri-apicale, granulome péri-apical et kyste péri-apical.","Ces lésions se développent à partir de la nécrose pulpaire."
+"Quelles sont les complications régionales de la carie dentaire ?","Parulie (denture temporaire), sinusite maxillaire odontogène, cellulite odontogène et ostéite odontogène.","La cellulite est une urgence fréquente."
+"Quelles sont les complications générales possibles de la carie dentaire ?","Endocardite (maladie d’Osler), glomérulonéphrite aiguë, rhumatisme articulaire aigu et septicémie.","Elles justifient le traitement précoce de tout foyer infectieux dentaire."

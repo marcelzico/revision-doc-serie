@@ -1,0 +1,42 @@
+# CAS CLINIQUES : MALADIE RENALE CHRONIQUE ET INSUFFISANCE RENALE CHRONIQUE
+
+Chapitre: Maladie renale chronique et insuffisance renale chronique
+Chemin source: 5ème année\Néphrologie\Maladie renale chronique et insuffisance renale chronique.docx
+--------------------------------------------------
+
+"Cas clinique – Maladie rénale chronique"
+
+Un homme de 62 ans, diabétique de type 2 depuis 15 ans et hypertendu, consulte pour un bilan de routine. Il n’a pas de plainte particulière. 
+
+Bilan :
+- Créatininémie = 165 µmol/l
+- DFG estimé (CKD-EPI) = 38 ml/min/1,73 m²
+- Albuminurie = 450 mg/g de créatininurie
+- Kaliémie = 4,8 mmol/l
+- Hémoglobine = 10,9 g/dl
+- Échographie : reins de taille diminuée, contours réguliers, pas d’obstacle
+
+La créatininémie était à 110 µmol/l il y a 18 mois.
+
+Questions :
+
+1. Quel diagnostic posez-vous et à quel stade ?
+2. Quels arguments permettent d’affirmer le caractère chronique ?
+3. Quels facteurs de progression identifiez-vous ?
+4. Quelles complications devez-vous rechercher et prendre en charge ?
+5. Quelle stratégie thérapeutique de néphroprotection instituez-vous ?
+
+Réponses :
+
+1. Maladie rénale chronique stade 3b (DFG entre 30 et 44 ml/min) d’origine probable diabétique et vasculaire.
+
+2. Baisse progressive de la fonction rénale sur plus de 3 mois, albuminurie persistante et reins de taille réduite à l’échographie.
+
+3. Diabète, hypertension artérielle et albuminurie significative.
+
+4. Anémie (Hb 10,9 g/dl), risque d’ostéodystrophie, dyslipidémie, et risque cardio-vasculaire élevé. Surveiller également kaliémie et équilibre acido-basique.
+
+5. Optimisation du contrôle glycémique et tensionnel, introduction d’un IEC (ou ARA2) à faible dose avec surveillance de la créatinine et de la kaliémie, régime hyposodé, activité physique, et prise en charge de l’anémie si nécessaire.
+
+Explication pédagogique :  
+Cas typique de MRC diabéto-vasculaire, illustrant la démarche diagnostique, l’identification des facteurs de progression et la néphroprotection par les BSRAA (points très souvent interrogés en QE).

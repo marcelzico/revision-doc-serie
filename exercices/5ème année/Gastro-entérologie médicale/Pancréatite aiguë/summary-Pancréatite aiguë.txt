@@ -1,0 +1,27 @@
+# CAS CLINIQUES : PANCRÉATITE AIGUË
+
+Chapitre: Pancréatite aiguë
+Chemin source: 5ème année\Gastro-entérologie médicale\Pancréatite aiguë.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Pancréatite aiguë
+
+Un homme de 35 ans, gros mangeur et buveur, présente après un repas copieux une douleur épigastrique intense transfixiante, des vomissements incoercibles et une défense épigastrique modérée. La lipasémie est à 8 N.
+
+1. Quel est le diagnostic ?
+2. Quels sont les deux examens biologiques les plus utiles ?
+3. Quel examen d’imagerie demandez-vous pour évaluer la gravité ?
+4. Quels critères de gravité recherchez-vous ?
+5. Quelles sont les deux étiologies les plus fréquentes ?
+
+Réponses attendues :
+
+1. Pancréatite aiguë.
+
+2. Lipasémie et amylasémie (> 3 N).
+
+3. TDM abdominale avec injection (score de Balthazar).
+
+4. CRP > 150 à 48 h, score de Ranson ≥ 3, SRIS, nécrose étendue.
+
+5. Alcool et lithiase biliaire.

@@ -1,0 +1,89 @@
+# CAS CLINIQUES : ATRÉSIE DE L’ŒSOPHAGE
+
+Chapitre: Atrésie de l’œsophage
+Chemin source: 5ème année\Chirurgie pédiatrique\Atrésie de l’œsophage.docx
+--------------------------------------------------
+
+CAS CLINIQUE 1
+
+ÉNONCÉ
+
+Un nouveau-né présente dès les premières heures de vie une hypersialorrhée importante avec épisodes de fausses routes. Une sonde gastrique est introduite en salle de naissance mais bute avant d’atteindre l’estomac. Une radiographie thoraco-abdominale de face montre la sonde enroulée dans un cul-de-sac œsophagien supérieur dilaté.
+
+QUESTIONS
+
+1. Quelle malformation doit être évoquée en priorité ?
+2. Quel mécanisme explique l’hypersialorrhée ?
+3. Quel examen radiologique a permis de confirmer la présence d’un cul-de-sac œsophagien supérieur ?
+4. Quelle forme anatomique d’atrésie est la plus fréquente ?
+5. Quels sont les principes de la prise en charge initiale avant la chirurgie ?
+
+CORRIGÉ
+
+1. Il faut évoquer une atrésie de l’œsophage, probablement associée à une fistule trachéo-œsophagienne.
+2. L’interruption de la continuité œsophagienne empêche la progression normale de la salive vers l’estomac. La salive s’accumule donc dans le cul-de-sac œsophagien supérieur et entraîne une hypersialorrhée ainsi que des fausses routes.
+3. Une radiographie thoraco-abdominale de face a montré la sonde enroulée dans le cul-de-sac œsophagien supérieur dilaté.
+4. Le type III est la forme la plus fréquente selon le cours.
+5. La prise en charge initiale comprend une position proclive à 45°, une aspiration continue du cul-de-sac supérieur, une ventilation spontanée adaptée avec oxygène si nécessaire voire une ventilation à faible pression et fréquence élevée, une protection thermique, puis le transfert médicalisé spécialisé et le bilan préopératoire.
+
+
+CAS CLINIQUE 2
+
+ÉNONCÉ
+
+Un nouveau-né est pris en charge pour une atrésie de l’œsophage. Une fistule trachéo-œsophagienne inférieure est identifiée. L’enfant présente une distension abdominale et des signes respiratoires. L’équipe prépare le traitement chirurgical.
+
+QUESTIONS
+
+1. Quel est le retentissement respiratoire de la fistule lors de l’inspiration ?
+2. Pourquoi observe-t-on une distension gastrique et abdominale ?
+3. Que se produit-il au niveau respiratoire lors de l’expiration ?
+4. Quel type d’atteinte pulmonaire peut résulter du reflux du contenu digestif dans les voies respiratoires ?
+5. Quels sont les deux objectifs essentiels du traitement chirurgical du type III ?
+
+CORRIGÉ
+
+1. Lors de l’inspiration, la fistule permet le passage d’air de la trachée vers l’estomac.
+2. Le passage d’air dans l’estomac entraîne une distension gastrique et abdominale, avec élévation secondaire de la coupole diaphragmatique.
+3. Lors de l’expiration, le liquide peut refluer vers les voies aériennes et les poumons par la fistule trachéo-œsophagienne inférieure.
+4. Le reflux peut provoquer des lésions muqueuses bronchiques et alvéolaires importantes, avec un syndrome de Mendelson mentionné dans le cours, et favoriser l’aggravation de l’atteinte infectieuse pulmonaire.
+5. Le traitement chirurgical consiste à fermer la fistule trachéo-œsophagienne inférieure et à réaliser une anastomose entre les deux culs-de-sac œsophagiens.
+
+
+
+CAS CLINIQUE – Atrésie de l’œsophage
+
+Nouveau-né à terme, eutrophique. À la naissance, on constate une hypersialorrhée importante avec fausses routes. La sonde gastrique bute à 10 cm des arcades dentaires. Une radiographie thoraco-abdominale de face est réalisée.
+
+1. Quel est le diagnostic le plus probable ? Précisez le type le plus fréquent.
+2. Décrire la physiopathologie de cette forme (type III de Ladd / type C de Gross).
+3. Quelle est la conduite à tenir néonatale immédiate avant le transfert en chirurgie pédiatrique ?
+4. Quels sont les principes du traitement chirurgical de cette forme ?
+5. Quelles malformations associées doit-on rechercher systématiquement ?
+
+Réponses attendues :
+
+1. Atrésie de l’œsophage de type III (Ladd) ou type C (Gross) : cul-de-sac supérieur borgne + fistule œso-trachéale inférieure.
+
+2. À l’inspiration : air passe dans l’estomac par la fistule → distension gastrique. À l’expiration et lors de la déglutition : salive s’accumule dans le cul-de-sac supérieur → fausses routes. Reflux acide par la fistule → lésions pulmonaires de type Mendelson + surinfections.
+
+3. Proclive 45°, aspiration continue du cul-de-sac supérieur, ventilation spontanée (± O₂) ou ventilation artificielle à faible pression, protection thermique, transfert médicalisé.
+
+4. Fermeture de la fistule trachéo-œsophagienne inférieure + anastomose termino-terminale des deux culs-de-sac œsophagiens.
+
+5. Anomalies cardiovasculaires, vertébrales, et association VACTERL (Vertèbre, Anus, Cœur, Trachée, Œsophage, Radius, Rein).
+
+
+
+
+Question,Réponse
+Qu’est-ce que l’atrésie de l’œsophage ?,Interruption de la continuité œsophagienne, associée dans la majorité des cas à une fistule trachéo-œsophagienne. C’est une urgence chirurgicale néonatale.
+Décrire le type III de Ladd (ou type C de Gross) de l’atrésie de l’œsophage.,C’est la forme la plus fréquente. Il existe un cul-de-sac œsophagien supérieur borgne et dilaté, et une fistule œso-trachéale inférieure qui s’abouche généralement juste au-dessus de la carène. L’écart entre les deux extrémités œsophagiennes n’excède pas trois vertèbres.
+Décrire la physiopathologie de l’atrésie de l’œsophage de type III.,À l’inspiration : l’air passe de la trachée vers l’estomac par la fistule inférieure → distension gastrique et diminution de la capacité vitale. À l’expiration et lors de la déglutition : la salive s’accumule dans le cul-de-sac supérieur → hypersialorrhée et fausses routes. Le reflux gastro-œsophagien par la fistule inférieure provoque des lésions pulmonaires de type Mendelson et favorise les infections respiratoires.
+Quels sont les signes permettant d’évoquer le diagnostic prénatal d’une atrésie de l’œsophage ?,Hydramnios (ou excès de liquide amniotique), absence de visualisation de l’estomac, éventuelle dilatation du cul-de-sac œsophagien cervical, et recherche systématique d’autres malformations associées.
+Comment pose-t-on le diagnostic d’atrésie de l’œsophage en salle de naissance ?,Vérification systématique de la perméabilité œsophagienne par passage d’une sonde gastrique. Si la sonde bute, on note la distance d’arrêt et on confirme par une radiographie thoraco-abdominale de face (sonde enroulée dans le cul-de-sac supérieur).
+Que montre la radiographie thoraco-abdominale dans l’atrésie de l’œsophage de type III ?,Sonde nasogastrique enroulée dans le cul-de-sac œsophagien supérieur dilaté, et présence d’air dans l’estomac et l’intestin (signe de la fistule inférieure).
+Quelle est la conduite à tenir néonatale immédiate devant une atrésie de l’œsophage ?,Position proclive à 45°, aspiration continue du cul-de-sac supérieur, ventilation spontanée en air ambiant (± O₂) ou ventilation artificielle à faible pression et fréquence élevée, protection thermique, et transfert médicalisé vers un service de chirurgie pédiatrique.
+Quels sont les principes du traitement chirurgical de l’atrésie de l’œsophage de type III ?,Fermeture de la fistule trachéo-œsophagienne inférieure et anastomose termino-terminale des deux culs-de-sac œsophagiens.
+Quelles sont les malformations les plus fréquemment associées à l’atrésie de l’œsophage ?,Anomalies cardiovasculaires (tétralogie de Fallot, CIV, coarctation…), anomalies vertébrales, et association VACTERL (Vertèbre, Anus, Cœur, Trachée, Œsophage, Radius, Rein).
+Pourquoi l’atrésie de l’œsophage est-elle considérée comme une « maladie pulmonaire » du nouveau-né ?,Parce que le nouveau-né « respire dans son ventre et déglutit dans sa trachée » : la fistule et le reflux entraînent une distension gastrique, une diminution de la capacité vitale et des lésions pulmonaires chimiques et infectieuses graves.

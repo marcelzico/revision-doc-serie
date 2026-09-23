@@ -1,0 +1,27 @@
+# CAS CLINIQUES : ANÉMIE MÉGALOCYTAIRE MÉGALOBLASTIQUE
+
+Chapitre: Anémie mégalocytaire mégaloblastique
+Chemin source: 5ème année\Hématologie\Anémie mégalocytaire mégaloblastique.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Anémie mégaloblastique
+
+Un homme de 55 ans présente une asthénie, une glossite et des paresthésies des membres inférieurs. NFS : Hb 7,8 g/dl, VGM 125 fl. Moelle mégaloblastique. Vitamine B12 très basse.
+
+1. Quel est le diagnostic le plus probable ?
+2. Quels sont les trois syndromes de la maladie de Biermer ?
+3. Quels examens confirment le diagnostic ?
+4. Quel est le traitement d’attaque ?
+5. Pourquoi le traitement est-il à vie ?
+
+Réponses attendues :
+
+1. Maladie de Biermer (carence en B12 par déficit en facteur intrinsèque).
+
+2. Syndrome anémique + signes digestifs + signes neurologiques.
+
+3. Dosage B12, tubage gastrique (achylie), test de Schilling, anticorps anti-FI.
+
+4. Cyanocobalamine 1 mg IM plusieurs fois par semaine puis entretien mensuel.
+
+5. Parce que le déficit en facteur intrinsèque est définitif.

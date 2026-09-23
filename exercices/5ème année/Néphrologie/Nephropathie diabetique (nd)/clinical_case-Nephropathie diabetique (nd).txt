@@ -1,0 +1,37 @@
+# CAS CLINIQUES : NEPHROPATHIE DIABETIQUE (ND)
+
+Chapitre: Nephropathie diabetique (nd)
+Chemin source: 5ème année\Néphrologie\Nephropathie diabetique (nd).docx
+--------------------------------------------------
+
+"Cas clinique – Néphropathie diabétique"
+
+Un homme de 48 ans, en surcharge pondérale, présente un HbA1c à 7,5 %. Vous lui annoncez le diagnostic de diabète de type 2. 
+
+Bilan de dépistage rénal :
+- Protidémie 64 g/l
+- Protéinurie/créatininurie = 95 mg/g
+- Créatininémie = 78 µmol/l
+
+Questions :
+
+1. A-t-il une atteinte rénale associée au diabète ? Si oui, à quel stade de Mogensen ?
+2. Argumentez votre réponse.
+3. Quel bilan de dépistage auriez-vous prescrit ?
+4. Quel traitement médicamenteux est utile dès maintenant ?
+5. Quelles lésions histologiques de base attendez-vous si une biopsie était réalisée à ce stade ?
+
+Réponses :
+
+1. Oui, néphropathie diabétique débutante (stade 3 de Mogensen).
+
+2. Présence d’une microalbuminurie (95 mg/g de créatininurie, soit entre 30 et 300 mg/24 h) avec fonction rénale encore normale et diabète récemment diagnostiqué.
+
+3. Dosage de l’albuminurie (ou rapport albumine/créatinine urinaire) + créatininémie avec estimation du DFG + bandelette urinaire (pour écarter une infection ou une hématurie).
+
+4. IEC ou ARA2 (même si le patient n’est pas encore hypertendu), associés à l’optimisation glycémique (HbA1c < 7 %) et au contrôle tensionnel (cible < 130/80 mmHg).
+
+5. Lésions histologiques encore minimes (stade 2-3) : épaississement de la membrane basale et expansion mésangiale débutante, sans nodules de Kimmelstiel-Wilson.
+
+Explication pédagogique :  
+Cas directement inspiré des QE (dépistage, interprétation de la microalbuminurie, stade de Mogensen et introduction précoce des IEC/ARA2).

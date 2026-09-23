@@ -1,0 +1,36 @@
+# CAS CLINIQUES : TUMEURS DE LA VESSIE
+
+Chapitre: Tumeurs de la vessie
+Chemin source: 5ème année\Urologie\Tumeurs de la vessie.docx
+--------------------------------------------------
+
+"Cas clinique – Tumeur de la vessie"
+
+Un homme de 62 ans, fumeur depuis 40 ans, consulte pour une hématurie terminale indolore avec caillots depuis 15 jours. Il n’a pas de troubles mictionnels associés. 
+
+Cytologie urinaire : cellules atypiques de haut grade. 
+Cystoscopie : tumeur végétante de 2 cm sur la face latérale droite. 
+Uroscanner : pas d’hydronéphrose ni de métastase visible.
+
+Questions :
+
+1. Quel diagnostic évoquez-vous en priorité ?
+2. Quel facteur de risque majeur est présent ?
+3. Quelle est la prochaine étape diagnostique et thérapeutique ?
+4. Comment classerez-vous cette tumeur après la RTUV ?
+5. Quel suivi est indispensable si la tumeur est non infiltrante ?
+
+Réponses :
+
+1. Tumeur de la vessie (carcinome urothélial probable).
+
+2. Tabagisme important et prolongé.
+
+3. Résection transurétrale de la tumeur (RTUV) avec analyse histologique complète (grade + stade d’invasion).
+
+4. Selon l’histologie : TVNIM (Ta, T1 ou Cis) ou TVIM (≥ T2).
+
+5. Surveillance endoscopique rapprochée (cystoscopies itératives) car le risque de récidive est de 60-80 %.
+
+Explication pédagogique :  
+Cas typique de découverte d’une tumeur vésicale sur hématurie chez un fumeur, illustrant la place de la RTUV et la surveillance des formes superficielles.

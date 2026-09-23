@@ -1,0 +1,25 @@
+# CAS CLINIQUES : ICTÈRE NÉO-NATAL
+
+Chapitre: Ictère néo-natal
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Ictère néo-natal.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Ictère néonatal
+
+Un nouveau-né à terme, J2 de vie, présente un ictère cutanéo-muqueux intense apparu à H18. La mère est de groupe O, l’enfant de groupe A. Test de Coombs direct positif. Bilirubine totale 280 μmol/L, libre prédominante. Pas de selles décolorées.
+
+Questions :
+1. Quel type d’ictère présente cet enfant et pourquoi est-il pathologique ?
+2. Quelle est l’étiologie la plus probable ?
+3. Quels facteurs de risque de neurotoxicité recherchez-vous ?
+4. Quelle est votre conduite thérapeutique immédiate ?
+5. Quel examen d’imagerie demanderez-vous si l’ictère était à bilirubine conjuguée ?
+6. Quel est le risque principal de l’ictère à bilirubine libre non traité ?
+
+Réponses attendues :
+1. Ictère à bilirubine libre pathologique (début < 24 h).
+2. Incompatibilité ABO (mère O / enfant A + Coombs positif).
+3. Hémolyse, acidose, hypoxie, hypoalbuminémie, infection, prématurité.
+4. Photothérapie intensive ± exsanguino-transfusion selon les seuils, surveillance de la bilirubinémie.
+5. Échographie des voies biliaires (recherche d’atrésie).
+6. Ictère nucléaire (encéphalopathie hyperbilirubinémique).

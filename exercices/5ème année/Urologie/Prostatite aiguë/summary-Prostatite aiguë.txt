@@ -1,0 +1,35 @@
+# CAS CLINIQUES : PROSTATITE AIGUË
+
+Chapitre: Prostatite aiguë
+Chemin source: 5ème année\Urologie\Prostatite aiguë.docx
+--------------------------------------------------
+
+"Cas clinique – Prostatite aiguë"
+
+Un homme de 32 ans consulte pour une fièvre à 40 °C avec frissons depuis 24 heures, associée à des brûlures mictionnelles intenses, une pollakiurie et une douleur périnéale. Il a eu un rapport sexuel non protégé 10 jours plus tôt. 
+
+Examen : TR très douloureux, prostate succulente et augmentée de volume. 
+Pas de masse fluctuante.
+
+Questions :
+
+1. Quel diagnostic posez-vous ?
+2. Quelle est la voie d’infection la plus probable ?
+3. Quels examens bactériologiques demandez-vous en urgence ?
+4. Quel traitement instituez-vous ?
+5. Quelle durée minimale d’antibiothérapie respectez-vous et pourquoi ?
+
+Réponses :
+
+1. Prostatite aiguë bactérienne.
+
+2. Voie ascendante (contamination à partir d’une urétrite probablement sexuellement transmise).
+
+3. ECBU + frottis urétral + hémocultures (fièvre élevée avec frissons).
+
+4. Bithérapie probabiliste (C3G + aminoside) puis relais par fluoroquinolone adaptée à l’antibiogramme, AINS les premiers jours, repos et hyperhydratation. Cathéter sus-pubien si rétention.
+
+5. Au moins 4 semaines pour éviter le passage à la chronicité.
+
+Explication pédagogique :  
+Cas typique de prostatite aiguë du sujet jeune, illustrant le tableau clinique, le TR et les règles d’antibiothérapie prolongée.

@@ -1,0 +1,25 @@
+# CAS CLINIQUES : CANCER DE L'ENFANT
+
+Chapitre: Cancer de l'enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Cancer de l'enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Cancer de l’enfant
+
+Un garçon de 3 ans est amené en consultation pour une masse abdominale découverte par la mère. L’enfant est en bon état général, apyrétique. À l’examen on palpe une masse ferme du flanc gauche avec contact lombaire. Pas d’hépatosplénomégalie ni d’adénopathie.
+
+Questions :
+1. Quelles sont les deux tumeurs rétropéritonéales principales à évoquer en priorité ?
+2. Quels examens d’imagerie demandez-vous en première intention et quels signes orientent vers chaque diagnostic ?
+3. Quels marqueurs biologiques demandez-vous et que recherchent-ils ?
+4. Quel est le schéma thérapeutique général d’une tumeur solide de l’enfant ?
+5. Quels sont les trois niveaux de prise en charge obligatoires avant de débuter le traitement ?
+6. Quel est le pronostic global des cancers de l’enfant par rapport à l’adulte ?
+
+Réponses attendues :
+1. Néphroblastome (tumeur de Wilms) et neuroblastome.
+2. Échographie abdominale puis TDM. Néphroblastome : tumeur rénale sans calcification. Neuroblastome : tumeur surrénalienne avec calcifications.
+3. Catécholamines urinaires (HVA, VMA) pour le neuroblastome ; AFP si suspicion de tumeur germinale.
+4. Chimiothérapie néo-adjuvante → chirurgie d’exérèse + anatomopathologie → traitement adjuvant (chimio ± radiothérapie).
+5. RCP, annonce du diagnostic avec soutien psychologique, accord parental aux soins.
+6. Pronostic nettement plus favorable (curabilité ≈ 80 % sous traitement adapté).

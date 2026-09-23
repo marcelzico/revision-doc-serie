@@ -1,0 +1,44 @@
+# CAS CLINIQUES : SYNDROME DE GOODPASTURE
+
+Chapitre: Syndrome de goodpasture
+Chemin source: 5ème année\Néphrologie\Syndrome de goodpasture.docx
+--------------------------------------------------
+
+"Cas clinique – Syndrome de Goodpasture"
+
+Un homme de 24 ans, fumeur, présente depuis 10 jours une hémoptysie de faible abondance associée à une hématurie macroscopique et une asthénie croissante. 
+
+Examen : PA 150/90 mmHg, râles crépitants bilatéraux, pâleur. 
+
+Bilan :
+- Créatininémie = 480 µmol/l (normale 15 jours plus tôt)
+- Protéinurie = 1,5 g/24 h
+- Hématurie massive
+- Anémie, gaz du sang : hypoxémie
+- Anticorps anti-MBG fortement positifs
+- ANCA négatifs
+
+Le lavage broncho-alvéolaire retrouve de nombreux sidérophages. La biopsie rénale montre des croissants extracapillaires et des dépôts linéaires d’IgG.
+
+Questions :
+
+1. Quel diagnostic retenez-vous ?
+2. Quels éléments clinico-biologiques et histologiques le confirment ?
+3. Quel est le mécanisme de l’atteinte ?
+4. Quel traitement d’attaque instituez-vous immédiatement ?
+5. Quel est le pronostic rénal si le traitement est débuté à ce stade ?
+
+Réponses :
+
+1. Syndrome de Goodpasture (glomérulonéphrite rapidement progressive à anticorps anti-MBG avec hémorragie alvéolaire).
+
+2. Syndrome pneumo-rénal, anticorps anti-MBG positifs, sidérophages au LBA, prolifération extracapillaire et dépôts linéaires d’IgG.
+
+3. Auto-anticorps dirigés contre la chaîne α3 du collagène IV de la membrane basale glomérulaire et alvéolaire.
+
+4. Bolus de méthylprednisolone + cyclophosphamide + échanges plasmatiques quotidiens jusqu’à négativation des anticorps anti-MBG, avec soutien de la fonction rénale (dialyse si besoin).
+
+5. Pronostic rénal réservé car la créatininémie est déjà très élevée ; la récupération dépend de la rapidité d’instauration du traitement et de l’importance des croissants.
+
+Explication pédagogique :  
+Cas typique de Goodpasture du sujet jeune fumeur, illustrant le syndrome pneumo-rénal, les dépôts linéaires et le triple traitement d’urgence.

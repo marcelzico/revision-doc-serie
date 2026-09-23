@@ -1,0 +1,60 @@
+# CAS CLINIQUES : CHOLÉCYSTITE AIGUE
+
+Chapitre: Cholécystite aigue
+Chemin source: 5ème année\Gastro-entérologie chirurgicale\Cholécystite aigue.docx
+--------------------------------------------------
+
+"Cas clinique – Cholécystite aiguë"
+
+Une femme de 48 ans présente depuis 24 heures une douleur brutale de l’hypochondre droit avec nausées et fièvre à 38,5 °C. 
+
+Examen : défense sous-costale droite, signe de Murphy positif, reste de l’abdomen souple. 
+NFS : hyperleucocytose à 14 000/mm³. 
+Échographie : vésicule à paroi épaissie (5 mm), calcul de 12 mm dans le collet, voies biliaires normales.
+
+Questions :
+
+1. Quel diagnostic posez-vous ?
+2. Quel est le mécanisme de cette affection ?
+3. Quels germes sont le plus souvent en cause ?
+4. Quel traitement médical instituez-vous en urgence ?
+5. Quel geste chirurgical réalisez-vous et dans quel délai idéal ?
+
+Réponses :
+
+1. Cholécystite aiguë lithiasique.
+
+2. Obstruction du canal cystique par le calcul.
+
+3. E. coli, Klebsiella, Enterococcus, Bacteroides, Pseudomonas.
+
+4. À jeun, perfusion, antalgiques et antibiotiques IV (C3G ou ciprofloxacine).
+
+5. Cholécystectomie (laparoscopique si possible) dans les 72 heures, avec cholangiographie peropératoire.
+
+Explication pédagogique :  
+Cas typique de cholécystite aiguë lithiasique, illustrant la clinique, l’échographie et la cholécystectomie précoce.
+
+
+
+CAS CLINIQUE – Cholécystite aiguë
+
+Une femme de 45 ans présente brutalement une douleur de l’hypochondre droit avec inhibition respiratoire, des nausées et une fièvre à 38,5 °C. L’examen trouve une défense sous-costale droite et un signe de Murphy positif.
+
+1. Quel est le diagnostic le plus probable ?
+2. Quelle est la physiopathologie de cette affection ?
+3. Quels signes échographiques attendez-vous ?
+4. Quels sont les principes du traitement ?
+5. Dans quel délai la chirurgie doit-elle idéalement être réalisée ?
+
+Réponses attendues :
+
+1. Cholécystite aiguë lithiasique.
+
+2. Obstruction du canal cystique par un calcul (± œdème) entraînant inflammation puis infection.
+
+3. Épaississement de la paroi vésiculaire > 3 mm, éventuellement dédoublée, calcul avec cône d’ombre postérieur.
+
+4. Traitement médical initial (à jeun, antalgiques, antibiotiques) puis cholécystectomie (laparoscopique de préférence) avec cholangiographie peropératoire.
+
+5. Dans les 72 heures (cholécystectomie précoce).

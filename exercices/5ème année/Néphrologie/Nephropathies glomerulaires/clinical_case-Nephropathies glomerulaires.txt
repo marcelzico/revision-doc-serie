@@ -1,0 +1,42 @@
+# CAS CLINIQUES : NEPHROPATHIES GLOMERULAIRES
+
+Chapitre: Nephropathies glomerulaires
+Chemin source: 5ème année\Néphrologie\Nephropathies glomerulaires.docx
+--------------------------------------------------
+
+"Cas clinique – Orientation diagnostique devant une néphropathie glomérulaire"
+
+Une femme de 32 ans consulte pour des œdèmes des membres inférieurs et une asthénie depuis 3 semaines. Elle signale également des arthralgies et un purpura des membres inférieurs. 
+
+Examen : PA 155/95 mmHg, œdèmes des membres inférieurs, purpura vasculaire. 
+
+Bilan :
+- Protéinurie = 4,5 g/24 h
+- Albuminémie = 24 g/l
+- Créatininémie = 145 µmol/l
+- Hématurie microscopique + cylindres hématiques
+- C3 et C4 abaissés
+- AAN positifs, anti-ADN positifs
+
+Questions :
+
+1. Quel grand syndrome glomérulaire présente cette patiente ?
+2. Quels signes de gravité identifiez-vous ?
+3. Quel bilan immunologique complémentaire est indispensable ?
+4. Quelle maladie systémique est la plus probable ?
+5. Quelle est l’attitude immédiate concernant la biopsie rénale et le traitement ?
+
+Réponses :
+
+1. Syndrome néphrotique impur (protéinurie néphrotique + hématurie + HTA + insuffisance rénale).
+
+2. Insuffisance rénale déjà présente, HTA et signes d’activité systémique (purpura, arthralgies, hypocomplémentémie).
+
+3. Dosage complet du complément, ANCA, anticorps anti-MBG, cryoglobulines et sérologies virales.
+
+4. Lupus érythémateux systémique (AAN + anti-ADN + hypocomplémentémie + atteinte multi-organes).
+
+5. Biopsie rénale en urgence pour classer la néphropathie lupique (surtout si suspicion de classe III ou IV) et débuter rapidement un traitement immunosuppresseur adapté + IEC + mesures de néphroprotection.
+
+Explication pédagogique :  
+Cas d’orientation diagnostique illustrant l’utilisation des grands syndromes glomérulaires, la recherche de signes de gravité et l’urgence de la biopsie dans un contexte systémique.

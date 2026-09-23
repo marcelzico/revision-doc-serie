@@ -1,0 +1,35 @@
+# CAS CLINIQUES : GÉNÉRALITÉS SUR L'INFECTION URINAIRE
+
+Chapitre: Généralités sur l'infection urinaire
+Chemin source: 5ème année\Urologie\Généralités sur l'infection urinaire.docx
+--------------------------------------------------
+
+"Cas clinique – Orientation devant une infection urinaire"
+
+Une femme de 45 ans, diabétique de type 2, consulte pour des brûlures mictionnelles, une pollakiurie et une fièvre à 38,5 °C depuis 24 heures. Elle a des antécédents de cystites à répétition (5 épisodes/an). 
+
+Bandelette : leucocytes +++ , nitrites +. 
+Pas de douleur lombaire franche.
+
+Questions :
+
+1. Cette infection urinaire est-elle simple ou compliquée ? Pourquoi ?
+2. Quel examen bactériologique demandez-vous et pourquoi ?
+3. Quel traitement antibiotique instituez-vous en première intention ?
+4. Quelles mesures associées sont indispensables ?
+5. Quel bilan complémentaire réalisez-vous compte tenu des récidives ?
+
+Réponses :
+
+1. Compliquée (terrain diabétique + récidives fréquentes + fièvre).
+
+2. ECBU avec antibiogramme avant toute antibiothérapie (terrain à risque et récidives).
+
+3. Antibiothérapie probabiliste (ex. fluoroquinolone ou C3G) adaptée secondairement à l’antibiogramme, pour une durée d’au moins 7-10 jours (voire plus selon l’évolution).
+
+4. Hydratation abondante, mictions régulières, contrôle glycémique optimal et mesures d’hygiène périnéale.
+
+5. Bilan urologique (échographie ± cystoscopie) à la recherche d’une cause organique favorisant les récidives.
+
+Explication pédagogique :  
+Cas illustrant la distinction IU simple/compliquée, la place de l’ECBU et la nécessité d’un bilan étiologique dès que les récidives sont fréquentes.

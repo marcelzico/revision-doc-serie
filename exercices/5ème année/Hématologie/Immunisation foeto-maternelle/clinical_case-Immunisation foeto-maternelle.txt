@@ -1,0 +1,27 @@
+# CAS CLINIQUES : IMMUNISATION FOETO-MATERNELLE
+
+Chapitre: Immunisation foeto-maternelle
+Chemin source: 5ème année\Hématologie\Immunisation foeto-maternelle.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Immunisation foeto-maternelle
+
+Une femme Rhésus négatif, G2P1, accouche d’un enfant qui présente un ictère cutanéo-muqueux intense dès les premières heures de vie, avec hépatosplénomégalie et anémie. Le test de Coombs direct de l’enfant est fortement positif.
+
+1. Quel diagnostic évoquez-vous en priorité ?
+2. Quels sont les arguments biologiques en faveur de ce diagnostic ?
+3. Quels sont les quatre tableaux cliniques possibles de cette affection ?
+4. Quelle est la prophylaxie à réaliser chez la mère ?
+5. Quel est le traitement de l’ictère grave avec bilirubinémie très élevée ?
+
+Réponses attendues :
+
+1. Maladie hémolytique du nouveau-né par immunisation foeto-maternelle (anti-D).
+
+2. Mère Rh(-) avec TCI positif, enfant Rh(+) avec TCD positif, anémie, hyperbilirubinémie libre.
+
+3. Avortement, anasarque foeto-placentaire, ictère grave néonatal, ictère nucléaire.
+
+4. Injection d’immunoglobulines anti-D dans les 72 heures (si non faite en ante-partum).
+
+5. Exsanguino-transfusion + traitements adjuvants (photothérapie, etc.).

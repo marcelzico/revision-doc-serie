@@ -1,0 +1,35 @@
+# CAS CLINIQUES : FRACTURE MANDIBULAIRE
+
+Chapitre: Fracture mandibulaire
+Chemin source: 5ème année\Stomatologie\Fracture mandibulaire.docx
+--------------------------------------------------
+
+"Cas clinique – Fracture mandibulaire"
+
+Un homme de 25 ans est victime d’une rixe. Il présente une douleur de l’angle mandibulaire gauche, un trismus et une malocclusion (contact prématuré des molaires gauches). 
+
+Examen : déformation palpable à l’angle gauche, mobilité anormale, hypoesthésie de la lèvre inférieure gauche. 
+Panoramique : trait de fracture de l’angle mandibulaire gauche passant par la 38.
+
+Questions :
+
+1. Quel type de fracture présente-t-il selon Dingman et Natvig ?
+2. Pourquoi cette fracture est-elle considérée comme ouverte ?
+3. Quel signe neurologique identifiez-vous et quelle est sa signification ?
+4. Quelles complications immédiates devez-vous surveiller ?
+5. Quels sont les principes du traitement ?
+
+Réponses :
+
+1. Fracture de la portion dentée (angle mandibulaire).
+
+2. Parce que le trait passe par une dent (38), communiquant avec la cavité buccale.
+
+3. Hypoesthésie labio-mentonnière gauche = atteinte du nerf alvéolaire inférieur (signe de Vincent).
+
+4. Détresse respiratoire et hémorragie.
+
+5. Antibiothérapie, réduction et ostéosynthèse (ou blocage intermaxillaire selon les cas) pour restaurer l’occlusion.
+
+Explication pédagogique :  
+Cas classique de fracture de l’angle mandibulaire, illustrant le caractère ouvert, le trouble occlusal et le signe de Vincent.

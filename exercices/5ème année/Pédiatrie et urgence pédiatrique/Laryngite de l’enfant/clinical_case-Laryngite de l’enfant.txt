@@ -1,0 +1,25 @@
+# CAS CLINIQUES : LARYNGITE DE L’ENFANT
+
+Chapitre: Laryngite de l’enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Laryngite de l’enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Laryngite aiguë
+
+Un garçon de 2 ans est amené à 2 h du matin pour une toux aboyante et une difficulté respiratoire apparues brutalement. Il a une rhinopharyngite depuis 2 jours. À l’examen : FR 35/min, tirage intercostal modéré, stridor au repos, entrée d’air diminuée, conscience normale, pas de cyanose. Température 38,2 °C.
+
+Questions :
+1. Quel type de laryngite évoquez-vous et quel est le score de Westley approximatif ?
+2. Quelle est l’étiologie la plus probable ?
+3. Quelle est votre conduite thérapeutique immédiate ?
+4. Quels signes feraient craindre une épiglottite ?
+5. Quels gestes sont formellement contre-indiqués en cas de suspicion d’épiglottite ?
+6. Quand hospitalisez-vous cet enfant ?
+
+Réponses attendues :
+1. Laryngite sous-glottique ; score autour de 4-5 (modérée).
+2. Virus para-influenzae.
+3. Humidification, corticothérapie, surveillance ; aérosol d’adrénaline si aggravation.
+4. Fièvre élevée, dysphagie, hypersialorrhée, position penchée en avant, voix étouffée, absence de toux.
+5. Allonger l’enfant, examiner le pharynx, radiographie ou fibroscopie.
+6. Si aggravation, score élevé ou doute sur une épiglottite.

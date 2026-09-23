@@ -1,0 +1,25 @@
+# CAS CLINIQUES : TUBERCULOSE DE L'ENFANT
+
+Chapitre: Tuberculose de l'enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Tuberculose de l'enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Tuberculose
+
+Un enfant de 3 ans, non vacciné par le BCG, a un oncle bacillifère. Il présente depuis 1 mois une toux, une fièvre vespérale et un amaigrissement. Radio : adénopathies hilaires bilatérales. IDR positive.
+
+Questions :
+1. Quel diagnostic évoquez-vous ?
+2. Quels examens demandez-vous pour confirmer ?
+3. Quel schéma thérapeutique instituez-vous ?
+4. Pourquoi recherchez-vous systématiquement le VIH ?
+5. Quelles formes graves imposeraient un traitement plus long ?
+6. Quels éléments surveillez-vous à chaque visite ?
+
+Réponses attendues :
+1. Tuberculose pulmonaire (maladie) chez un contact de cas bacillifère.
+2. Tubages gastriques (BAAR + culture), GeneXpert, éventuellement TDM.
+3. 2 RHZ / 4 RH.
+4. Co-infection fréquente et de mauvais pronostic.
+5. Méningite ou atteinte ostéo-articulaire (2 RHZE / 10 RH).
+6. Symptômes, adhérence, tolérance, poids (adaptation des doses).

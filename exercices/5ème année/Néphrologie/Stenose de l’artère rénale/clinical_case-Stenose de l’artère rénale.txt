@@ -1,0 +1,39 @@
+# CAS CLINIQUES : STENOSE DE L’ARTÈRE RÉNALE
+
+Chapitre: Stenose de l’artère rénale
+Chemin source: 5ème année\Néphrologie\Stenose de l’artère rénale.docx
+--------------------------------------------------
+
+"Cas clinique – Sténose de l’artère rénale"
+
+Un homme de 68 ans, tabagique et diabétique, hypertendu depuis 5 ans, présente une HTA devenue résistante à une trithérapie. Il a fait un épisode d’OAP brutal sans dysfonction ventriculaire gauche connue. L’introduction récente d’un IEC a fait monter sa créatininémie de 90 à 180 µmol/l. 
+
+Examen : PA 175/100 mmHg, souffle abdominal systolique. 
+
+Bilan :
+- Kaliémie = 3,2 mmol/l
+- Échographie : rein droit 9,5 cm, rein gauche 11,5 cm
+- Doppler : accélération franche du flux sur l’artère rénale droite avec index de résistance élevé
+
+Questions :
+
+1. Quel diagnostic évoquez-vous ?
+2. Quels arguments cliniques et paracliniques le soutiennent ?
+3. Quelle est l’étiologie la plus probable ?
+4. Quels examens complémentaires demandez-vous pour confirmer et préciser la lésion ?
+5. Quelle stratégie thérapeutique proposez-vous ?
+
+Réponses :
+
+1. Sténose de l’artère rénale droite responsable d’une HTA rénovasculaire.
+
+2. HTA résistante chez un sujet > 55 ans, OAP flash, dégradation de la fonction rénale sous IEC, hypokaliémie, asymétrie de taille des reins > 15 mm, souffle abdominal et signes Doppler de sténose.
+
+3. Athérome (terrain : âge, tabac, diabète).
+
+4. Angio-TDM ou angio-IRM pour préciser le siège (ostial ou tronculaire) et le degré de sténose, puis artériographie en vue d’un éventuel geste.
+
+5. Optimisation du traitement médical (arrêt de l’IEC temporairement si nécessaire), puis angioplastie ± stent de l’artère rénale droite, associée à un contrôle strict des facteurs de risque cardio-vasculaire.
+
+Explication pédagogique :  
+Cas typique de sténose athéromateuse, reprenant les indications de dépistage (HTA résistante, OAP flash, dégradation sous IEC) et la démarche diagnostique (points très fréquents en QE).

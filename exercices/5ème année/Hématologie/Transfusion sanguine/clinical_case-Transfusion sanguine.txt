@@ -1,0 +1,27 @@
+# CAS CLINIQUES : TRANSFUSION SANGUINE
+
+Chapitre: Transfusion sanguine
+Chemin source: 5ème année\Hématologie\Transfusion sanguine.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Transfusion sanguine
+
+Un patient de 45 ans présente une anémie sévère symptomatique (Hb 6,5 g/dL) dans un contexte chirurgical. Vous décidez de transfuser un concentré de globules rouges.
+
+1. Quelle est la définition de la transfusion sanguine ?
+2. Quels examens biologiques sont obligatoires avant la transfusion ?
+3. Quelles sont les règles de compatibilité ABO pour le sang total ?
+4. Quels sont les trois grands types de complications à surveiller ?
+5. Quels signes cliniques doivent faire arrêter immédiatement la transfusion ?
+
+Réponses attendues :
+
+1. Introduction de sang ou de produit dérivé manquant chez un receveur à partir d’un donneur (homologue ou autologue).
+
+2. Groupage ABO-Rh, phénotypage, RAI, compatibilité laboratoire + cross-match ultime au lit.
+
+3. Idéalement isogroupe ; en cas d’urgence, respect des règles de compatibilité (O universel donneur, AB universel receveur).
+
+4. Immunologiques, infectieuses et de surcharge.
+
+5. Céphalée, angoisse, vomissements, douleurs lombaires, frissons, fièvre, chute de tension, dyspnée…

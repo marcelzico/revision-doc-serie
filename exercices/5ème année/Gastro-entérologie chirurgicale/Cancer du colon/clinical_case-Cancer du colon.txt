@@ -1,0 +1,27 @@
+# CAS CLINIQUES : CANCER DU COLON
+
+Chapitre: Cancer du colon
+Chemin source: 5ème année\Gastro-entérologie chirurgicale\Cancer du colon.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Cancer du côlon
+
+Un homme de 62 ans présente depuis plusieurs mois une alternance de constipation et de diarrhée, des rectorragies et un amaigrissement. La coloscopie montre une tumeur sténosante du sigmoïde.
+
+1. Quel type histologique est le plus probable ?
+2. Quels sont les principaux facteurs de risque à rechercher ?
+3. Quel examen confirme le diagnostic et permet les biopsies ?
+4. Quels éléments du bilan d’extension demandez-vous ?
+5. Quels sont les principes du traitement d’une forme résécable ?
+
+Réponses attendues :
+
+1. Adénocarcinome (lieberkhünien le plus souvent).
+
+2. Âge > 50 ans, alimentation riche en viandes rouges/graisses, tabac, alcool, antécédents familiaux, polypes, MICI, PAF ou HNPCC.
+
+3. Coloscopie totale avec biopsies.
+
+4. Scanner thoraco-abdomino-pelvien, dosage de l’ACE, bilan d’opérabilité.
+
+5. Colectomie avec curage, marges suffisantes, ± chimiothérapie adjuvante selon le stade.

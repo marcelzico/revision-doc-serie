@@ -1,0 +1,35 @@
+# CAS CLINIQUES : TUMEUR CÉRÉBRALE
+
+Chapitre: Tumeur cérébrale
+Chemin source: 5ème année\Neurochirurgie\Tumeur cérébrale.docx
+--------------------------------------------------
+
+"Cas clinique – Tumeur cérébrale"
+
+Un homme de 52 ans présente depuis 2 mois des céphalées matinales progressives, des vomissements et une crise d’épilepsie inaugurale. 
+
+Examen : hémiparésie droite discrète. 
+IRM : lésion intra-axiale fronto-pariétale gauche, prenant le gadolinium de façon hétérogène, avec œdème péri-lésionnel important.
+
+Questions :
+
+1. Quel syndrome clinique reconnaissez-vous ?
+2. Quels arguments orientent vers une tumeur cérébrale ?
+3. Quel examen apporte la certitude de la nature de la lésion ?
+4. Quels traitements symptomatiques instituez-vous en attendant la chirurgie ?
+5. Quel est le principe du traitement principal ?
+
+Réponses :
+
+1. Syndrome d’hypertension intracrânienne + signes de focalisation + épilepsie inaugurale.
+
+2. Installation progressive, céphalées matinales, épilepsie de novo chez l’adulte et lésion prenant le contraste à l’IRM.
+
+3. Examen anatomopathologique (biopsie ou exérèse).
+
+4. Corticoïdes (anti-œdémateux), antiépileptiques et antalgiques / antiémétiques.
+
+5. Exérèse chirurgicale maximale de sécurité, suivie éventuellement de radiothérapie et/ou chimiothérapie selon l’histologie.
+
+Explication pédagogique :  
+Cas typique de tumeur cérébrale révélée par HTIC et épilepsie inaugurale, illustrant la place de l’IRM et de l’anatomopathologie.

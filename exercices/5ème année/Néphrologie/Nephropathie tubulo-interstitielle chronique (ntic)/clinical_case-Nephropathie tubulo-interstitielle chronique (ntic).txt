@@ -1,0 +1,41 @@
+# CAS CLINIQUES : NEPHROPATHIE TUBULO-INTERSTITIELLE CHRONIQUE (NTIC)
+
+Chapitre: Nephropathie tubulo-interstitielle chronique (ntic)
+Chemin source: 5ème année\Néphrologie\Nephropathie tubulo-interstitielle chronique (ntic).docx
+--------------------------------------------------
+
+"Cas clinique – Néphropathie tubulo-interstitielle chronique"
+
+Un homme de 55 ans, consommateur régulier d’AINS pour des lombalgies chroniques, consulte pour une fatigue et une polyurie-nycturie. Il n’a pas d’œdème. 
+
+Examen : PA 105/65 mmHg (alors que sa créatininémie est élevée), déshydratation extracellulaire modérée. 
+
+Bilan :
+- Créatininémie = 220 µmol/l
+- Protéinurie = 0,4 g/24 h
+- Leucocyturie sans nitrites ni culture positive
+- Natriurèse élevée
+- Échographie : reins de taille diminuée, contours irréguliers, pas d’obstacle actuel
+
+Questions :
+
+1. Quel type de néphropathie évoquez-vous en priorité ?
+2. Quels arguments cliniques et biologiques le soutiennent ?
+3. Quelle est la cause la plus probable dans ce contexte ?
+4. Quels autres examens complémentaires sont utiles ?
+5. Quelle prise en charge proposez-vous ?
+
+Réponses :
+
+1. Néphropathie tubulo-interstitielle chronique (NTIC).
+
+2. Tension artérielle anormalement basse pour un patient hyperurémique, polyurie-nycturie, protéinurie faible, leucocyturie stérile, natriurèse élevée et reins de taille réduite à contours irréguliers.
+
+3. Consommation chronique d’AINS (cause médicamenteuse classique).
+
+4. Recherche d’autres causes (échographie complète pour obstacle passé, bilan métabolique, éventuelle biopsie si doute diagnostique).
+
+5. Arrêt définitif des AINS, compensation des pertes sodées si besoin, hydratation adaptée, surveillance de la fonction rénale et traitement des complications de l’IRC.
+
+Explication pédagogique :  
+Cas typique de NTIC médicamenteuse, illustrant la discordance « créatinine élevée + tension basse » et la protéinurie faible avec leucocyturie stérile.

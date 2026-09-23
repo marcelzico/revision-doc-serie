@@ -1,0 +1,27 @@
+# CAS CLINIQUES : CIRRHOSE DU FOIE
+
+Chapitre: Cirrhose du foie
+Chemin source: 5ème année\Gastro-entérologie médicale\Cirrhose du foie.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Cirrhose du foie
+
+Un homme de 55 ans, alcoolique chronique, présente une ascite, des angiomes stellaires, une érythrose palmaire et un foie dur à bord tranchant. Le TP est à 45 %, l’albumine à 28 g/l.
+
+1. Quel est le diagnostic ?
+2. Quels signes d’hypertension portale et d’insuffisance hépatocellulaire présente-t-il ?
+3. Quelles sont les caractéristiques du liquide d’ascite attendues ?
+4. Quelles complications redoutez-vous ?
+5. Comment classez-vous la gravité de cette cirrhose ?
+
+Réponses attendues :
+
+1. Cirrhose du foie décompensée (alcoolique probable).
+
+2. HTP : ascite (± splénomégalie, circulation collatérale). IHC : angiomes stellaires, érythrose palmaire, TP bas, hypoalbuminémie.
+
+3. Transsudat (protides < 25 g/l), pauvre en cellules, stérile.
+
+4. Hémorragie digestive, infection du liquide d’ascite, encéphalopathie, carcinome hépatocellulaire, syndrome hépato-rénal.
+
+5. Score de Child-Pugh (à calculer précisément avec bilirubine et encéphalopathie) ; ici au moins stade B.

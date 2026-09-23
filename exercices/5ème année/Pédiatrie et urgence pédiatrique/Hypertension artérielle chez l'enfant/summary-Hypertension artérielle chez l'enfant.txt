@@ -1,0 +1,25 @@
+# CAS CLINIQUES : HYPERTENSION ARTÉRIELLE CHEZ L'ENFANT
+
+Chapitre: Hypertension artérielle chez l'enfant
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Hypertension artérielle chez l'enfant.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Hypertension artérielle
+
+Une fillette de 9 ans est vue pour des céphalées récurrentes et des épistaxis. PA mesurée à 3 reprises : 145/95 mmHg (largement au-dessus du 97,5ème percentile pour son âge et sa taille). Examen : souffle abdominal discret, pas d’œdème, fond d’œil normal.
+
+Questions :
+1. Confirmez-vous le diagnostic d’HTA et de quelle sévérité ?
+2. Quels organes cibles évaluez-vous ?
+3. Quel bilan de première intention demandez-vous ?
+4. Quelle étiologie évoquez-vous en priorité devant le souffle abdominal ?
+5. Quels sont les principes du traitement si l’HTA est confirmée sévère ?
+6. Pourquoi l’HTA essentielle est-elle rare à cet âge ?
+
+Réponses attendues :
+1. Oui : HTA confirmée à 3 mesures ; probablement sévère (> +10 mmHg au 97,5e).
+2. Cœur (échocardiographie), yeux (fond d’œil), reins (créatinine, protéinurie), cerveau (signes d’encéphalopathie).
+3. Bilan sanguin (créatinine, iono, lipidémie…), protéinurie, écho-Doppler rénal, ± échocardiographie et fond d’œil.
+4. Sténose d’artère rénale (cause rénovasculaire).
+5. Hospitalisation, IEC ± inhibiteur calcique, baisse progressive de la PA, mesures hygiéno-diététiques.
+6. Parce que 95 % des HTA de l’enfant sont secondaires.

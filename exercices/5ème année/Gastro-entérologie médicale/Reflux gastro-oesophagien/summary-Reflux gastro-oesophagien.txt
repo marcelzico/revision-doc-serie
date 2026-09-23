@@ -1,0 +1,27 @@
+# CAS CLINIQUES : REFLUX GASTRO-OESOPHAGIEN
+
+Chapitre: Reflux gastro-oesophagien
+Chemin source: 5ème année\Gastro-entérologie médicale\Reflux gastro-oesophagien.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Reflux gastro-œsophagien
+
+Un homme de 45 ans se plaint de brûlures rétrosternales post-prandiales remontant vers la gorge, aggravées lorsqu’il se penche en avant, associées à des régurgitations acides. L’examen clinique est normal.
+
+1. Quel est le diagnostic ?
+2. Quelle est la triade clinique caractéristique ?
+3. Faut-il réaliser une fibroscopie d’emblée ?
+4. Quelles complications redoutez-vous à long terme ?
+5. Quel examen complémentaire peut quantifier le reflux ?
+
+Réponses attendues :
+
+1. Reflux gastro-œsophagien typique.
+
+2. Pyrosis + régurgitations + syndrome postural.
+
+3. Non, sauf si âge > 50 ans, signes d’alarme ou résistance au traitement.
+
+4. Œsophagite, sténose peptique, endobrachy-œsophage et adénocarcinome.
+
+5. pH-métrie œsophagienne (ou pH-impédancemétrie).

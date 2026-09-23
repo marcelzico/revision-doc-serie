@@ -1,0 +1,35 @@
+# CAS CLINIQUES : DÉGÉNÉRESCENCE MACULAIRE LIÉE À L'ÂGE (DMLA)
+
+Chapitre: Dégénérescence maculaire liée à l'âge (DMLA)
+Chemin source: 5ème année\Ophtalmologie\Dégénérescence maculaire liée à l'âge (DMLA).docx
+--------------------------------------------------
+
+"Cas clinique – DMLA exsudative"
+
+Une femme de 72 ans, fumeuse, décrit depuis 3 semaines une baisse brutale de la vision de près de l’œil droit avec déformation des lignes droites (métamorphopsies). 
+
+Grille d’Amsler : distorsion marquée. 
+Fond d’œil : hémorragies et œdème maculaire droits.
+
+Questions :
+
+1. Quel diagnostic évoquez-vous ?
+2. Quels facteurs de risque sont présents ?
+3. Quelle forme de DMLA est la plus probable ?
+4. Quel traitement instituez-vous en première intention ?
+5. Quel examen permet de confirmer les néovaisseaux ?
+
+Réponses :
+
+1. DMLA de l’œil droit.
+
+2. Âge et tabagisme.
+
+3. Forme exsudative (humide) en raison de l’évolution rapide et des signes d’exsudation.
+
+4. Injections intravitréennes d’anti-VEGF.
+
+5. Angiographie à la fluorescéine et/ou OCT (non détaillé dans le cours mais classique).
+
+Explication pédagogique :  
+Cas typique de DMLA exsudative, illustrant les métamorphopsies, le rôle du tabac et le traitement par anti-VEGF.

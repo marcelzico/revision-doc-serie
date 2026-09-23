@@ -1,0 +1,27 @@
+# CAS CLINIQUES : DIARRHÉE AIGUË DE L’ADULTE
+
+Chapitre: Diarrhée aiguë de l’adulte
+Chemin source: 5ème année\Gastro-entérologie médicale\Diarrhée aiguë de l’adulte.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Diarrhée aiguë
+
+Un adulte de 30 ans présente depuis 2 jours des selles liquides abondantes (8/j), sans glaire ni sang, associées à des vomissements. Il revient d’un voyage en zone tropicale. Il est apyrétique mais présente des signes de déshydratation modérée.
+
+1. Quel type de diarrhée présente-t-il ?
+2. Quel germe est le plus probable dans ce contexte ?
+3. Quels signes de gravité recherchez-vous ?
+4. Quels examens demandez-vous ?
+5. Quels sont les deux grands mécanismes physiopathologiques possibles ?
+
+Réponses attendues :
+
+1. Diarrhée hydro-électrolytique (sécrétoire).
+
+2. E. coli entérotoxinogène (turista) ou vibrion cholérique.
+
+3. Déshydratation, collapsus, irritation péritonéale, durée prolongée.
+
+4. Ionogramme, fonction rénale, coproculture, KOP.
+
+5. Sécrétoire (toxines) et invasif (lésions muqueuses).

@@ -1,0 +1,25 @@
+# CAS CLINIQUES : CARDIOPATHIE CONGÉNITALE
+
+Chapitre: Cardiopathie congénitale
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Cardiopathie congénitale.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Cardiopathie congénitale
+
+Un nourrisson de 2 mois est amené pour une difficulté alimentaire et une stagnation pondérale. La mère signale une sudation importante pendant les tétées. À l’examen : souffle systolique intense, polypnée, hépatomégalie modérée. Pas de cyanose.
+
+Questions :
+1. Quel type de cardiopathie suspectez-vous en priorité et pourquoi ?
+2. Quels examens demandez-vous en première intention ?
+3. Quelles complications redoutez-vous si cette cardiopathie n’est pas traitée ?
+4. Quelle est la prise en charge thérapeutique générale des shunts gauche-droit significatifs ?
+5. Quels signes cliniques orienteraient plutôt vers une cardiopathie cyanogène ?
+6. Quels sont les deux éléments clés de l’investigation des cardiopathies congénitales ?
+
+Réponses attendues :
+1. Shunt gauche-droit (CIV ou PCA) : souffle, retentissement respiratoire et pondéral sans cyanose.
+2. Échographie Doppler cardiaque + radiographie thoracique + ECG.
+3. HTAP, insuffisance cardiaque, infections respiratoires répétées, Osler, et à terme syndrome d’Eisenmenger.
+4. Traitement médical de l’insuffisance cardiaque si besoin, puis fermeture chirurgicale ou percutanée selon le type et la taille.
+5. Cyanose, malaises, hippocratisme digital, polyglobulie.
+6. Examen clinique soigneux et échographie Doppler.

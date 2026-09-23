@@ -1,0 +1,25 @@
+# CAS CLINIQUES : PLEURÉSIE
+
+Chapitre: Pleurésie
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Pleurésie.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Pleurésie
+
+Un enfant de 5 ans présente depuis 4 jours une fièvre, une toux et une douleur basithoracique droite majorée par l’inspiration. À l’examen : matité de la base droite, abolition du murmure vésiculaire et des vibrations vocales. SpO2 94 % en air ambiant, FR 35/min.
+
+Questions :
+1. Quel syndrome clinique présente cet enfant ?
+2. Quels examens d’imagerie demandez-vous en première intention ?
+3. Quelle est votre attitude concernant la ponction pleurale ?
+4. Quels signes de gravité recherchez-vous ?
+5. Quelles étiologies évoquez-vous en priorité ?
+6. Quand indiqueriez-vous un drainage pleural ?
+
+Réponses attendues :
+1. Syndrome d’épanchement pleural liquidien droit.
+2. Radiographie thoracique + échographie pleurale systématique.
+3. Ponction systématique si épanchement ≥ 1 cm (avant ATB si possible).
+4. Détresse respiratoire, signes toxiniques, déviation médiastinale, bilatéralité.
+5. Causes infectieuses (pneumocoque, autres bactéries, virus, tuberculose).
+6. Grande abondance avec déviation médiastinale ou mauvaise tolérance clinique.

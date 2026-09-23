@@ -1,0 +1,25 @@
+# CAS CLINIQUES : FIÈVRE PROLONGÉE
+
+Chapitre: Fièvre prolongée
+Chemin source: 5ème année\Pédiatrie et urgence pédiatrique\Fièvre prolongée.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Fièvre prolongée
+
+Un enfant de 6 ans présente une fièvre quotidienne à 38,5-39 °C depuis 18 jours, sans foyer clinique évident. Il a perdu 1,5 kg, se plaint de sueurs nocturnes et d’une fatigue inhabituelle. L’examen trouve une adénopathie cervicale de 2 cm et une rate palpable. NFS : anémie modérée, hyperlymphocytose relative.
+
+Questions :
+1. La définition de fièvre prolongée est-elle remplie ?
+2. Quels éléments de l’interrogatoire et de l’examen sont prioritaires ?
+3. Quel bilan de première intention demandez-vous ?
+4. Quelles catégories étiologiques évoquez-vous en priorité ?
+5. Quels examens de deuxième intention envisagez-vous selon l’orientation ?
+6. Pourquoi faut-il conserver du plasma dès le début ?
+
+Réponses attendues :
+1. Oui : fièvre > 15 jours sans cause évidente.
+2. Voyage, contage tuberculeux, contact animaux, courbe thermique, sueurs, arthralgies, examen complet (FO, TR, os, peau, aires ganglionnaires).
+3. NFS, VS, hémocultures ×3, ECBU, sang occulte dans les selles, conservation de plasma.
+4. Infectieuse (tuberculose, endocardite, MNI/CMV) et néoplasique (leucémie, lymphome).
+5. Radio thorax + IDR, échographie abdominale, sérologies, éventuellement myélogramme.
+6. Pour permettre des sérologies ultérieures sans nouveau prélèvement.

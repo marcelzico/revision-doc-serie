@@ -1,0 +1,24 @@
+# CAS CLINIQUES : DIFFUSION - DISTRIBUTION DES MÉDICAMENTS
+
+Chapitre: Diffusion - distribution des médicaments
+Chemin source: 5ème année\Pharmacologie\Diffusion - distribution des médicaments.docx
+--------------------------------------------------
+
+CAS CLINIQUE – Diffusion-distribution
+
+Une patiente de 70 ans, hypoalbuminémique, reçoit un traitement par phénylbutazone (forte liaison protéique) associé à un anticoagulant oral.
+
+1. Quel est le risque pharmacocinétique principal de cette association ?
+2. Pourquoi l’hypoalbuminémie majore-t-elle ce risque ?
+3. Quels médicaments lipophiles passent facilement la barrière hémato-encéphalique ?
+4. Pourquoi les tétracyclines sont-elles contre-indiquées chez l’enfant en croissance ?
+
+Réponses attendues :
+
+1. Déplacement de l’anticoagulant de ses sites de fixation → augmentation de la fraction libre → risque hémorragique.
+
+2. Moins de sites de fixation disponibles → fraction libre plus élevée dès le départ.
+
+3. Les substances lipophiles non ionisées.
+
+4. Fixation sur les tissus en calcification (dents, cartilage de conjugaison) → coloration brune indélébile.

@@ -1,0 +1,36 @@
+# CAS CLINIQUES : LITHIASE URINAIRE
+
+Chapitre: Lithiase urinaire
+Chemin source: 5ème année\Urologie\Lithiase urinaire.docx
+--------------------------------------------------
+
+"Cas clinique – Lithiase urinaire / Colique néphrétique"
+
+Un homme de 38 ans, sans antécédent, présente depuis 4 heures une douleur lombaire droite très intense, irradiant vers la bourse, avec agitation et nausées. Il n’a pas de fièvre. 
+
+Examen : douleur vive à l’ébranlement de la fosse lombaire droite, abdomen souple. 
+Bandelette : hématurie ++ , pas de leucocytes ni nitrites. 
+ASP : opacité de 5 mm projetée sur le trajet de l’uretère lombaire droit.
+
+Questions :
+
+1. Quel diagnostic clinique posez-vous ?
+2. Quel est le mécanisme de la douleur ?
+3. Quel examen d’imagerie de référence confirmerait le diagnostic et préciserait le siège exact ?
+4. Quelle prise en charge symptomatique instituez-vous ?
+5. Quelles mesures préventives recommandez-vous après l’épisode ?
+
+Réponses :
+
+1. Colique néphrétique droite sur calcul urétéral (probablement calcique car radio-opaque).
+
+2. Mise en tension brutale de la voie excrétrice en amont de l’obstacle (calcul).
+
+3. Scanner abdomino-pelvien sans injection.
+
+4. AINS (si pas de contre-indication) ± antalgiques de palier 2, antispasmodiques, et hyperhydratation une fois la douleur calmée. Surveillance de l’expulsion du calcul.
+
+5. Boissons abondantes (> 2 L/j), régime adapté (limiter sel, oxalate, protéines animales selon le type de calcul), et bilan métabolique si récidive.
+
+Explication pédagogique :  
+Cas typique de colique néphrétique, illustrant la clinique, la place du scanner et les principes du traitement symptomatique + prévention des récidives (points centraux des QE).

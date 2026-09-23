@@ -1,0 +1,34 @@
+# CAS CLINIQUES : LES HYDROCEPHALIES DE L’ADULTE
+
+Chapitre: Les hydrocephalies de l’adulte
+Chemin source: 5ème année\Neurochirurgie\Les hydrocephalies de l’adulte.docx
+--------------------------------------------------
+
+"Cas clinique – Hydrocéphalie à pression normale"
+
+Un homme de 72 ans présente depuis plusieurs mois une marche à petits pas avec chutes répétées, des troubles de la mémoire et une incontinence urinaire. Il n’a pas de céphalées importantes. 
+
+TDM : dilatation ventriculaire avec effacement des sillons corticaux, sans obstacle visible.
+
+Questions :
+
+1. Quelle triade clinique reconnaissez-vous ?
+2. Quel type d’hydrocéphalie évoquez-vous ?
+3. Quel test diagnostique simple pouvez-vous réaliser ?
+4. Quel traitement est le plus souvent indiqué si le test est positif ?
+5. Quelles causes devez-vous rechercher ?
+
+Réponses :
+
+1. Triade d’Adams-Hakim (troubles de la marche, troubles cognitifs, incontinence).
+
+2. Hydrocéphalie chronique à pression normale.
+
+3. Ponction lombaire soustractive (amélioration clinique attendue).
+
+4. Dérivation du LCS (ventriculo-péritonéale le plus souvent).
+
+5. Antécédents d’hémorragie méningée, méningite, traumatisme ou chirurgie crânienne ; formes idiopathiques fréquentes.
+
+Explication pédagogique :  
+Cas classique d’hydrocéphalie à pression normale de l’adulte âgé, illustrant la triade d’Adams-Hakim et la place de la ponction soustractive.
